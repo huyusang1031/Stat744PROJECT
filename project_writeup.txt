@@ -1,0 +1,38 @@
+Data set
+Airbnb is an online marketplace for offering primarily homestays or tourism experiences. It is increasingly popular in these years, more people are 
+interested in becoming a renter to rent out their house or a tenant to rent a house instead of hotels. It is low cost, friendly, self managed, and easy to 
+use. In this project, we will use several data sets to understand the Airbnb rental landscape in Victoria, BC, which is helpful for both potential tenants 
+and potential renters. The top most goal of this project is helping potential renters to find the most valuable property (i.e. neighbourhood group, 
+room type) to invest in, also, this project can help potential tenants to understand their preferred listing. The data sets are sourced from the Inside 
+Airbnb. It is an open access archives with Airbnb records around the world. We will use the data set that record Victoria¡¯s all listings¡¯ information 
+from September, 2018 to September, 2019, twelve data sets in total, each data set represents one month. The attribute that we will use in each data 
+set are each listing¡¯s price, room type and neighbourhood group. Room type is a factor which includes 3 levels: private room, entire home/apt, 
+shared room; neighbourhood group is a factor which includes 16 levels.
+
+First Plot (Introduction & Method)
+In the first plot, our main goal is showing the monthly average price fluctuation for each room type for each neighbourhood. We will use shiny and plotly
+in the first plot. First, we will do a data set clean up. We will delete all extremely high price because such kind of prices are looks abnormal; we will delete 
+all listings that belong to 'hotel room', because it's a new room type that first appears on August, 2019, so it's too short to compare. Two input values are 'neighbrouhood group' 
+and 'room type', uses can select any of 16 neighbourhood and 3 room type to see the average price fluctuation for each room type for each neighbourhood.
+In the main panel, we will draw an interactive graph which includes several lines, where month is the x-axis and average price is the y-axis. 16 neighbourhood will be 
+distinguished by different colors, and 3 room types will be distinguished by different line type. For example, now we want to know the information of private room (assume 
+dash line presents private room) in the first neighbourhood (assume red presents the first neighbourhood) in January, then a tooltip will be shown 
+and display some useful information when we hover over the point which is above the label ¡®January¡¯ and on the red dash line. This interactive line plot
+can show some basic information for each room type for each neighbourhood, and it is easy to observe the trend of price fluctuation from Sep, 2018 to Sep, 2019. 
+In the side panel, we will draw a bar plot where x-axis represents neighbourhood group, y-axis represents log-price difference in precentage between 
+Sep, 2018 and Sep, 2019, and room types are distinguished by different colors. This bar plot can give some information that interactive line plot cannot give.
+For example, the only information that the interactive line plot can provide are a point's basic information (i.e. time, neighbourhood) and the trend of price
+fluctuation for each room type for each neighbourhood, it's very hard for interactive line plot to compare the price fluctuation if the trend of two or more lines are looks very similar, instead, bar plot
+will represent comparisons clearly.
+These two plots help potential renters to understand which room type or neighbourhood is worth to invest in.  Also, they help potential tenants to understand the Airbnb rental landscape in Victoria and therefore they are able to draw up 
+a plan ahead of schedule. For example, if a single potential tenant plans to travel to Victoria, but hasn¡¯t decided the time yet, after looking at this 
+plot, he can compare the average price for private room in each neighbourhood in each month, and then decides when to go and where to live.
+
+Second plot
+The second plot is a heat map which shows the distribution of different type of properties. When users click on a neighborhood on the map, the 
+textbox on left side which show a summary about the properties in corresponding neighborhood. The summary includes how many properties of 
+different types are available for rent. For example, there will be 40 single house, 50 townhouse, 80 apartments, etc. It will also give information about 
+average rental price for each type and the changing rate over month. Colored points will be used to indicate different types of properties. When 
+users click on points on the map, a text box will pop up and gives out the information of that property. It may contain the room type, number of 
+room, number of washroom, rental price, etc.
+The map will also include the levels of the listings price for different neighbourhood. This could potentially help find some attracting locations within the neighbourhood. We could also overlay the price increasing rate on the heat map. It may be interesting to people who listing.
