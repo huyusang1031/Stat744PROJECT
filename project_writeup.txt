@@ -31,9 +31,13 @@ plot, he can compare the average price for private room in each neighbourhood in
 Second plot
 
 Our interactive plot displays all the listings on a map. shiny and leaflet is used. Users can provide input through the choose
-neighborhood option. Here are the sixteen neighbourhoods, including Burnside, Central Stanch and Victoria West. For each chosen neighborhood or several neighbourhoods, we will show the average price for different room types. we use geom_bar to plot the mean 
+neighborhood option. Here are the sixteen neighbourhoods, including Burnside, Central Stanch and Victoria West. For each chosen
+neighborhood or several neighbourhoods, we will show the average price for different room types. we use geom_bar to plot the mean 
 price point for different room_type for a given selection of neighborhoods. Given chosen neighborhood, total listings for different
 room_types are also displayed. When users click on the listings points on the map, corresponding information will also show. 
 For example, number of bedrooms and bathrooms. Note that  listing markers are clustered with a polygon. This is achieved through
 clusterOptions within addMarkers function from leaflet. There is also a heat map show the distribution of properties. It may be
-interesting to people find out the listing.
+interesting to people find out the listing. To calculate the average price for different room_type, we first filter the data by 
+room_type and then summarize with average price. we use geom_bar to plot the mean price point for different room_type for a given
+selection of neighborhoods. To plot the heat map, we used heat map function from the leaflet.extras package. It might seem like the
+heat.colors is an appropriate color scheme. For the zoom parameter inside the setView option, maybe zoom=13 is suitable.
