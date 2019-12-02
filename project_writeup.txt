@@ -40,4 +40,4 @@ clusterOptions within addMarkers function from leaflet. There is also a heat map
 interesting to people find out the listing. To calculate the average price for different room_type, we first filter the data by 
 room_type and then summarize with average price. To plot the heat map, we used heat map function from the leaflet.extras package. 
 It might seem like the heat.colors is an appropriate color scheme. For the zoom parameter inside the setView option, 
-maybe zoom=13 is suitable.
+maybe we can choose zoom=13.
