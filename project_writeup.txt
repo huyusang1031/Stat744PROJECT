@@ -38,6 +38,6 @@ room_types are also displayed. When users click on the listings points on the ma
 For example, number of bedrooms and bathrooms. Note that  listing markers are clustered with a polygon. This is achieved through
 clusterOptions within addMarkers function from leaflet. There is also a heat map show the distribution of properties. It may be
 interesting to people find out the listing. To calculate the average price for different room_type, we first filter the data by 
-room_type and then summarize with average price. we use geom_bar to plot the mean price point for different room_type for a given
-selection of neighborhoods. To plot the heat map, we used heat map function from the leaflet.extras package. It might seem like the
-heat.colors is an appropriate color scheme. For the zoom parameter inside the setView option, maybe zoom=13 is suitable.
+room_type and then summarize with average price. To plot the heat map, we used heat map function from the leaflet.extras package. 
+It might seem like the heat.colors is an appropriate color scheme. For the zoom parameter inside the setView option, 
+maybe zoom=13 is suitable.
