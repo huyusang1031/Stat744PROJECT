@@ -6,8 +6,7 @@ library(ggplot2)
 library(dplyr)
 library(RColorBrewer)
 
-setwd("~/Desktop/Statistics/Stats744/project/")
-df <- read.csv("~/Desktop/Statistics/Stats744/project/listing1909.csv")
+df <- read.csv("listing1909.csv")
 #df <- select(df,neighbourhood_group_cleansed, latitude, longitude, room_type, bathrooms, bedrooms, price)
 #is.na(df)
 df$lat <- df$latitude
