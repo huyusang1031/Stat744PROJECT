@@ -6,8 +6,9 @@ library(ggplot2)
 library(dplyr)
 library(RColorBrewer)
 
-df <- read.csv("listings19.csv")
-df <- select(df,neighbourhood_group_cleansed, latitude, longitude, room_type, bathrooms, bedrooms, price)
+setwd("~/Desktop/Statistics/Stats744/project/")
+df <- read.csv("~/Desktop/Statistics/Stats744/project/listing1909.csv")
+#df <- select(df,neighbourhood_group_cleansed, latitude, longitude, room_type, bathrooms, bedrooms, price)
 #is.na(df)
 df$lat <- df$latitude
 df$lon <- df$longitude
@@ -47,6 +48,19 @@ shinyApp(
                      multiple=TRUE,
                      options=list(maxItems=16, placeholder='Select a neighbourhood')
       ),
+      selectInput(inputId =  "yearmonth:",
+                  label="Year-Month",
+                  choices=  c("201909" = "1909",
+                              "201908" = "1908",
+                              "201907" = "1907",
+                              "201906" = "1906",
+                              "201905" = "1905",
+                              "201904" = "1904",
+                              "201903" = "1903",
+                              "201902" = "1902",
+                              "201901" = "1901"
+                  )
+      ),
       br(),
       verbatimTextOutput("summary1"),
       br(),
@@ -66,6 +80,8 @@ shinyApp(
     dat <- reactive({
       #test <- subset(df, neighbourhood_group_cleansed==input$Neighbourhood_group)
       #print(test)
+      df <- read.csv(paste0("listing",input$yearmonth,".csv"))
+      df$price <- as.numeric(df$price)
       test <- filter(df, neighbourhood_group_cleansed %in% input$Neighbourhood_group)
     })
     #output$plot <- renderPlotly({
@@ -85,22 +101,23 @@ shinyApp(
       # z=kde2d$fhat
       # CL=contourLines(x,y,z)
       map1=leaflet(dat()) %>%
-        setView(lng=cen_lon, lat=cen_lat, zoom=13) %>%
+        setView(lng=cen_lon, lat=cen_lat, zoom=14) %>%
         addTiles() %>%
-        addMarkers(~longitude, ~latitude,
-                   #labelOptions = labelOptions(noHide = F),
-                   clusterOptions = markerClusterOptions(),
-                   popup = ~paste("room type:", room_type,"<br>",
-                                  "price:", price,"<br>",
-                                  "number of bedrooms:", bedrooms, "<br>",
-                                  "number of bathrooms:", bathrooms)
+             addMarkers(~longitude, ~latitude,
+                              #labelOptions = labelOptions(noHide = F),
+                              clusterOptions = markerClusterOptions(),
+                              popup = ~paste("room type:", room_type,"<br>",
+                                             "price:", price,"<br>",
+                                             "number of bedrooms:", bedrooms, "<br>",
+                                             "number of bathrooms:", bathrooms)
         ) %>%
         addProviderTiles(providers$Stamen.TonerLines, options=providerTileOptions(opacity = 0.2)) %>%
         addProviderTiles("CartoDB.Positron.Position") 
       map1 %>% addHeatmap(lng=~longitude, lat=~latitude, intensity=~price, gradient = 
                             #                            heat.colors(20), 
                             "OrRd",
-                          blur=20, max=100, radius=8)
+                          blur=20, max=100, radius=8) %>%
+        addLegend(pal=pal, values=~price, position="bottomright")
       
     })
     output$summary1 <- renderPrint({
@@ -114,7 +131,8 @@ shinyApp(
     })
     output$listplot1 <- renderPlot({
       dataset <- dat()
-      ggplot(dataset,aes(x=room_type))+geom_bar() + xlab("room type") + 
+      ggplot(dataset,aes(x=room_type))+geom_bar() + 
+        xlab("room type") + 
         ylab("number of listing")+theme_bw()
     })
     # output$priceplot1 <- renderPlot({
@@ -125,8 +143,12 @@ shinyApp(
     #     ylab("average price")+theme_bw()
     # })
     output$priceplot1 <- renderPlot({
-      ggplot(dat(),aes(x=room_type, y=price))+geom_boxplot() + xlab("room type") + 
-        ylab("price")+theme_bw()
+      ggplot(dat(),aes(x=price)) +
+        geom_histogram(binwidth = 10,colour="black",fill="white")+ xlab("Price") +
+        scale_x_continuous(breaks=seq(0,300,20))+
+        ylab("Number")+theme_bw()+ggtitle("The distribution of price")+
+        geom_vline(aes(xintercept=mean(price,na.rm=T)), color="red", linetype="dashed",
+                   size=1)
     })
   }
 )
