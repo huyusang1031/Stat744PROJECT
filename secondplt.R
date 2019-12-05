@@ -6,7 +6,7 @@ library(ggplot2)
 library(dplyr)
 library(RColorBrewer)
 
-df <- read.csv("listing1909.csv")
+df <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot3data/listing1909.csv")
 #df <- select(df,neighbourhood_group_cleansed, latitude, longitude, room_type, bathrooms, bedrooms, price)
 #is.na(df)
 df$lat <- df$latitude
@@ -79,7 +79,7 @@ shinyApp(
     dat <- reactive({
       #test <- subset(df, neighbourhood_group_cleansed==input$Neighbourhood_group)
       #print(test)
-      df <- read.csv(paste0("listing",input$yearmonth,".csv"))
+      df <- read.csv(paste0("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot3data/listing",input$yearmonth,".csv"))
       df$price <- as.numeric(df$price)
       test <- filter(df, neighbourhood_group_cleansed %in% input$Neighbourhood_group)
     })
