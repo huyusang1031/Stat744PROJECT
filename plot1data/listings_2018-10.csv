@@ -1,0 +1,3353 @@
+﻿id,last_scraped,neighbourhood_group_cleansed,property_type,price
+1591,2018-10-17,Victoria,Bed and breakfast,$219.00 
+14560,2018-10-17,Colwood,Condominium,$132.00 
+16776,2018-10-17,Sidney,Other,$842.00 
+47421,2018-10-17,Victoria,Apartment,$100.00 
+54423,2018-10-17,Victoria,Apartment,$110.00 
+83515,2018-10-17,Salt Spring Island,Guest suite,$165.00 
+121235,2018-10-17,Central Saanich,House,$350.00 
+138163,2018-10-17,Southern Gulf Islands,Cabin,$159.00 
+168460,2018-10-17,Victoria,House,$200.00 
+171904,2018-10-17,Victoria,House,$60.00 
+179318,2018-10-17,Victoria,Loft,$159.00 
+185732,2018-10-17,Highlands,House,$200.00 
+193366,2018-10-17,Victoria,Guest suite,$165.00 
+200672,2018-10-17,Victoria,Apartment,$140.00 
+201427,2018-10-17,Highlands,House,$69.00 
+201441,2018-10-17,Highlands,House,$139.00 
+203416,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+203866,2018-10-17,Victoria,Guest suite,$89.00 
+210677,2018-10-17,Victoria,House,$356.00 
+212267,2018-10-17,Victoria,House,$119.00 
+225431,2018-10-17,Victoria,House,$75.00 
+226028,2018-10-17,Victoria,House,$170.00 
+226030,2018-10-17,Victoria,House,$250.00 
+237053,2018-10-17,Victoria,Bed and breakfast,$89.00 
+239129,2018-10-17,Victoria,Loft,$108.00 
+250576,2018-10-17,Victoria,House,$51.00 
+259984,2018-10-17,Victoria,Apartment,$99.00 
+266463,2018-10-17,Juan de Fuca,House,$124.00 
+306192,2018-10-17,Sooke,Guesthouse,$150.00 
+326869,2018-10-17,Langford,Guest suite,$109.00 
+330264,2018-10-17,Saanich,House,$64.00 
+330706,2018-10-17,Victoria,Condominium,$109.00 
+348606,2018-10-17,Victoria,Guest suite,$150.00 
+394086,2018-10-17,Victoria,House,$110.00 
+401073,2018-10-17,Victoria,Apartment,$149.00 
+405558,2018-10-17,Victoria,Apartment,$119.00 
+408315,2018-10-17,Sidney,House,$347.00 
+410541,2018-10-17,Victoria,Apartment,$109.00 
+410542,2018-10-17,Victoria,Apartment,$119.00 
+410918,2018-10-17,Victoria,Condominium,$0.00 
+416786,2018-10-17,Victoria,House,$168.00 
+417778,2018-10-17,Victoria,House,$121.00 
+449236,2018-10-17,Salt Spring Island,Bed and breakfast,$175.00 
+455929,2018-10-17,North Saanich,House,$950.00 
+461498,2018-10-17,Victoria,Apartment,$119.00 
+461499,2018-10-17,Victoria,Apartment,$130.00 
+463027,2018-10-17,Victoria,Apartment,$130.00 
+466191,2018-10-17,Victoria,House,$385.00 
+472025,2018-10-17,Salt Spring Island,Bed and breakfast,$196.00 
+477099,2018-10-17,Victoria,Townhouse,$288.00 
+479450,2018-10-17,Victoria,Apartment,$115.00 
+499085,2018-10-17,Victoria,House,$135.00 
+499119,2018-10-17,Victoria,Loft,$115.00 
+512926,2018-10-17,Metchosin,Guesthouse,$200.00 
+514811,2018-10-17,Saanich,Apartment,$75.00 
+515418,2018-10-17,Victoria,Apartment,$80.00 
+523926,2018-10-17,Victoria,House,$70.00 
+528492,2018-10-17,Victoria,Apartment,$205.00 
+532854,2018-10-17,Esquimalt,House,$52.00 
+537710,2018-10-17,Salt Spring Island,Apartment,$226.00 
+539214,2018-10-17,Salt Spring Island,Apartment,$200.00 
+555737,2018-10-17,Victoria,Guest suite,$104.00 
+559726,2018-10-17,Victoria,Apartment,$109.00 
+561477,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+571258,2018-10-17,Sooke,Apartment,$80.00 
+594158,2018-10-17,Salt Spring Island,Guest suite,$130.00 
+611059,2018-10-17,Salt Spring Island,Guesthouse,$150.00 
+624238,2018-10-17,Oak Bay,House,$649.00 
+644821,2018-10-17,Saanich,House,$51.00 
+660733,2018-10-17,Victoria,Apartment,$119.00 
+665727,2018-10-17,Victoria,House,$175.00 
+666592,2018-10-17,Victoria,Apartment,$119.00 
+668372,2018-10-17,View Royal,Guest suite,$110.00 
+683666,2018-10-17,Southern Gulf Islands,Camper/RV,$110.00 
+687407,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+702671,2018-10-17,Oak Bay,House,$325.00 
+704843,2018-10-17,Esquimalt,House,$264.00 
+734855,2018-10-17,Oak Bay,House,$185.00 
+739975,2018-10-17,Saanich,Guest suite,$124.00 
+746413,2018-10-17,Oak Bay,House,$159.00 
+757490,2018-10-17,Southern Gulf Islands,House,$280.00 
+765246,2018-10-17,Salt Spring Island,Cabin,$200.00 
+773339,2018-10-17,Colwood,Apartment,$80.00 
+774824,2018-10-17,Victoria,House,$99.00 
+775220,2018-10-17,Juan de Fuca,House,$250.00 
+775418,2018-10-17,Esquimalt,Apartment,$100.00 
+784093,2018-10-17,Victoria,Bed and breakfast,$80.00 
+811395,2018-10-17,Saanich,House,$233.00 
+813269,2018-10-17,Saanich,House,$45.00 
+823111,2018-10-17,Colwood,Guest suite,$69.00 
+863030,2018-10-17,Salt Spring Island,Cabin,$150.00 
+870864,2018-10-17,Esquimalt,Apartment,$61.00 
+873616,2018-10-17,Sidney,Guest suite,$189.00 
+873876,2018-10-17,Victoria,House,$250.00 
+876406,2018-10-17,Victoria,Bungalow,$165.00 
+892692,2018-10-17,Victoria,House,$189.00 
+908514,2018-10-17,Langford,House,$175.00 
+910427,2018-10-17,Southern Gulf Islands,Cabin,$88.00 
+920656,2018-10-17,Juan de Fuca,Guesthouse,$89.00 
+936367,2018-10-17,Victoria,Guest suite,$86.00 
+939467,2018-10-17,Southern Gulf Islands,Nature lodge,$579.00 
+955575,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+957677,2018-10-17,Juan de Fuca,House,$105.00 
+966412,2018-10-17,Victoria,House,$349.00 
+973849,2018-10-17,Victoria,Apartment,$119.00 
+978771,2018-10-17,Victoria,Bed and breakfast,$69.00 
+985260,2018-10-17,Metchosin,Cabin,$180.00 
+990566,2018-10-17,Juan de Fuca,Apartment,$100.00 
+1011868,2018-10-17,Victoria,House,$121.00 
+1015996,2018-10-17,Oak Bay,House,$324.00 
+1021978,2018-10-17,Victoria,Bed and breakfast,$140.00 
+1024578,2018-10-17,Saanich,House,$108.00 
+1038822,2018-10-17,Victoria,Apartment,$119.00 
+1055500,2018-10-17,Victoria,Bed and breakfast,$115.00 
+1079545,2018-10-17,Victoria,House,$110.00 
+1080149,2018-10-17,Salt Spring Island,Cabin,$150.00 
+1080266,2018-10-17,Salt Spring Island,Cabin,$226.00 
+1080594,2018-10-17,Victoria,Bed and breakfast,$105.00 
+1091391,2018-10-17,Victoria,Apartment,$70.00 
+1114544,2018-10-17,Salt Spring Island,Bed and breakfast,$150.00 
+1114575,2018-10-17,Salt Spring Island,Bed and breakfast,$185.00 
+1152057,2018-10-17,Victoria,House,$130.00 
+1156460,2018-10-17,Oak Bay,House,$340.00 
+1164613,2018-10-17,Colwood,Apartment,$200.00 
+1174303,2018-10-17,Southern Gulf Islands,Cottage,$200.00 
+1175299,2018-10-17,Saanich,House,$60.00 
+1186322,2018-10-17,North Saanich,Bed and breakfast,$175.00 
+1186607,2018-10-17,North Saanich,Apartment,$175.00 
+1193251,2018-10-17,Victoria,Loft,$135.00 
+1194953,2018-10-17,Saanich,Guest suite,$60.00 
+1226283,2018-10-17,Saanich,Apartment,$115.00 
+1237030,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+1244138,2018-10-17,Saanich,Condominium,$71.00 
+1288741,2018-10-17,Oak Bay,House,$80.00 
+1295158,2018-10-17,Southern Gulf Islands,Cottage,$200.00 
+1298140,2018-10-17,Victoria,Apartment,$70.00 
+1301515,2018-10-17,Victoria,Guest suite,$45.00 
+1313697,2018-10-17,Victoria,House,$130.00 
+1345737,2018-10-17,Victoria,Apartment,$135.00 
+1345746,2018-10-17,Victoria,House,$100.00 
+1352283,2018-10-17,Victoria,Apartment,$62.00 
+1352981,2018-10-17,Southern Gulf Islands,House,$240.00 
+1375505,2018-10-17,Saanich,Bungalow,$54.00 
+1393334,2018-10-17,Victoria,Other,$130.00 
+1414651,2018-10-17,Salt Spring Island,Guesthouse,$121.00 
+1429004,2018-10-17,Salt Spring Island,House,$258.00 
+1431103,2018-10-17,Juan de Fuca,Guest suite,$89.00 
+1437207,2018-10-17,Victoria,House,$119.00 
+1438200,2018-10-17,Southern Gulf Islands,Castle,$500.00 
+1439161,2018-10-17,Victoria,Other,$78.00 
+1446069,2018-10-17,Salt Spring Island,Bed and breakfast,$60.00 
+1460894,2018-10-17,North Saanich,Guest suite,$110.00 
+1471669,2018-10-17,Victoria,Condominium,$115.00 
+1535322,2018-10-17,Sooke,House,$130.00 
+1538085,2018-10-17,Victoria,House,$89.00 
+1615147,2018-10-17,Victoria,Apartment,$100.00 
+1625194,2018-10-17,Victoria,Condominium,$109.00 
+1636029,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+1656504,2018-10-17,Salt Spring Island,Bed and breakfast,$145.00 
+1672595,2018-10-17,Victoria,Condominium,$172.00 
+1672677,2018-10-17,Victoria,Condominium,$193.00 
+1672868,2018-10-17,Salt Spring Island,Cabin,$124.00 
+1683153,2018-10-17,Juan de Fuca,Apartment,$124.00 
+1717474,2018-10-17,Victoria,House,$76.00 
+1720832,2018-10-17,Southern Gulf Islands,Earth house,$159.00 
+1725342,2018-10-17,Juan de Fuca,Cottage,$340.00 
+1738396,2018-10-17,Victoria,Loft,$205.00 
+1766713,2018-10-17,Victoria,House,$255.00 
+1769556,2018-10-17,Victoria,House,$58.00 
+1781080,2018-10-17,Victoria,Guest suite,$123.00 
+1807413,2018-10-17,Sooke,House,$130.00 
+1807550,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+1825544,2018-10-17,Sidney,Boat,$185.00 
+1826554,2018-10-17,Sidney,Apartment,$99.00 
+1892593,2018-10-17,Saanich,Bungalow,$95.00 
+1897071,2018-10-17,Victoria,Condominium,$200.00 
+1897266,2018-10-17,Saanich,Guest suite,$111.00 
+1904895,2018-10-17,North Saanich,House,$159.00 
+1913546,2018-10-17,Salt Spring Island,House,$450.00 
+1929683,2018-10-17,Victoria,House,$100.00 
+1948248,2018-10-17,Victoria,Loft,$89.00 
+1979822,2018-10-17,Victoria,House,$25.00 
+1983751,2018-10-17,Saanich,House,$150.00 
+1993822,2018-10-17,Victoria,Apartment,$86.00 
+2008430,2018-10-17,Victoria,House,$40.00 
+2015937,2018-10-17,Southern Gulf Islands,Cabin,$200.00 
+2027067,2018-10-17,Salt Spring Island,Guesthouse,$100.00 
+2027370,2018-10-17,Victoria,House,$76.00 
+2033520,2018-10-17,Langford,Guest suite,$65.00 
+2039230,2018-10-17,Victoria,Apartment,$51.00 
+2060849,2018-10-17,Langford,Loft,$175.00 
+2070180,2018-10-17,Sooke,Bungalow,$49.00 
+2076029,2018-10-17,Victoria,Townhouse,$119.00 
+2128603,2018-10-17,Oak Bay,Apartment,$60.00 
+2128631,2018-10-17,Esquimalt,Guesthouse,$109.00 
+2131218,2018-10-17,Sooke,Bed and breakfast,$119.00 
+2138626,2018-10-17,Victoria,Apartment,$245.00 
+2138926,2018-10-17,Oak Bay,Guest suite,$95.00 
+2140264,2018-10-17,Victoria,Guest suite,$88.00 
+2140350,2018-10-17,Victoria,Guest suite,$75.00 
+2149566,2018-10-17,Juan de Fuca,Guest suite,$175.00 
+2182972,2018-10-17,Saanich,House,$150.00 
+2188717,2018-10-17,Victoria,Loft,$121.00 
+2189148,2018-10-17,Salt Spring Island,Guesthouse,$150.00 
+2192873,2018-10-17,Salt Spring Island,Cabin,$105.00 
+2198199,2018-10-17,Juan de Fuca,House,$124.00 
+2198443,2018-10-17,Victoria,Loft,$121.00 
+2202285,2018-10-17,Salt Spring Island,House,$270.00 
+2211266,2018-10-17,Victoria,House,$250.00 
+2229129,2018-10-17,Saanich,Apartment,$70.00 
+2237438,2018-10-17,Victoria,House,$180.00 
+2242653,2018-10-17,Saanich,House,$175.00 
+2279375,2018-10-17,North Saanich,House,$157.00 
+2333312,2018-10-17,Victoria,Apartment,$135.00 
+2337536,2018-10-17,Salt Spring Island,Bed and breakfast,$124.00 
+2342154,2018-10-17,Victoria,House,$111.00 
+2361342,2018-10-17,Langford,Bungalow,$150.00 
+2386131,2018-10-17,Sooke,Townhouse,$200.00 
+2390408,2018-10-17,Juan de Fuca,Bed and breakfast,$145.00 
+2390415,2018-10-17,Juan de Fuca,Bed and breakfast,$145.00 
+2424158,2018-10-17,Victoria,House,$165.00 
+2488004,2018-10-17,Southern Gulf Islands,Cabin,$130.00 
+2496433,2018-10-17,Victoria,Guest suite,$89.00 
+2509559,2018-10-17,Saanich,House,$400.00 
+2516390,2018-10-17,Saanich,House,$67.00 
+2526015,2018-10-17,Salt Spring Island,Tipi,$48.00 
+2526207,2018-10-17,Salt Spring Island,Bus,$78.00 
+2544515,2018-10-17,Sidney,House,$279.00 
+2560212,2018-10-17,Sidney,Serviced apartment,$149.00 
+2594144,2018-10-17,Victoria,Apartment,$200.00 
+2600175,2018-10-17,Saanich,House,$210.00 
+2610713,2018-10-17,Salt Spring Island,House,$500.00 
+2620161,2018-10-17,Victoria,Apartment,$156.00 
+2620751,2018-10-17,Salt Spring Island,Cabin,$121.00 
+2621488,2018-10-17,Saanich,House,$64.00 
+2651554,2018-10-17,Saanich,Guest suite,$75.00 
+2671849,2018-10-17,Victoria,Townhouse,$249.00 
+2676866,2018-10-17,Victoria,Apartment,$99.00 
+2682515,2018-10-17,Saanich,Guest suite,$86.00 
+2684251,2018-10-17,Salt Spring Island,Cabin,$220.00 
+2685512,2018-10-17,Salt Spring Island,House,$500.00 
+2695286,2018-10-17,Victoria,Condominium,$100.00 
+2709790,2018-10-17,Esquimalt,Guest suite,$54.00 
+2751941,2018-10-17,Southern Gulf Islands,Cabin,$83.00 
+2756438,2018-10-17,Salt Spring Island,House,$380.00 
+2770659,2018-10-17,Colwood,Condominium,$192.00 
+2771699,2018-10-17,View Royal,House,$140.00 
+2777765,2018-10-17,Colwood,Condominium,$187.00 
+2786165,2018-10-17,Saanich,House,$39.00 
+2791284,2018-10-17,Sidney,Condominium,$143.00 
+2818153,2018-10-17,Salt Spring Island,Tiny house,$135.00 
+2834626,2018-10-17,Victoria,Apartment,$99.00 
+2839203,2018-10-17,Victoria,Apartment,$99.00 
+2856912,2018-10-17,Victoria,Apartment,$145.00 
+2858425,2018-10-17,Victoria,Guest suite,$45.00 
+2874927,2018-10-17,Colwood,Condominium,$197.00 
+2883153,2018-10-17,Juan de Fuca,House,$425.00 
+2943065,2018-10-17,Langford,Apartment,$95.00 
+2950089,2018-10-17,Victoria,Bed and breakfast,$140.00 
+2964627,2018-10-17,Victoria,House,$150.00 
+2966739,2018-10-17,Salt Spring Island,House,$124.00 
+2967844,2018-10-17,Salt Spring Island,House,$124.00 
+2970506,2018-10-17,Colwood,House,$89.00 
+2970733,2018-10-17,Colwood,Bed and breakfast,$159.00 
+2997001,2018-10-17,Langford,House,$100.00 
+2998484,2018-10-17,Saanich,House,$65.00 
+3012472,2018-10-17,Southern Gulf Islands,Guest suite,$159.00 
+3022235,2018-10-17,Salt Spring Island,Bed and breakfast,$165.00 
+3027057,2018-10-17,Southern Gulf Islands,Cottage,$296.00 
+3080917,2018-10-17,Salt Spring Island,Cabin,$135.00 
+3084861,2018-10-17,Juan de Fuca,Cottage,$140.00 
+3115397,2018-10-17,Juan de Fuca,House,$600.00 
+3123582,2018-10-17,Colwood,House,$65.00 
+3129805,2018-10-17,Saanich,House,$45.00 
+3131505,2018-10-17,Victoria,House,$175.00 
+3133074,2018-10-17,Oak Bay,Apartment,$89.00 
+3175704,2018-10-17,Victoria,House,$349.00 
+3182206,2018-10-17,Victoria,House,$100.00 
+3186167,2018-10-17,Southern Gulf Islands,Tiny house,$80.00 
+3209352,2018-10-17,Victoria,Guest suite,$114.00 
+3219266,2018-10-17,Victoria,House,"$2,700.00 "
+3230462,2018-10-17,Salt Spring Island,Bed and breakfast,$140.00 
+3240638,2018-10-17,Salt Spring Island,Bed and breakfast,$226.00 
+3255820,2018-10-17,Saanich,Guest suite,$175.00 
+3257553,2018-10-17,Salt Spring Island,Bed and breakfast,$159.00 
+3261951,2018-10-17,View Royal,Apartment,$150.00 
+3300217,2018-10-17,Southern Gulf Islands,Guest suite,$140.00 
+3319289,2018-10-17,Victoria,Apartment,$130.00 
+3334799,2018-10-17,North Saanich,Bed and breakfast,$80.00 
+3350763,2018-10-17,Victoria,Condominium,$124.00 
+3361483,2018-10-17,Saanich,House,$205.00 
+3380702,2018-10-17,Sooke,Townhouse,$79.00 
+3386725,2018-10-17,Southern Gulf Islands,House,$200.00 
+3402265,2018-10-17,Salt Spring Island,Apartment,$205.00 
+3415390,2018-10-17,Juan de Fuca,Cabin,$296.00 
+3440301,2018-10-17,Langford,House,$89.00 
+3464301,2018-10-17,Colwood,Apartment,$80.00 
+3486035,2018-10-17,Southern Gulf Islands,Cabin,$175.00 
+3487196,2018-10-17,Sidney,Guest suite,$80.00 
+3490212,2018-10-17,Oak Bay,House,$299.00 
+3518169,2018-10-17,Victoria,House,$100.00 
+3531481,2018-10-17,Langford,House,$51.00 
+3542278,2018-10-17,Victoria,House,$105.00 
+3554586,2018-10-17,Saanich,House,$60.00 
+3559698,2018-10-17,Esquimalt,Guest suite,$71.00 
+3563531,2018-10-17,Salt Spring Island,Bed and breakfast,$123.00 
+3569698,2018-10-17,Salt Spring Island,Guesthouse,$124.00 
+3577740,2018-10-17,Salt Spring Island,Guest suite,$86.00 
+3609621,2018-10-17,Victoria,House,$60.00 
+3617367,2018-10-17,Victoria,House,$150.00 
+3651435,2018-10-17,Saanich,House,$35.00 
+3654194,2018-10-17,Saanich,House,$60.00 
+3655817,2018-10-17,Saanich,House,$80.00 
+3667377,2018-10-17,Southern Gulf Islands,Cabin,$86.00 
+3673667,2018-10-17,View Royal,Condominium,$75.00 
+3676068,2018-10-17,Victoria,Guest suite,$95.00 
+3689272,2018-10-17,Victoria,Guest suite,$175.00 
+3689834,2018-10-17,Langford,House,$43.00 
+3719262,2018-10-17,Saanich,Apartment,$95.00 
+3759754,2018-10-17,Salt Spring Island,Cabin,$115.00 
+3760976,2018-10-17,Southern Gulf Islands,Cabin,$89.00 
+3766520,2018-10-17,Victoria,Apartment,$89.00 
+3772122,2018-10-17,Victoria,Apartment,$140.00 
+3808375,2018-10-17,Oak Bay,House,$65.00 
+3810887,2018-10-17,Victoria,House,$135.00 
+3850211,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+3851163,2018-10-17,Victoria,Apartment,$191.00 
+3875655,2018-10-17,Juan de Fuca,Cabin,$124.00 
+3898775,2018-10-17,Victoria,Townhouse,$299.00 
+3913497,2018-10-17,Salt Spring Island,House,$525.00 
+3935877,2018-10-17,Saanich,House,$89.00 
+3972032,2018-10-17,Southern Gulf Islands,Cabin,$175.00 
+3978639,2018-10-17,Southern Gulf Islands,Cabin,$115.00 
+3984230,2018-10-17,Victoria,Townhouse,$70.00 
+4000182,2018-10-17,Victoria,Guest suite,$75.00 
+4022719,2018-10-17,Juan de Fuca,Cabin,$124.00 
+4025632,2018-10-17,North Saanich,Guest suite,$250.00 
+4025668,2018-10-17,Langford,House,$30.00 
+4026248,2018-10-17,Victoria,Resort,$305.00 
+4050671,2018-10-17,Southern Gulf Islands,Cottage,$137.00 
+4137885,2018-10-17,Metchosin,Guest suite,$70.00 
+4169620,2018-10-17,Langford,Apartment,$124.00 
+4183313,2018-10-17,Victoria,Apartment,$181.00 
+4190759,2018-10-17,Victoria,House,$99.00 
+4236195,2018-10-17,Southern Gulf Islands,Cottage,$165.00 
+4249564,2018-10-17,Saanich,Guest suite,$124.00 
+4277981,2018-10-17,Victoria,Bed and breakfast,$130.00 
+4279727,2018-10-17,Victoria,House,$220.00 
+4279824,2018-10-17,Victoria,House,"$1,750.00 "
+4280016,2018-10-17,Salt Spring Island,Guest suite,$95.00 
+4280067,2018-10-17,Victoria,Cabin,$80.00 
+4295964,2018-10-17,Victoria,Apartment,$135.00 
+4303692,2018-10-17,Sidney,Apartment,$124.00 
+4309363,2018-10-17,Sidney,Guesthouse,$89.00 
+4316972,2018-10-17,Victoria,Condominium,$48.00 
+4334268,2018-10-17,Esquimalt,House,$325.00 
+4334962,2018-10-17,Esquimalt,House,$54.00 
+4356633,2018-10-17,Victoria,Guest suite,$100.00 
+4359039,2018-10-17,Saanich,Bed and breakfast,$100.00 
+4364105,2018-10-17,Metchosin,Guest suite,$152.00 
+4370453,2018-10-17,Juan de Fuca,Cabin,$130.00 
+4378525,2018-10-17,Juan de Fuca,Guesthouse,$139.00 
+4403788,2018-10-17,Victoria,Bed and breakfast,$124.00 
+4412326,2018-10-17,Victoria,Apartment,$75.00 
+4416721,2018-10-17,Victoria,Bed and breakfast,$118.00 
+4418188,2018-10-17,North Saanich,Guest suite,$140.00 
+4440799,2018-10-17,Victoria,Apartment,$115.00 
+4461927,2018-10-17,Langford,Guest suite,$89.00 
+4480826,2018-10-17,Victoria,Condominium,$194.00 
+4482384,2018-10-17,Southern Gulf Islands,Chalet,$289.00 
+4483108,2018-10-17,Saanich,Guest suite,$95.00 
+4492586,2018-10-17,Salt Spring Island,Bed and breakfast,$156.00 
+4495056,2018-10-17,Victoria,House,$70.00 
+4495119,2018-10-17,Sooke,Guest suite,$70.00 
+4495124,2018-10-17,Sooke,Guest suite,$67.00 
+4495132,2018-10-17,Sooke,Guest suite,$70.00 
+4499215,2018-10-17,Victoria,Condominium,$99.00 
+4499872,2018-10-17,Victoria,Apartment,$69.00 
+4518598,2018-10-17,Langford,House,$139.00 
+4531443,2018-10-17,Victoria,Apartment,$45.00 
+4558325,2018-10-17,Saanich,Guesthouse,$100.00 
+4558328,2018-10-17,Saanich,Bungalow,$86.00 
+4575917,2018-10-17,Saanich,Apartment,$86.00 
+4589513,2018-10-17,Victoria,Condominium,$143.00 
+4603681,2018-10-17,North Saanich,Cabin,$124.00 
+4604633,2018-10-17,North Saanich,House,$78.00 
+4604639,2018-10-17,North Saanich,Guest suite,$124.00 
+4605253,2018-10-17,North Saanich,House,$99.00 
+4625388,2018-10-17,Southern Gulf Islands,House,$60.00 
+4647286,2018-10-17,Victoria,House,$60.00 
+4671921,2018-10-17,Victoria,Apartment,$369.00 
+4672283,2018-10-17,Saanich,House,$140.00 
+4676968,2018-10-17,Salt Spring Island,House,$150.00 
+4678718,2018-10-17,Saanich,Guest suite,$86.00 
+4720729,2018-10-17,Victoria,Townhouse,$54.00 
+4737408,2018-10-17,Saanich,Guest suite,$135.00 
+4754122,2018-10-17,Victoria,House,$40.00 
+4757746,2018-10-17,Southern Gulf Islands,House,$150.00 
+4765563,2018-10-17,Central Saanich,House,$70.00 
+4768828,2018-10-17,Central Saanich,House,$124.00 
+4822235,2018-10-17,Victoria,House,$99.00 
+4850022,2018-10-17,Central Saanich,House,$70.00 
+4862291,2018-10-17,Saanich,House,$35.00 
+4862306,2018-10-17,View Royal,Guest suite,$86.00 
+4891049,2018-10-17,Saanich,House,$135.00 
+4903940,2018-10-17,Victoria,Guest suite,$145.00 
+4958963,2018-10-17,Victoria,Townhouse,$79.00 
+4972620,2018-10-17,Langford,House,$400.00 
+4989102,2018-10-17,Victoria,Apartment,$110.00 
+4989246,2018-10-17,Central Saanich,Guest suite,$80.00 
+4996694,2018-10-17,Sooke,Guesthouse,$67.00 
+4997017,2018-10-17,Victoria,Condominium,$149.00 
+4997133,2018-10-17,Victoria,Condominium,$159.00 
+4997253,2018-10-17,View Royal,House,$54.00 
+5019513,2018-10-17,Juan de Fuca,Cabin,$124.00 
+5021463,2018-10-17,Victoria,Bed and breakfast,$180.00 
+5030380,2018-10-17,Victoria,House,$89.00 
+5033602,2018-10-17,Victoria,Condominium,$130.00 
+5033866,2018-10-17,Victoria,Condominium,$159.00 
+5033999,2018-10-17,Victoria,Condominium,$99.00 
+5034094,2018-10-17,Victoria,Condominium,$159.00 
+5034179,2018-10-17,Victoria,Condominium,$159.00 
+5034366,2018-10-17,Victoria,Condominium,$149.00 
+5034449,2018-10-17,Victoria,Apartment,$159.00 
+5036991,2018-10-17,Saanich,Cabin,$100.00 
+5105228,2018-10-17,Victoria,Condominium,$89.00 
+5125403,2018-10-17,Saanich,Apartment,$152.00 
+5132925,2018-10-17,Saanich,House,$849.00 
+5145163,2018-10-17,Saanich,House,$250.00 
+5147135,2018-10-17,Saanich,Farm stay,$135.00 
+5151927,2018-10-17,Juan de Fuca,Cabin,$200.00 
+5162447,2018-10-17,Southern Gulf Islands,Guest suite,$119.00 
+5174267,2018-10-17,Victoria,Apartment,$124.00 
+5183063,2018-10-17,Esquimalt,House,$150.00 
+5184703,2018-10-17,North Saanich,House,$64.00 
+5251730,2018-10-17,Southern Gulf Islands,Cabin,$170.00 
+5262479,2018-10-17,Saanich,Guest suite,$135.00 
+5267090,2018-10-17,Victoria,House,$100.00 
+5273102,2018-10-17,Salt Spring Island,Apartment,$146.00 
+5280841,2018-10-17,Victoria,Guest suite,$121.00 
+5281150,2018-10-17,Esquimalt,Guest suite,$99.00 
+5286566,2018-10-17,Southern Gulf Islands,House,$150.00 
+5308738,2018-10-17,North Saanich,House,$67.00 
+5320212,2018-10-17,Victoria,Townhouse,$100.00 
+5325849,2018-10-17,Victoria,Loft,$100.00 
+5364946,2018-10-17,Sooke,Cabin,$140.00 
+5375107,2018-10-17,Saanich,House,$180.00 
+5397115,2018-10-17,Victoria,House,$185.00 
+5430755,2018-10-17,Victoria,Guest suite,$95.00 
+5458993,2018-10-17,Central Saanich,House,$275.00 
+5466260,2018-10-17,Salt Spring Island,Cabin,$150.00 
+5468133,2018-10-17,Victoria,Condominium,$149.00 
+5468600,2018-10-17,Victoria,Condominium,$109.00 
+5490354,2018-10-17,Oak Bay,Guest suite,$89.00 
+5490579,2018-10-17,Southern Gulf Islands,House,$368.00 
+5498052,2018-10-17,Esquimalt,House,$60.00 
+5498331,2018-10-17,Victoria,House,$67.00 
+5500269,2018-10-17,Saanich,Bungalow,$100.00 
+5511138,2018-10-17,Salt Spring Island,Camper/RV,$124.00 
+5536223,2018-10-17,Victoria,Apartment,$150.00 
+5537083,2018-10-17,North Saanich,House,$64.00 
+5537189,2018-10-17,North Saanich,House,$97.00 
+5562249,2018-10-17,Saanich,Guest suite,$99.00 
+5581756,2018-10-17,Salt Spring Island,House,$121.00 
+5581937,2018-10-17,North Saanich,Apartment,$121.00 
+5629538,2018-10-17,Saanich,Guest suite,$80.00 
+5636845,2018-10-17,Victoria,Guesthouse,$89.00 
+5643746,2018-10-17,Saanich,Bed and breakfast,$54.00 
+5659191,2018-10-17,Juan de Fuca,Cabin,$159.00 
+5671750,2018-10-17,Victoria,Condominium,$145.00 
+5709060,2018-10-17,Saanich,Cabin,$88.00 
+5720842,2018-10-17,Victoria,Apartment,$86.00 
+5727435,2018-10-17,Saanich,House,$360.00 
+5758594,2018-10-17,Victoria,House,$150.00 
+5774924,2018-10-17,Esquimalt,Guest suite,$89.00 
+5775033,2018-10-17,Victoria,House,$115.00 
+5797227,2018-10-17,Esquimalt,Guesthouse,$75.00 
+5807008,2018-10-17,Victoria,Guest suite,$80.00 
+5820341,2018-10-17,Saanich,House,$60.00 
+5826469,2018-10-17,Esquimalt,House,$54.00 
+5839487,2018-10-17,Victoria,Apartment,$89.00 
+5839745,2018-10-17,Saanich,Guest suite,$51.00 
+5840230,2018-10-17,Southern Gulf Islands,House,$150.00 
+5851116,2018-10-17,Victoria,Condominium,$211.00 
+5856859,2018-10-17,Victoria,Condominium,$191.00 
+5859345,2018-10-17,Southern Gulf Islands,Bed and breakfast,$145.00 
+5863937,2018-10-17,Victoria,Condominium,$205.00 
+5874772,2018-10-17,Sooke,Cabin,$115.00 
+5880103,2018-10-17,Victoria,House,$446.00 
+5899540,2018-10-17,Victoria,Apartment,$191.00 
+5899847,2018-10-17,Victoria,Condominium,$150.00 
+5905105,2018-10-17,View Royal,Guest suite,$110.00 
+5920467,2018-10-17,Saanich,Apartment,$80.00 
+5931670,2018-10-17,Sooke,Apartment,$251.00 
+5941262,2018-10-17,Saanich,Guest suite,$179.00 
+5946032,2018-10-17,Salt Spring Island,House,$226.00 
+5948014,2018-10-17,Southern Gulf Islands,House,$250.00 
+5958791,2018-10-17,Salt Spring Island,House,$226.00 
+5959264,2018-10-17,Southern Gulf Islands,Cabin,$110.00 
+5966419,2018-10-17,Sooke,Townhouse,$321.00 
+5969673,2018-10-17,Victoria,Condominium,$89.00 
+5987638,2018-10-17,Esquimalt,House,$121.00 
+5993234,2018-10-17,Victoria,Condominium,$75.00 
+6000445,2018-10-17,Sooke,Guest suite,$75.00 
+6014062,2018-10-17,Victoria,Apartment,$119.00 
+6045029,2018-10-17,Victoria,Condominium,$80.00 
+6066283,2018-10-17,Juan de Fuca,Cottage,$130.00 
+6073734,2018-10-17,Victoria,Guest suite,$159.00 
+6075080,2018-10-17,Salt Spring Island,House,$79.00 
+6078923,2018-10-17,Victoria,Apartment,$60.00 
+6113661,2018-10-17,Victoria,House,$45.00 
+6162690,2018-10-17,Southern Gulf Islands,Boat,$135.00 
+6170708,2018-10-17,Salt Spring Island,Farm stay,$145.00 
+6181797,2018-10-17,Victoria,Apartment,$79.00 
+6214996,2018-10-17,Victoria,Apartment,$95.00 
+6226501,2018-10-17,Victoria,House,$80.00 
+6234642,2018-10-17,Salt Spring Island,House,$156.00 
+6236239,2018-10-17,Saanich,Cabin,$133.00 
+6247987,2018-10-17,Victoria,Apartment,$95.00 
+6254438,2018-10-17,Victoria,Apartment,$79.00 
+6258690,2018-10-17,Central Saanich,House,$60.00 
+6261810,2018-10-17,Victoria,Condominium,$105.00 
+6272643,2018-10-17,North Saanich,Guest suite,$110.00 
+6275602,2018-10-17,Victoria,Resort,$389.00 
+6275942,2018-10-17,Saanich,Apartment,$80.00 
+6276317,2018-10-17,Victoria,Apartment,$135.00 
+6277163,2018-10-17,Esquimalt,Guest suite,$70.00 
+6289414,2018-10-17,Victoria,Bed and breakfast,$79.00 
+6305884,2018-10-17,Sooke,Townhouse,$110.00 
+6311733,2018-10-17,Saanich,Guest suite,$62.00 
+6315755,2018-10-17,Saanich,House,$40.00 
+6318174,2018-10-17,Victoria,Apartment,$95.00 
+6324723,2018-10-17,Victoria,Apartment,$185.00 
+6325322,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+6326083,2018-10-17,Salt Spring Island,Bed and breakfast,$159.00 
+6328867,2018-10-17,Langford,Guest suite,$75.00 
+6337715,2018-10-17,Victoria,Guest suite,$315.00 
+6343216,2018-10-17,Juan de Fuca,Guest suite,$130.00 
+6348600,2018-10-17,Victoria,Condominium,$140.00 
+6358595,2018-10-17,Salt Spring Island,Cabin,$150.00 
+6364815,2018-10-17,Saanich,Guesthouse,$130.00 
+6378501,2018-10-17,Langford,Guest suite,$70.00 
+6378503,2018-10-17,Victoria,Condominium,$99.00 
+6405667,2018-10-17,Southern Gulf Islands,Island,$250.00 
+6406630,2018-10-17,Victoria,House,$60.00 
+6412737,2018-10-17,Victoria,Condominium,$149.00 
+6413771,2018-10-17,Langford,House,$53.00 
+6415515,2018-10-17,Saanich,House,$70.00 
+6424222,2018-10-17,Victoria,Condominium,$159.00 
+6436140,2018-10-17,Juan de Fuca,House,$175.00 
+6439077,2018-10-17,Esquimalt,Guest suite,$70.00 
+6453490,2018-10-17,Salt Spring Island,Guest suite,$110.00 
+6464610,2018-10-17,Oak Bay,Cabin,$124.00 
+6466508,2018-10-17,Victoria,Condominium,$137.00 
+6479214,2018-10-17,Juan de Fuca,Bed and breakfast,$121.00 
+6514019,2018-10-17,Salt Spring Island,House,$76.00 
+6516186,2018-10-17,Victoria,Condominium,$150.00 
+6521684,2018-10-17,Victoria,Townhouse,$95.00 
+6521809,2018-10-17,Southern Gulf Islands,House,$279.00 
+6538058,2018-10-17,Salt Spring Island,House,$80.00 
+6538233,2018-10-17,Victoria,House,$60.00 
+6540466,2018-10-17,Victoria,Apartment,$156.00 
+6541679,2018-10-17,Oak Bay,Bed and breakfast,$54.00 
+6545757,2018-10-17,Salt Spring Island,House,$145.00 
+6570406,2018-10-17,Victoria,Apartment,$51.00 
+6571034,2018-10-17,Salt Spring Island,Farm stay,$88.00 
+6574013,2018-10-17,Saanich,House,$99.00 
+6578076,2018-10-17,Victoria,Nature lodge,$75.00 
+6588420,2018-10-17,Victoria,Apartment,$110.00 
+6590865,2018-10-17,Victoria,House,$149.00 
+6591512,2018-10-17,Victoria,House,$131.00 
+6601750,2018-10-17,Saanich,House,$299.00 
+6622281,2018-10-17,Victoria,House,$145.00 
+6622293,2018-10-17,Southern Gulf Islands,Cabin,$80.00 
+6627700,2018-10-17,Saanich,Bungalow,$226.00 
+6672870,2018-10-17,Sidney,Townhouse,$299.00 
+6674562,2018-10-17,Juan de Fuca,Farm stay,$130.00 
+6674721,2018-10-17,Juan de Fuca,Farm stay,$150.00 
+6714811,2018-10-17,Victoria,House,$75.00 
+6725719,2018-10-17,Victoria,House,$89.00 
+6739634,2018-10-17,Victoria,Apartment,$86.00 
+6748747,2018-10-17,Langford,House,$140.00 
+6761229,2018-10-17,Salt Spring Island,Farm stay,$88.00 
+6764672,2018-10-17,Saanich,Cottage,$149.00 
+6795874,2018-10-17,View Royal,House,$359.00 
+6812423,2018-10-17,Victoria,Condominium,$100.00 
+6830884,2018-10-17,Victoria,House,$139.00 
+6833902,2018-10-17,Juan de Fuca,Loft,$135.00 
+6834002,2018-10-17,Saanich,Guest suite,$89.00 
+6838187,2018-10-17,Salt Spring Island,House,$124.00 
+6868837,2018-10-17,Victoria,Apartment,$356.00 
+6888409,2018-10-17,Saanich,House,$150.00 
+6921755,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+6927423,2018-10-17,Victoria,Guesthouse,$75.00 
+6952110,2018-10-17,Saanich,House,$279.00 
+6956821,2018-10-17,Southern Gulf Islands,Cottage,$124.00 
+6970208,2018-10-17,Victoria,Guest suite,$89.00 
+6970250,2018-10-17,Salt Spring Island,Bed and breakfast,$124.00 
+6976073,2018-10-17,Salt Spring Island,Guest suite,$185.00 
+7012350,2018-10-17,Victoria,Condominium,$100.00 
+7025594,2018-10-17,Oak Bay,Apartment,$70.00 
+7027137,2018-10-17,Victoria,Guest suite,$104.00 
+7033496,2018-10-17,Salt Spring Island,Cabin,$95.00 
+7047641,2018-10-17,Victoria,Apartment,$51.00 
+7054673,2018-10-17,Salt Spring Island,Apartment,$99.00 
+7093316,2018-10-17,Southern Gulf Islands,Apartment,$175.00 
+7109361,2018-10-17,Saanich,House,$54.00 
+7128615,2018-10-17,Victoria,Apartment,$70.00 
+7129736,2018-10-17,Victoria,Condominium,$159.00 
+7130101,2018-10-17,Victoria,Apartment,$159.00 
+7136254,2018-10-17,Saanich,Guest suite,$200.00 
+7149901,2018-10-17,Victoria,House,$122.00 
+7151064,2018-10-17,Salt Spring Island,Guest suite,$135.00 
+7157583,2018-10-17,Saanich,House,$80.00 
+7162578,2018-10-17,Saanich,Other,$86.00 
+7201426,2018-10-17,Langford,House,$30.00 
+7239227,2018-10-17,Juan de Fuca,Bed and breakfast,$135.00 
+7242521,2018-10-17,Juan de Fuca,Bed and breakfast,$115.00 
+7247176,2018-10-17,Victoria,House,$124.00 
+7264677,2018-10-17,Victoria,Condominium,$149.00 
+7266834,2018-10-17,Victoria,House,$75.00 
+7279622,2018-10-17,Victoria,Condominium,$110.00 
+7279778,2018-10-17,Victoria,Condominium,$110.00 
+7281145,2018-10-17,Langford,Bungalow,$95.00 
+7310359,2018-10-17,Victoria,Apartment,$95.00 
+7310824,2018-10-17,Victoria,Apartment,$105.00 
+7325247,2018-10-17,Sidney,Condominium,$159.00 
+7330086,2018-10-17,Southern Gulf Islands,House,$82.00 
+7331260,2018-10-17,Saanich,Guest suite,$150.00 
+7341852,2018-10-17,Victoria,Loft,$95.00 
+7346289,2018-10-17,Juan de Fuca,Bed and breakfast,$115.00 
+7357600,2018-10-17,Salt Spring Island,Bed and breakfast,$140.00 
+7369030,2018-10-17,Saanich,Cottage,$80.00 
+7369502,2018-10-17,Victoria,House,$45.00 
+7397485,2018-10-17,Victoria,Apartment,$86.00 
+7400541,2018-10-17,Saanich,Apartment,$121.00 
+7415003,2018-10-17,Saanich,House,$79.00 
+7415092,2018-10-17,Saanich,House,$79.00 
+7415297,2018-10-17,Saanich,House,$79.00 
+7418737,2018-10-17,Juan de Fuca,House,$325.00 
+7420932,2018-10-17,Salt Spring Island,Bed and breakfast,$170.00 
+7455539,2018-10-17,Central Saanich,House,$100.00 
+7477176,2018-10-17,Victoria,Apartment,$82.00 
+7482407,2018-10-17,Salt Spring Island,Tiny house,$53.00 
+7483506,2018-10-17,Oak Bay,Bungalow,$51.00 
+7503206,2018-10-17,Southern Gulf Islands,Bed and breakfast,$51.00 
+7513575,2018-10-17,Southern Gulf Islands,Nature lodge,$145.00 
+7513777,2018-10-17,Southern Gulf Islands,Nature lodge,$124.00 
+7513783,2018-10-17,Southern Gulf Islands,Nature lodge,$159.00 
+7514261,2018-10-17,Southern Gulf Islands,Other,$115.00 
+7514267,2018-10-17,Southern Gulf Islands,Nature lodge,$130.00 
+7514273,2018-10-17,Southern Gulf Islands,Nature lodge,$130.00 
+7514288,2018-10-17,Southern Gulf Islands,Nature lodge,$115.00 
+7514357,2018-10-17,Southern Gulf Islands,Nature lodge,$159.00 
+7515653,2018-10-17,Southern Gulf Islands,Camper/RV,$165.00 
+7535127,2018-10-17,Saanich,Guest suite,$88.00 
+7545953,2018-10-17,Victoria,Apartment,$70.00 
+7546156,2018-10-17,Saanich,Guesthouse,$60.00 
+7548526,2018-10-17,Saanich,House,$60.00 
+7549614,2018-10-17,Saanich,House,$41.00 
+7561486,2018-10-17,Southern Gulf Islands,Cabin,$70.00 
+7563269,2018-10-17,Oak Bay,House,$450.00 
+7580228,2018-10-17,Salt Spring Island,Guest suite,$250.00 
+7582123,2018-10-17,Victoria,Condominium,$194.00 
+7597959,2018-10-17,Saanich,House,$200.00 
+7600949,2018-10-17,Victoria,Apartment,$143.00 
+7602567,2018-10-17,Victoria,House,$89.00 
+7603326,2018-10-17,Saanich,House,$60.00 
+7604314,2018-10-17,Victoria,House,$130.00 
+7615885,2018-10-17,Saanich,House,$294.00 
+7619768,2018-10-17,Victoria,Townhouse,$99.00 
+7636839,2018-10-17,Saanich,House,$75.00 
+7637037,2018-10-17,Oak Bay,Guest suite,$96.00 
+7663979,2018-10-17,Salt Spring Island,Cottage,$180.00 
+7679843,2018-10-17,Salt Spring Island,Chalet,$233.00 
+7680771,2018-10-17,Victoria,Apartment,$96.00 
+7680829,2018-10-17,Saanich,House,$390.00 
+7681257,2018-10-17,Saanich,Guest suite,$70.00 
+7699553,2018-10-17,Saanich,House,$86.00 
+7715007,2018-10-17,Victoria,Condominium,$362.00 
+7718799,2018-10-17,Victoria,Apartment,$67.00 
+7728149,2018-10-17,Victoria,Condominium,$411.00 
+7729286,2018-10-17,Central Saanich,Guesthouse,$100.00 
+7729650,2018-10-17,Victoria,Condominium,$362.00 
+7730121,2018-10-17,Victoria,Condominium,$122.00 
+7730292,2018-10-17,Victoria,Condominium,$316.00 
+7731031,2018-10-17,Victoria,Condominium,$377.00 
+7731522,2018-10-17,Victoria,Condominium,$178.00 
+7731691,2018-10-17,Victoria,Condominium,$429.00 
+7732228,2018-10-17,Victoria,Condominium,$215.00 
+7735397,2018-10-17,Juan de Fuca,House,$250.00 
+7761048,2018-10-17,Victoria,Condominium,$189.00 
+7764295,2018-10-17,Oak Bay,Guest suite,$115.00 
+7774769,2018-10-17,Juan de Fuca,Guesthouse,$124.00 
+7789556,2018-10-17,Salt Spring Island,Cabin,$99.00 
+7807887,2018-10-17,Highlands,House,$250.00 
+7856066,2018-10-17,Victoria,Apartment,$159.00 
+7869219,2018-10-17,Victoria,Townhouse,$60.00 
+7871494,2018-10-17,Victoria,Condominium,$429.00 
+7872008,2018-10-17,Victoria,House,$180.00 
+7872788,2018-10-17,Victoria,House,$233.00 
+7873574,2018-10-17,Salt Spring Island,Cabin,$99.00 
+7874685,2018-10-17,Saanich,House,$41.00 
+7875911,2018-10-17,Oak Bay,Bungalow,$29.00 
+7922185,2018-10-17,Victoria,Apartment,$75.00 
+7932645,2018-10-17,Victoria,House,$233.00 
+7937616,2018-10-17,Salt Spring Island,Guesthouse,$130.00 
+7939324,2018-10-17,Esquimalt,House,$99.00 
+7954318,2018-10-17,Southern Gulf Islands,House,$174.00 
+7954770,2018-10-17,Esquimalt,House,$121.00 
+7996286,2018-10-17,Langford,Guest suite,$60.00 
+8002033,2018-10-17,Victoria,House,$150.00 
+8010819,2018-10-17,Salt Spring Island,Guesthouse,$175.00 
+8017539,2018-10-17,Langford,House,$57.00 
+8029783,2018-10-17,Highlands,House,$349.00 
+8055361,2018-10-17,Juan de Fuca,Cottage,$255.00 
+8087767,2018-10-17,Saanich,House,$109.00 
+8102076,2018-10-17,Salt Spring Island,Cabin,$100.00 
+8118940,2018-10-17,Saanich,Bed and breakfast,$67.00 
+8131404,2018-10-17,Oak Bay,Apartment,$133.00 
+8134249,2018-10-17,Saanich,Guest suite,$130.00 
+8134589,2018-10-17,Victoria,House,$159.00 
+8153335,2018-10-17,Esquimalt,House,$194.00 
+8170799,2018-10-17,Saanich,House,$48.00 
+8172067,2018-10-17,Saanich,House,$130.00 
+8173618,2018-10-17,Juan de Fuca,Cabin,$350.00 
+8189438,2018-10-17,Victoria,Apartment,$95.00 
+8193796,2018-10-17,Victoria,Apartment,$67.00 
+8228689,2018-10-17,Sidney,House,$100.00 
+8242204,2018-10-17,Victoria,Serviced apartment,$170.00 
+8256169,2018-10-17,Juan de Fuca,Other,"$5,125.00 "
+8257316,2018-10-17,Victoria,Apartment,$89.00 
+8274272,2018-10-17,North Saanich,Guest suite,$100.00 
+8286347,2018-10-17,Colwood,Bed and breakfast,$135.00 
+8292275,2018-10-17,Saanich,House,$249.00 
+8304605,2018-10-17,Victoria,Condominium,$226.00 
+8306634,2018-10-17,Victoria,Apartment,$45.00 
+8319809,2018-10-17,Saanich,House,$350.00 
+8326270,2018-10-17,Victoria,House,$89.00 
+8339421,2018-10-17,North Saanich,House,$249.00 
+8366664,2018-10-17,Saanich,Guest suite,$95.00 
+8405357,2018-10-17,Colwood,Bed and breakfast,$108.00 
+8412029,2018-10-17,Saanich,Apartment,$70.00 
+8423975,2018-10-17,Saanich,Guesthouse,$150.00 
+8461431,2018-10-17,Victoria,Guest suite,$99.00 
+8461539,2018-10-17,Saanich,Apartment,$109.00 
+8473445,2018-10-17,Salt Spring Island,Cabin,$189.00 
+8480199,2018-10-17,Victoria,House,$89.00 
+8482102,2018-10-17,Salt Spring Island,Cabin,$210.00 
+8503638,2018-10-17,Victoria,House,$130.00 
+8503652,2018-10-17,Victoria,House,$200.00 
+8566598,2018-10-17,Saanich,Guest suite,$79.00 
+8592520,2018-10-17,Esquimalt,Bed and breakfast,$54.00 
+8648115,2018-10-17,Saanich,Guesthouse,$150.00 
+8650728,2018-10-17,Colwood,House,$200.00 
+8701105,2018-10-17,Victoria,Loft,$95.00 
+8735324,2018-10-17,Saanich,House,$400.00 
+8736093,2018-10-17,Saanich,House,$375.00 
+8776223,2018-10-17,North Saanich,House,$249.00 
+8778300,2018-10-17,Saanich,Guest suite,$95.00 
+8780487,2018-10-17,Victoria,Condominium,$75.00 
+8845989,2018-10-17,North Saanich,Bed and breakfast,$121.00 
+8846038,2018-10-17,North Saanich,Farm stay,$80.00 
+8846808,2018-10-17,Victoria,Townhouse,$250.00 
+8846850,2018-10-17,Oak Bay,House,$400.00 
+8889650,2018-10-17,Langford,House,$60.00 
+8909204,2018-10-17,Saanich,Guest suite,$75.00 
+8933409,2018-10-17,Victoria,Apartment,$60.00 
+8934727,2018-10-17,Salt Spring Island,Guesthouse,$65.00 
+8952503,2018-10-17,Sidney,Bungalow,$150.00 
+8988653,2018-10-17,Victoria,Condominium,$84.00 
+8995737,2018-10-17,Victoria,Townhouse,$84.00 
+9065342,2018-10-17,Victoria,House,$121.00 
+9073855,2018-10-17,Central Saanich,Loft,$95.00 
+9079060,2018-10-17,Victoria,Guest suite,$89.00 
+9133761,2018-10-17,Victoria,Condominium,$197.00 
+9151958,2018-10-17,Victoria,Condominium,$242.00 
+9156598,2018-10-17,Saanich,House,$135.00 
+9189062,2018-10-17,Langford,Apartment,$87.00 
+9202329,2018-10-17,Salt Spring Island,Guest suite,$189.00 
+9220171,2018-10-17,Victoria,Guest suite,$109.00 
+9236705,2018-10-17,Saanich,House,$70.00 
+9239746,2018-10-17,Salt Spring Island,Condominium,$235.00 
+9240856,2018-10-17,Victoria,Condominium,$165.00 
+9292701,2018-10-17,Victoria,Loft,$124.00 
+9298182,2018-10-17,Victoria,House,$95.00 
+9314070,2018-10-17,Victoria,Apartment,$60.00 
+9352840,2018-10-17,Victoria,House,$240.00 
+9354003,2018-10-17,Victoria,Apartment,$150.00 
+9367883,2018-10-17,Saanich,House,$144.00 
+9430717,2018-10-17,Colwood,Guest suite,$158.00 
+9453756,2018-10-17,Saanich,House,$175.00 
+9464395,2018-10-17,Saanich,Guest suite,$79.00 
+9495747,2018-10-17,Esquimalt,House,$89.00 
+9496257,2018-10-17,Esquimalt,House,$54.00 
+9513136,2018-10-17,Victoria,Townhouse,$139.00 
+9596103,2018-10-17,Saanich,House,$145.00 
+9617004,2018-10-17,Saanich,House,$71.00 
+9664250,2018-10-17,Victoria,Apartment,$124.00 
+9707699,2018-10-17,Victoria,Apartment,$133.00 
+9716372,2018-10-17,Victoria,Loft,$149.00 
+9716578,2018-10-17,Saanich,House,$156.00 
+9718427,2018-10-17,Central Saanich,Apartment,$65.00 
+9735515,2018-10-17,Salt Spring Island,Cabin,$121.00 
+9736686,2018-10-17,Victoria,Loft,$325.00 
+9741221,2018-10-17,Victoria,Condominium,$100.00 
+9748160,2018-10-17,Victoria,Apartment,$60.00 
+9752791,2018-10-17,Victoria,House,$75.00 
+9772981,2018-10-17,Central Saanich,House,$100.00 
+9775461,2018-10-17,Sidney,House,$191.00 
+9778870,2018-10-17,Saanich,Loft,$54.00 
+9789959,2018-10-17,Victoria,Apartment,$65.00 
+9798529,2018-10-17,Southern Gulf Islands,Cabin,$95.00 
+9807596,2018-10-17,Salt Spring Island,Cabin,$89.00 
+9823674,2018-10-17,Victoria,Apartment,$70.00 
+9825160,2018-10-17,Salt Spring Island,Bed and breakfast,$100.00 
+9826024,2018-10-17,Victoria,Loft,$130.00 
+9827995,2018-10-17,Victoria,Apartment,$51.00 
+9845428,2018-10-17,Saanich,Townhouse,$111.00 
+9846617,2018-10-17,Oak Bay,House,$65.00 
+9866209,2018-10-17,Juan de Fuca,House,$270.00 
+9879224,2018-10-17,Victoria,Apartment,$100.00 
+9900260,2018-10-17,Sooke,House,$179.00 
+9925595,2018-10-17,Saanich,Guest suite,$87.00 
+9926041,2018-10-17,View Royal,Guest suite,$78.00 
+9928078,2018-10-17,Saanich,House,$51.00 
+9928237,2018-10-17,Victoria,Loft,$130.00 
+9929020,2018-10-17,Victoria,Condominium,$76.00 
+9941953,2018-10-17,Victoria,Apartment,$140.00 
+9952061,2018-10-17,Sooke,Cabin,$165.00 
+9970871,2018-10-17,Victoria,House,$110.00 
+9976261,2018-10-17,Victoria,Condominium,$58.00 
+9989965,2018-10-17,Victoria,Apartment,$69.00 
+10010988,2018-10-17,Oak Bay,House,$67.00 
+10117238,2018-10-17,Victoria,Condominium,$194.00 
+10152630,2018-10-17,Victoria,House,$226.00 
+10205772,2018-10-17,Juan de Fuca,House,$450.00 
+10222754,2018-10-17,Saanich,Guest suite,$67.00 
+10223833,2018-10-17,Victoria,Tiny house,$121.00 
+10231792,2018-10-17,Victoria,Condominium,$137.00 
+10233369,2018-10-17,Esquimalt,House,$65.00 
+10266999,2018-10-17,Saanich,Condominium,$185.00 
+10294984,2018-10-17,Southern Gulf Islands,House,$425.00 
+10313809,2018-10-17,Metchosin,House,$250.00 
+10313948,2018-10-17,Central Saanich,Apartment,$75.00 
+10365926,2018-10-17,Saanich,House,$238.00 
+10369755,2018-10-17,Southern Gulf Islands,Cottage,$140.00 
+10371499,2018-10-17,Victoria,House,$51.00 
+10383275,2018-10-17,Salt Spring Island,Cabin,$100.00 
+10386814,2018-10-17,Saanich,Guest suite,$140.00 
+10393310,2018-10-17,Juan de Fuca,Cottage,$175.00 
+10408774,2018-10-17,Salt Spring Island,House,$474.00 
+10413983,2018-10-17,Victoria,House,$86.00 
+10472911,2018-10-17,Victoria,Apartment,$191.00 
+10475424,2018-10-17,Salt Spring Island,Guest suite,$92.00 
+10476124,2018-10-17,Victoria,House,$200.00 
+10477992,2018-10-17,Saanich,Guest suite,$80.00 
+10496442,2018-10-17,Oak Bay,House,$49.00 
+10553663,2018-10-17,Central Saanich,House,$60.00 
+10568567,2018-10-17,Saanich,House,$75.00 
+10591267,2018-10-17,Victoria,Townhouse,$150.00 
+10593060,2018-10-17,Saanich,Guest suite,$86.00 
+10594788,2018-10-17,Southern Gulf Islands,Cabin,$170.00 
+10611582,2018-10-17,Victoria,Loft,$80.00 
+10631478,2018-10-17,Saanich,House,$47.00 
+10632205,2018-10-17,Victoria,Guest suite,$130.00 
+10650128,2018-10-17,Colwood,House,$93.00 
+10660530,2018-10-17,Saanich,Apartment,$150.00 
+10673202,2018-10-17,Saanich,Camper/RV,$83.00 
+10684980,2018-10-17,North Saanich,Guest suite,$89.00 
+10686473,2018-10-17,Saanich,Guest suite,$75.00 
+10687739,2018-10-17,Victoria,House,$110.00 
+10729887,2018-10-17,Salt Spring Island,Guesthouse,$130.00 
+10731939,2018-10-17,Langford,Apartment,$95.00 
+10749450,2018-10-17,Victoria,Cabin,$89.00 
+10753251,2018-10-17,View Royal,House,$89.00 
+10756434,2018-10-17,Victoria,Guest suite,$99.00 
+10805397,2018-10-17,Southern Gulf Islands,Bungalow,$130.00 
+10832515,2018-10-17,Sooke,Guest suite,$109.00 
+10834204,2018-10-17,Juan de Fuca,House,$499.00 
+10840282,2018-10-17,Sidney,Condominium,$119.00 
+10859252,2018-10-17,Colwood,Bed and breakfast,$89.00 
+10860568,2018-10-17,Victoria,Loft,$95.00 
+10860604,2018-10-17,Victoria,Apartment,$60.00 
+10879307,2018-10-17,Saanich,House,$139.00 
+10879748,2018-10-17,Langford,Guest suite,$65.00 
+10888708,2018-10-17,Oak Bay,Guest suite,$119.00 
+10924625,2018-10-17,Juan de Fuca,Boutique hotel,$229.00 
+10928373,2018-10-17,Victoria,House,$175.00 
+10967055,2018-10-17,Central Saanich,House,$80.00 
+10972433,2018-10-17,Victoria,Apartment,$84.00 
+11008034,2018-10-17,Saanich,Guest suite,$279.00 
+11042151,2018-10-17,Victoria,Apartment,$101.00 
+11066626,2018-10-17,Victoria,Bed and breakfast,$115.00 
+11081805,2018-10-17,Victoria,Bed and breakfast,$105.00 
+11081943,2018-10-17,Victoria,Guest suite,$124.00 
+11084827,2018-10-17,Victoria,Condominium,$161.00 
+11084967,2018-10-17,Victoria,Condominium,$161.00 
+11085155,2018-10-17,Victoria,Condominium,$189.00 
+11088743,2018-10-17,Victoria,Townhouse,$135.00 
+11100192,2018-10-17,Victoria,Apartment,$105.00 
+11116756,2018-10-17,Victoria,House,$275.00 
+11121889,2018-10-17,Victoria,House,$140.00 
+11160560,2018-10-17,Salt Spring Island,Cabin,$200.00 
+11177913,2018-10-17,Central Saanich,House,$100.00 
+11192626,2018-10-17,Saanich,House,$89.00 
+11196686,2018-10-17,Saanich,House,$121.00 
+11225813,2018-10-17,Victoria,Condominium,$89.00 
+11243817,2018-10-17,Saanich,House,$89.00 
+11254297,2018-10-17,Sidney,House,$67.00 
+11294052,2018-10-17,Victoria,House,$115.00 
+11298115,2018-10-17,Saanich,Apartment,$100.00 
+11298740,2018-10-17,Saanich,Loft,$73.00 
+11300528,2018-10-17,Langford,House,$60.00 
+11302460,2018-10-17,Victoria,Condominium,$194.00 
+11341815,2018-10-17,Salt Spring Island,Guest suite,$149.00 
+11361297,2018-10-17,Juan de Fuca,House,$296.00 
+11362235,2018-10-17,Victoria,Apartment,$100.00 
+11393275,2018-10-17,Langford,House,$49.00 
+11416829,2018-10-17,Victoria,Apartment,$150.00 
+11418727,2018-10-17,Victoria,House,$110.00 
+11441679,2018-10-17,Esquimalt,House,$500.00 
+11458215,2018-10-17,Southern Gulf Islands,House,$450.00 
+11522640,2018-10-17,Victoria,Apartment,$101.00 
+11532196,2018-10-17,Saanich,Guest suite,$40.00 
+11555719,2018-10-17,Oak Bay,Guest suite,$75.00 
+11568164,2018-10-17,Saanich,House,$425.00 
+11572245,2018-10-17,Southern Gulf Islands,Guest suite,$86.00 
+11572902,2018-10-17,Victoria,Apartment,$124.00 
+11586708,2018-10-17,Salt Spring Island,Bed and breakfast,$159.00 
+11590921,2018-10-17,Saanich,House,$375.00 
+11591689,2018-10-17,Victoria,Guest suite,$105.00 
+11606038,2018-10-17,Victoria,Condominium,$88.00 
+11608577,2018-10-17,Langford,House,$279.00 
+11608828,2018-10-17,Victoria,Apartment,$130.00 
+11611492,2018-10-17,Saanich,House,$70.00 
+11625048,2018-10-17,Victoria,Loft,$76.00 
+11635410,2018-10-17,Juan de Fuca,Cabin,$180.00 
+11640237,2018-10-17,Esquimalt,Guest suite,$60.00 
+11649703,2018-10-17,Southern Gulf Islands,Cabin,$115.00 
+11658120,2018-10-17,Juan de Fuca,Guest suite,$150.00 
+11660169,2018-10-17,Salt Spring Island,Farm stay,$119.00 
+11675587,2018-10-17,Saanich,House,$220.00 
+11679350,2018-10-17,Victoria,Condominium,$196.00 
+11699466,2018-10-17,Saanich,Condominium,$150.00 
+11737167,2018-10-17,Langford,House,$67.00 
+11770824,2018-10-17,Juan de Fuca,House,$299.00 
+11772677,2018-10-17,Salt Spring Island,House,$250.00 
+11778171,2018-10-17,Victoria,Apartment,$99.00 
+11824649,2018-10-17,Victoria,Condominium,$175.00 
+11827676,2018-10-17,Southern Gulf Islands,Cottage,$250.00 
+11828623,2018-10-17,Saanich,Guest suite,$124.00 
+11842994,2018-10-17,Victoria,House,$64.00 
+11848792,2018-10-17,Langford,Townhouse,$39.00 
+11866796,2018-10-17,Victoria,Apartment,$86.00 
+11883525,2018-10-17,Langford,Condominium,$102.00 
+11909920,2018-10-17,Esquimalt,House,$180.00 
+11912028,2018-10-17,Langford,Townhouse,$44.00 
+11912135,2018-10-17,Langford,Townhouse,$29.00 
+11923199,2018-10-17,Victoria,Apartment,$86.00 
+11932301,2018-10-17,Saanich,House,$51.00 
+11944412,2018-10-17,Langford,House,$550.00 
+11972050,2018-10-17,Victoria,Apartment,$121.00 
+11973299,2018-10-17,Highlands,House,$150.00 
+11985579,2018-10-17,Victoria,Apartment,$99.00 
+11991702,2018-10-17,Saanich,Guest suite,$40.00 
+12009978,2018-10-17,Sooke,Bungalow,$45.00 
+12010091,2018-10-17,Victoria,Apartment,$91.00 
+12021988,2018-10-17,Victoria,Guest suite,$140.00 
+12034891,2018-10-17,Victoria,Apartment,$99.00 
+12037949,2018-10-17,Salt Spring Island,Bed and breakfast,$99.00 
+12038812,2018-10-17,Saanich,House,$115.00 
+12041061,2018-10-17,Juan de Fuca,Cabin,$345.00 
+12042081,2018-10-17,Victoria,House,$97.00 
+12055297,2018-10-17,Saanich,Guest suite,$110.00 
+12067676,2018-10-17,Langford,Guest suite,$124.00 
+12086192,2018-10-17,Victoria,Apartment,$80.00 
+12092909,2018-10-17,Salt Spring Island,House,$200.00 
+12093310,2018-10-17,Saanich,House,$149.00 
+12114776,2018-10-17,Colwood,House,$124.00 
+12136262,2018-10-17,Victoria,Guest suite,$100.00 
+12147967,2018-10-17,Central Saanich,House,$194.00 
+12154279,2018-10-17,Sooke,Guesthouse,$121.00 
+12156952,2018-10-17,Southern Gulf Islands,House,$150.00 
+12168050,2018-10-17,Victoria,House,$41.00 
+12168218,2018-10-17,Victoria,Condominium,$191.00 
+12170016,2018-10-17,Victoria,Guest suite,$168.00 
+12171456,2018-10-17,Victoria,Apartment,$51.00 
+12175162,2018-10-17,Esquimalt,Guest suite,$70.00 
+12187198,2018-10-17,Langford,House,$250.00 
+12209573,2018-10-17,Victoria,Condominium,$75.00 
+12211233,2018-10-17,North Saanich,House,$88.00 
+12213157,2018-10-17,Salt Spring Island,Apartment,$88.00 
+12219298,2018-10-17,Salt Spring Island,Guest suite,$115.00 
+12225518,2018-10-17,Victoria,Guesthouse,$115.00 
+12230481,2018-10-17,Victoria,Apartment,$180.00 
+12244820,2018-10-17,North Saanich,Guest suite,$95.00 
+12250890,2018-10-17,Victoria,Guest suite,$78.00 
+12250931,2018-10-17,Victoria,House,$84.00 
+12252166,2018-10-17,Victoria,House,$124.00 
+12275544,2018-10-17,Victoria,House,$194.00 
+12275582,2018-10-17,Salt Spring Island,Farm stay,$51.00 
+12294890,2018-10-17,Saanich,House,$35.00 
+12324255,2018-10-17,Oak Bay,House,$65.00 
+12367876,2018-10-17,Victoria,Guest suite,$45.00 
+12369940,2018-10-17,Juan de Fuca,Cabin,$200.00 
+12381941,2018-10-17,Victoria,Apartment,$86.00 
+12384495,2018-10-17,Salt Spring Island,Cabin,$110.00 
+12388899,2018-10-17,Salt Spring Island,House,$89.00 
+12389456,2018-10-17,Salt Spring Island,House,$245.00 
+12413683,2018-10-17,Victoria,Apartment,$109.00 
+12427243,2018-10-17,Oak Bay,House,$108.00 
+12433762,2018-10-17,Salt Spring Island,Bed and breakfast,$49.00 
+12452183,2018-10-17,North Saanich,House,$165.00 
+12453891,2018-10-17,Victoria,Apartment,$88.00 
+12469773,2018-10-17,Victoria,Apartment,$150.00 
+12492716,2018-10-17,Victoria,Condominium,$149.00 
+12496364,2018-10-17,Saanich,Cabin,$65.00 
+12496581,2018-10-17,Saanich,House,$110.00 
+12496865,2018-10-17,Saanich,Guest suite,$75.00 
+12513336,2018-10-17,Southern Gulf Islands,Bungalow,$181.00 
+12534898,2018-10-17,Colwood,Apartment,$60.00 
+12543138,2018-10-17,Southern Gulf Islands,House,$121.00 
+12547812,2018-10-17,Langford,Townhouse,$86.00 
+12558951,2018-10-17,Saanich,Apartment,$79.00 
+12562814,2018-10-17,Esquimalt,Guest suite,$121.00 
+12591050,2018-10-17,Salt Spring Island,Guest suite,$99.00 
+12592138,2018-10-17,Central Saanich,Guest suite,$54.00 
+12600642,2018-10-17,Salt Spring Island,Cabin,$191.00 
+12612123,2018-10-17,Salt Spring Island,House,$249.00 
+12621526,2018-10-17,Saanich,House,$168.00 
+12629115,2018-10-17,Victoria,House,$65.00 
+12652421,2018-10-17,Victoria,Guest suite,$65.00 
+12716050,2018-10-17,Victoria,House,$60.00 
+12733269,2018-10-17,Victoria,House,$132.00 
+12756558,2018-10-17,Victoria,Apartment,$140.00 
+12763205,2018-10-17,Southern Gulf Islands,Bed and breakfast,$180.00 
+12776409,2018-10-17,Salt Spring Island,Cabin,$159.00 
+12798196,2018-10-17,Victoria,Cabin,$89.00 
+12798220,2018-10-17,Victoria,House,$258.00 
+12811930,2018-10-17,Victoria,Condominium,$121.00 
+12812750,2018-10-17,Victoria,Guest suite,$89.00 
+12812834,2018-10-17,Esquimalt,House,$89.00 
+12826914,2018-10-17,Esquimalt,Guest suite,$51.00 
+12836378,2018-10-17,Saanich,Bungalow,$179.00 
+12847514,2018-10-17,Saanich,Guest suite,$70.00 
+12848297,2018-10-17,Victoria,Condominium,$75.00 
+12849115,2018-10-17,Juan de Fuca,House,$253.00 
+12853918,2018-10-17,Juan de Fuca,Cabin,$296.00 
+12854186,2018-10-17,Victoria,House,$115.00 
+12856541,2018-10-17,Saanich,Guest suite,$65.00 
+12856998,2018-10-17,Victoria,House,$89.00 
+12869395,2018-10-17,Victoria,Condominium,$185.00 
+12871872,2018-10-17,Victoria,Condominium,$175.00 
+12872299,2018-10-17,Victoria,Loft,$226.00 
+12884771,2018-10-17,Saanich,Guest suite,$89.00 
+12887098,2018-10-17,Langford,Condominium,$100.00 
+12902079,2018-10-17,Esquimalt,House,$800.00 
+12902831,2018-10-17,Victoria,House,$110.00 
+12903517,2018-10-17,Victoria,Condominium,$250.00 
+12925681,2018-10-17,Salt Spring Island,Guesthouse,$150.00 
+12946041,2018-10-17,Salt Spring Island,House,$290.00 
+12950843,2018-10-17,View Royal,Guest suite,$119.00 
+12951369,2018-10-17,Esquimalt,House,$135.00 
+12972553,2018-10-17,Salt Spring Island,Cabin,$86.00 
+12986531,2018-10-17,Saanich,House,$320.00 
+12986692,2018-10-17,Salt Spring Island,Tiny house,$115.00 
+13001293,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+13006760,2018-10-17,Victoria,Apartment,$89.00 
+13030613,2018-10-17,Victoria,House,$67.00 
+13044790,2018-10-17,Central Saanich,House,$350.00 
+13045404,2018-10-17,Sooke,Guest suite,$67.00 
+13047214,2018-10-17,Juan de Fuca,Guesthouse,$124.00 
+13062989,2018-10-17,Southern Gulf Islands,House,$135.00 
+13064229,2018-10-17,Victoria,Guest suite,$89.00 
+13064260,2018-10-17,Salt Spring Island,Tent,$100.00 
+13076430,2018-10-17,Saanich,Other,$100.00 
+13078478,2018-10-17,Juan de Fuca,Chalet,$226.00 
+13097532,2018-10-17,Salt Spring Island,Bed and breakfast,$69.00 
+13098184,2018-10-17,Victoria,Townhouse,$191.00 
+13112141,2018-10-17,Saanich,Guest suite,$70.00 
+13112375,2018-10-17,Victoria,House,$150.00 
+13112433,2018-10-17,Southern Gulf Islands,House,$311.00 
+13114696,2018-10-17,Victoria,Guest suite,$79.00 
+13125545,2018-10-17,Victoria,Apartment,$194.00 
+13138637,2018-10-17,Victoria,Apartment,$60.00 
+13153700,2018-10-17,Saanich,House,$69.00 
+13155530,2018-10-17,Southern Gulf Islands,Guest suite,$110.00 
+13157219,2018-10-17,Victoria,Townhouse,$100.00 
+13157564,2018-10-17,Salt Spring Island,Camper/RV,$39.00 
+13169424,2018-10-17,Southern Gulf Islands,Bed and breakfast,$170.00 
+13175689,2018-10-17,Victoria,Other,$99.00 
+13188888,2018-10-17,Victoria,House,$250.00 
+13190440,2018-10-17,Saanich,Guest suite,$133.00 
+13191442,2018-10-17,Esquimalt,Condominium,$86.00 
+13193104,2018-10-17,Victoria,Apartment,$194.00 
+13204506,2018-10-17,Victoria,House,$89.00 
+13226392,2018-10-17,Victoria,Condominium,$95.00 
+13232970,2018-10-17,Victoria,Apartment,$75.00 
+13251585,2018-10-17,Victoria,Apartment,$70.00 
+13262281,2018-10-17,Victoria,Guest suite,$52.00 
+13264457,2018-10-17,Salt Spring Island,Bed and breakfast,$69.00 
+13264604,2018-10-17,Salt Spring Island,Bed and breakfast,$141.00 
+13265105,2018-10-17,Salt Spring Island,Farm stay,$264.00 
+13276119,2018-10-17,Victoria,Bed and breakfast,$89.00 
+13281974,2018-10-17,Victoria,Condominium,$121.00 
+13285391,2018-10-17,Esquimalt,Guest suite,$70.00 
+13315934,2018-10-17,Victoria,Condominium,$119.00 
+13345354,2018-10-17,Salt Spring Island,Tiny house,$79.00 
+13357408,2018-10-17,Saanich,Guest suite,$175.00 
+13369123,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+13374069,2018-10-17,Salt Spring Island,House,$175.00 
+13374848,2018-10-17,Saanich,Guest suite,$60.00 
+13377198,2018-10-17,Salt Spring Island,Bed and breakfast,$159.00 
+13389532,2018-10-17,Victoria,Apartment,$121.00 
+13390263,2018-10-17,Victoria,House,$102.00 
+13391448,2018-10-17,Southern Gulf Islands,House,$299.00 
+13394688,2018-10-17,Saanich,House,$100.00 
+13395863,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+13417295,2018-10-17,Langford,Cottage,$70.00 
+13418530,2018-10-17,Salt Spring Island,House,$150.00 
+13434542,2018-10-17,Victoria,Apartment,$100.00 
+13436533,2018-10-17,Victoria,Apartment,$165.00 
+13447652,2018-10-17,Esquimalt,Guest suite,$99.00 
+13451360,2018-10-17,Saanich,Guest suite,$108.00 
+13459496,2018-10-17,Victoria,House,$80.00 
+13478224,2018-10-17,Victoria,Condominium,$170.00 
+13478382,2018-10-17,Salt Spring Island,Other,$128.00 
+13481151,2018-10-17,Saanich,Guesthouse,$123.00 
+13489095,2018-10-17,Victoria,Loft,$172.00 
+13495909,2018-10-17,Victoria,House,$250.00 
+13496179,2018-10-17,Saanich,Apartment,$76.00 
+13507148,2018-10-17,Victoria,Bed and breakfast,$200.00 
+13507247,2018-10-17,Langford,House,$439.00 
+13513456,2018-10-17,Saanich,Guest suite,$49.00 
+13513589,2018-10-17,Southern Gulf Islands,Guesthouse,$135.00 
+13532048,2018-10-17,Victoria,House,$400.00 
+13541930,2018-10-17,Saanich,House,$89.00 
+13544771,2018-10-17,Victoria,Apartment,$128.00 
+13550701,2018-10-17,Victoria,Guesthouse,$150.00 
+13561055,2018-10-17,Victoria,House,$400.00 
+13564269,2018-10-17,Juan de Fuca,Cottage,$294.00 
+13566544,2018-10-17,Saanich,House,$41.00 
+13566555,2018-10-17,Victoria,Apartment,$128.00 
+13574378,2018-10-17,Southern Gulf Islands,Earth house,$140.00 
+13588852,2018-10-17,Colwood,Guest suite,$105.00 
+13590813,2018-10-17,Victoria,House,$119.00 
+13618100,2018-10-17,Sooke,House,$168.00 
+13618237,2018-10-17,Salt Spring Island,Loft,$100.00 
+13624623,2018-10-17,Saanich,House,$89.00 
+13638441,2018-10-17,Victoria,Apartment,$124.00 
+13639301,2018-10-17,Juan de Fuca,Cabin,$121.00 
+13639314,2018-10-17,Victoria,Apartment,$121.00 
+13642243,2018-10-17,Victoria,House,$299.00 
+13668118,2018-10-17,Oak Bay,House,$70.00 
+13672714,2018-10-17,Saanich,Guesthouse,$110.00 
+13674531,2018-10-17,Southern Gulf Islands,Cabin,$191.00 
+13675792,2018-10-17,View Royal,House,$49.00 
+13676222,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+13686467,2018-10-17,Victoria,Apartment,$86.00 
+13688451,2018-10-17,Victoria,Guesthouse,$65.00 
+13694347,2018-10-17,Victoria,Apartment,$220.00 
+13696281,2018-10-17,Salt Spring Island,Cottage,$128.00 
+13698258,2018-10-17,Sidney,Guesthouse,$75.00 
+13699673,2018-10-17,Salt Spring Island,Bed and breakfast,$118.00 
+13708641,2018-10-17,Victoria,Apartment,$180.00 
+13709810,2018-10-17,Victoria,Apartment,$89.00 
+13713346,2018-10-17,Southern Gulf Islands,Cabin,$191.00 
+13726870,2018-10-17,Langford,House,$150.00 
+13731195,2018-10-17,North Saanich,House,$194.00 
+13734850,2018-10-17,Esquimalt,House,$110.00 
+13735635,2018-10-17,Victoria,Condominium,$99.00 
+13746826,2018-10-17,Southern Gulf Islands,Cabin,$210.00 
+13752656,2018-10-17,Victoria,House,$145.00 
+13752769,2018-10-17,Victoria,Guesthouse,$174.00 
+13754092,2018-10-17,Victoria,House,$99.00 
+13755104,2018-10-17,Saanich,House,$40.00 
+13761046,2018-10-17,Victoria,Townhouse,$200.00 
+13761843,2018-10-17,Victoria,Loft,$105.00 
+13762460,2018-10-17,Victoria,Apartment,$118.00 
+13765204,2018-10-17,Victoria,Condominium,$75.00 
+13773136,2018-10-17,Esquimalt,Guest suite,$78.00 
+13782295,2018-10-17,Juan de Fuca,House,$231.00 
+13784036,2018-10-17,Salt Spring Island,Cabin,$299.00 
+13789121,2018-10-17,Saanich,House,$150.00 
+13796847,2018-10-17,Oak Bay,Apartment,$75.00 
+13809386,2018-10-17,Victoria,Apartment,$318.00 
+13812083,2018-10-17,Juan de Fuca,Guest suite,$226.00 
+13813890,2018-10-17,Salt Spring Island,Bungalow,$65.00 
+13814098,2018-10-17,North Saanich,Cabin,$140.00 
+13816010,2018-10-17,Salt Spring Island,Chalet,$395.00 
+13831338,2018-10-17,Victoria,Apartment,$200.00 
+13840938,2018-10-17,Victoria,House,$99.00 
+13844654,2018-10-17,Sooke,Cabin,$242.00 
+13845755,2018-10-17,Sooke,Bed and breakfast,$187.00 
+13847049,2018-10-17,Sooke,Cottage,$283.00 
+13865416,2018-10-17,Langford,Apartment,$60.00 
+13866511,2018-10-17,Oak Bay,Apartment,$245.00 
+13867116,2018-10-17,Juan de Fuca,House,$194.00 
+13868213,2018-10-17,Esquimalt,Loft,$80.00 
+13878736,2018-10-17,Saanich,House,$150.00 
+13882275,2018-10-17,Saanich,House,$41.00 
+13884942,2018-10-17,Victoria,House,$250.00 
+13885654,2018-10-17,Southern Gulf Islands,Cabin,$194.00 
+13899478,2018-10-17,Salt Spring Island,Cabin,$165.00 
+13914377,2018-10-17,Saanich,Guest suite,$105.00 
+13914539,2018-10-17,Central Saanich,Guest suite,$89.00 
+13914656,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+13926780,2018-10-17,Saanich,House,$104.00 
+13927304,2018-10-17,Victoria,Condominium,$130.00 
+13929339,2018-10-17,Southern Gulf Islands,Guesthouse,$110.00 
+13939898,2018-10-17,Saanich,Guest suite,$99.00 
+13956271,2018-10-17,Oak Bay,House,$65.00 
+13957171,2018-10-17,Victoria,House,$162.00 
+13974719,2018-10-17,Victoria,Apartment,$75.00 
+13981873,2018-10-17,Salt Spring Island,Cabin,$400.00 
+13989108,2018-10-17,Victoria,Condominium,$185.00 
+13999336,2018-10-17,Victoria,House,$165.00 
+13999492,2018-10-17,Victoria,House,$350.00 
+13999967,2018-10-17,Southern Gulf Islands,Guest suite,$110.00 
+14007177,2018-10-17,Southern Gulf Islands,Cabin,$165.00 
+14008822,2018-10-17,North Saanich,House,$67.00 
+14012065,2018-10-17,Victoria,Condominium,$70.00 
+14013161,2018-10-17,Saanich,Apartment,$99.00 
+14027394,2018-10-17,Salt Spring Island,House,$249.00 
+14028205,2018-10-17,View Royal,Townhouse,$99.00 
+14029111,2018-10-17,Victoria,Condominium,$124.00 
+14031960,2018-10-17,Victoria,House,$179.00 
+14042264,2018-10-17,Salt Spring Island,Bed and breakfast,$95.00 
+14043673,2018-10-17,Victoria,Apartment,$165.00 
+14043991,2018-10-17,Colwood,House,$52.00 
+14051566,2018-10-17,Southern Gulf Islands,House,$150.00 
+14053374,2018-10-17,Saanich,Guest suite,$200.00 
+14068557,2018-10-17,Victoria,House,$162.00 
+14075665,2018-10-17,Salt Spring Island,Camper/RV,$108.00 
+14077574,2018-10-17,Victoria,Apartment,$99.00 
+14123674,2018-10-17,Langford,Guest suite,$99.00 
+14138035,2018-10-17,Victoria,Apartment,$97.00 
+14142097,2018-10-17,Salt Spring Island,Cabin,$100.00 
+14154304,2018-10-17,Sooke,House,$70.00 
+14164009,2018-10-17,Esquimalt,House,$80.00 
+14203754,2018-10-17,Saanich,House,$185.00 
+14204829,2018-10-17,Saanich,Guest suite,$67.00 
+14206374,2018-10-17,Victoria,Boutique hotel,$259.00 
+14216637,2018-10-17,Oak Bay,Guest suite,$235.00 
+14222437,2018-10-17,Victoria,Apartment,$175.00 
+14223226,2018-10-17,Esquimalt,Guest suite,$110.00 
+14223365,2018-10-17,Sidney,Condominium,$150.00 
+14239119,2018-10-17,Sooke,Bed and breakfast,$127.00 
+14241045,2018-10-17,Sooke,House,$110.00 
+14252668,2018-10-17,Saanich,Condominium,$150.00 
+14280616,2018-10-17,Victoria,House,$250.00 
+14282182,2018-10-17,Saanich,Guest suite,$124.00 
+14302045,2018-10-17,Victoria,Guest suite,$135.00 
+14312545,2018-10-17,Saanich,Apartment,$65.00 
+14334083,2018-10-17,North Saanich,Apartment,$54.00 
+14336368,2018-10-17,Langford,Guest suite,$97.00 
+14350374,2018-10-17,Sooke,Guest suite,$124.00 
+14353158,2018-10-17,Victoria,Loft,$150.00 
+14370227,2018-10-17,Juan de Fuca,Guest suite,$51.00 
+14376348,2018-10-17,Victoria,Guest suite,$89.00 
+14401907,2018-10-17,Southern Gulf Islands,Cabin,$105.00 
+14405900,2018-10-17,Oak Bay,Guest suite,$115.00 
+14407157,2018-10-17,Southern Gulf Islands,Cabin,$140.00 
+14415548,2018-10-17,Sooke,Bungalow,$49.00 
+14420614,2018-10-17,Saanich,House,$58.00 
+14466878,2018-10-17,Oak Bay,House,$89.00 
+14472858,2018-10-17,Victoria,Guest suite,$79.00 
+14483482,2018-10-17,Victoria,Guest suite,$75.00 
+14484838,2018-10-17,Saanich,Apartment,$500.00 
+14489972,2018-10-17,Saanich,House,$296.00 
+14503926,2018-10-17,Victoria,Loft,$99.00 
+14504406,2018-10-17,Victoria,Apartment,$250.00 
+14549047,2018-10-17,Sooke,Guest suite,$89.00 
+14571691,2018-10-17,Central Saanich,House,$124.00 
+14587928,2018-10-17,Metchosin,Guest suite,$80.00 
+14592102,2018-10-17,Victoria,Condominium,$159.00 
+14604644,2018-10-17,Victoria,Apartment,$180.00 
+14608811,2018-10-17,Victoria,House,$200.00 
+14617132,2018-10-17,Sidney,Condominium,$124.00 
+14617209,2018-10-17,Saanich,Apartment,$67.00 
+14634799,2018-10-17,Victoria,House,$150.00 
+14638694,2018-10-17,Saanich,Guesthouse,$43.00 
+14653715,2018-10-17,Saanich,Guest suite,$89.00 
+14654214,2018-10-17,Victoria,Condominium,$150.00 
+14690388,2018-10-17,Victoria,Condominium,$200.00 
+14698395,2018-10-17,Saanich,House,$180.00 
+14710094,2018-10-17,Esquimalt,Guest suite,$135.00 
+14711707,2018-10-17,Victoria,Condominium,$175.00 
+14711708,2018-10-17,Victoria,Condominium,$200.00 
+14711709,2018-10-17,Victoria,Condominium,$200.00 
+14711710,2018-10-17,Victoria,Condominium,$175.00 
+14714222,2018-10-17,Saanich,Other,$226.00 
+14743539,2018-10-17,Victoria,House,$60.00 
+14745556,2018-10-17,Colwood,Guest suite,$86.00 
+14788387,2018-10-17,Juan de Fuca,Cabin,$119.00 
+14788632,2018-10-17,Victoria,Apartment,$86.00 
+14789140,2018-10-17,Central Saanich,Guest suite,$143.00 
+14791583,2018-10-17,Victoria,House,$80.00 
+14805704,2018-10-17,Victoria,Apartment,$75.00 
+14807938,2018-10-17,Saanich,Guest suite,$96.00 
+14808923,2018-10-17,Salt Spring Island,Cabin,$175.00 
+14819143,2018-10-17,Central Saanich,House,$104.00 
+14819187,2018-10-17,Saanich,Guest suite,$250.00 
+14823969,2018-10-17,Langford,Bed and breakfast,$89.00 
+14824569,2018-10-17,Esquimalt,Apartment,$64.00 
+14827689,2018-10-17,Langford,House,$100.00 
+14840135,2018-10-17,Victoria,Loft,$79.00 
+14844413,2018-10-17,Central Saanich,Guest suite,$163.00 
+14849978,2018-10-17,Victoria,Cottage,$150.00 
+14860444,2018-10-17,Langford,Guest suite,$105.00 
+14871976,2018-10-17,Saanich,Guest suite,$82.00 
+14883597,2018-10-17,Juan de Fuca,House,$250.00 
+14883699,2018-10-17,Langford,House,$76.00 
+14885286,2018-10-17,Oak Bay,House,$299.00 
+14892145,2018-10-17,Saanich,Guesthouse,$150.00 
+14894389,2018-10-17,Saanich,Apartment,$64.00 
+14912799,2018-10-17,Esquimalt,Apartment,$137.00 
+14916232,2018-10-17,Salt Spring Island,Guest suite,$168.00 
+14927889,2018-10-17,Victoria,Loft,$175.00 
+14951943,2018-10-17,Saanich,House,$45.00 
+14952116,2018-10-17,Colwood,Guesthouse,$89.00 
+14953094,2018-10-17,Langford,House,$100.00 
+14962201,2018-10-17,Salt Spring Island,Farm stay,$99.00 
+14964353,2018-10-17,Victoria,Guesthouse,$80.00 
+14966485,2018-10-17,Juan de Fuca,Cottage,$220.00 
+14994787,2018-10-17,Sooke,Cabin,$220.00 
+14996570,2018-10-17,Langford,House,$60.00 
+14996848,2018-10-17,Langford,House,$51.00 
+15006232,2018-10-17,Saanich,Apartment,$250.00 
+15026125,2018-10-17,Salt Spring Island,Farm stay,$196.00 
+15028324,2018-10-17,Saanich,Guest suite,$75.00 
+15040911,2018-10-17,Victoria,Condominium,$139.00 
+15049382,2018-10-17,Central Saanich,Guesthouse,$75.00 
+15050097,2018-10-17,Central Saanich,Guesthouse,$60.00 
+15060878,2018-10-17,Central Saanich,Apartment,$89.00 
+15070306,2018-10-17,Saanich,House,$80.00 
+15086474,2018-10-17,Colwood,Guest suite,$75.00 
+15098736,2018-10-17,View Royal,Apartment,$49.00 
+15101547,2018-10-17,Victoria,Condominium,$119.00 
+15107007,2018-10-17,Saanich,Apartment,$70.00 
+15109059,2018-10-17,Sidney,Condominium,$124.00 
+15110263,2018-10-17,Victoria,Townhouse,$95.00 
+15114964,2018-10-17,Saanich,House,$60.00 
+15127623,2018-10-17,Saanich,Guesthouse,$159.00 
+15128204,2018-10-17,Langford,House,$35.00 
+15131998,2018-10-17,Langford,House,$30.00 
+15151262,2018-10-17,Victoria,Condominium,$172.00 
+15158242,2018-10-17,Saanich,Guest suite,$70.00 
+15158671,2018-10-17,Victoria,House,$80.00 
+15160430,2018-10-17,Sooke,Guest suite,$159.00 
+15161155,2018-10-17,Sooke,Guest suite,$189.00 
+15166928,2018-10-17,Saanich,House,$78.00 
+15167803,2018-10-17,Victoria,Condominium,$159.00 
+15217366,2018-10-17,Saanich,Guest suite,$95.00 
+15223401,2018-10-17,Victoria,House,$100.00 
+15230694,2018-10-17,Langford,Guesthouse,$51.00 
+15233283,2018-10-17,Southern Gulf Islands,House,$175.00 
+15236604,2018-10-17,North Saanich,House,$65.00 
+15256969,2018-10-17,Juan de Fuca,House,$235.00 
+15268338,2018-10-17,Salt Spring Island,Cabin,$100.00 
+15296700,2018-10-17,Victoria,Apartment,$150.00 
+15298105,2018-10-17,Victoria,Condominium,$362.00 
+15298944,2018-10-17,Victoria,Condominium,$319.00 
+15300899,2018-10-17,Victoria,House,$60.00 
+15314617,2018-10-17,Victoria,Guest suite,$64.00 
+15323349,2018-10-17,Salt Spring Island,Guest suite,$75.00 
+15335824,2018-10-17,Langford,House,$439.00 
+15343094,2018-10-17,Saanich,Other,$270.00 
+15356911,2018-10-17,Saanich,House,$215.00 
+15374405,2018-10-17,Salt Spring Island,Guest suite,$135.00 
+15378384,2018-10-17,Victoria,Apartment,$80.00 
+15379059,2018-10-17,Saanich,House,$51.00 
+15396995,2018-10-17,Sooke,House,$47.00 
+15406109,2018-10-17,Saanich,Guest suite,$229.00 
+15422628,2018-10-17,Central Saanich,Guest suite,$89.00 
+15423675,2018-10-17,Saanich,Guest suite,$110.00 
+15431131,2018-10-17,Victoria,Guest suite,$99.00 
+15447796,2018-10-17,Victoria,Condominium,$215.00 
+15463719,2018-10-17,Saanich,Other,$108.00 
+15470056,2018-10-17,Victoria,House,$250.00 
+15501430,2018-10-17,Oak Bay,House,$121.00 
+15509742,2018-10-17,Victoria,House,$54.00 
+15523705,2018-10-17,North Saanich,House,$84.00 
+15534203,2018-10-17,Victoria,Apartment,$75.00 
+15583472,2018-10-17,Victoria,Apartment,$84.00 
+15599184,2018-10-17,View Royal,Guest suite,$109.00 
+15630192,2018-10-17,Victoria,Apartment,$255.00 
+15633686,2018-10-17,Juan de Fuca,Guest suite,$130.00 
+15634316,2018-10-17,Victoria,House,$93.00 
+15634561,2018-10-17,Victoria,Condominium,$139.00 
+15642981,2018-10-17,Saanich,House,$69.00 
+15675433,2018-10-17,North Saanich,House,$248.00 
+15678840,2018-10-17,Saanich,Condominium,$76.00 
+15692915,2018-10-17,Victoria,House,$30.00 
+15701121,2018-10-17,Victoria,House,$70.00 
+15720550,2018-10-17,Victoria,Guest suite,$75.00 
+15741496,2018-10-17,Salt Spring Island,Bungalow,$250.00 
+15743560,2018-10-17,Victoria,Apartment,$150.00 
+15746238,2018-10-17,Victoria,House,$121.00 
+15758350,2018-10-17,Southern Gulf Islands,Guest suite,$69.00 
+15759885,2018-10-17,Sidney,Guest suite,$89.00 
+15767845,2018-10-17,Salt Spring Island,Apartment,$113.00 
+15788110,2018-10-17,Esquimalt,Other,$121.00 
+15792611,2018-10-17,Saanich,Guesthouse,$124.00 
+15822130,2018-10-17,Saanich,House,$80.00 
+15822225,2018-10-17,Oak Bay,House,$66.00 
+15854110,2018-10-17,Victoria,Condominium,$175.00 
+15854483,2018-10-17,Victoria,Condominium,$79.00 
+15857325,2018-10-17,Juan de Fuca,Guest suite,$179.00 
+15860003,2018-10-17,Victoria,House,$80.00 
+15890991,2018-10-17,Victoria,House,$200.00 
+15894612,2018-10-17,Saanich,Apartment,$130.00 
+15899115,2018-10-17,Southern Gulf Islands,Guest suite,$86.00 
+15941233,2018-10-17,Victoria,House,$45.00 
+15955141,2018-10-17,Juan de Fuca,Cabin,$375.00 
+15958558,2018-10-17,Langford,House,$75.00 
+15971553,2018-10-17,Sooke,Apartment,$80.00 
+16005639,2018-10-17,Saanich,House,$51.00 
+16012047,2018-10-17,Juan de Fuca,Cabin,$140.00 
+16017201,2018-10-17,Central Saanich,House,$75.00 
+16018717,2018-10-17,Oak Bay,Guesthouse,$67.00 
+16019546,2018-10-17,Victoria,Condominium,$250.00 
+16032929,2018-10-17,Sooke,Cottage,$215.00 
+16039642,2018-10-17,Victoria,Guest suite,$95.00 
+16041624,2018-10-17,Victoria,Loft,$156.00 
+16057941,2018-10-17,Salt Spring Island,Guest suite,$140.00 
+16069378,2018-10-17,Colwood,House,$69.00 
+16113933,2018-10-17,Victoria,House,$145.00 
+16120335,2018-10-17,View Royal,Townhouse,$70.00 
+16120388,2018-10-17,Victoria,Loft,$115.00 
+16121190,2018-10-17,Victoria,House,$315.00 
+16145456,2018-10-17,Salt Spring Island,Guest suite,$149.00 
+16148474,2018-10-17,Victoria,House,$88.00 
+16160233,2018-10-17,View Royal,House,$51.00 
+16164267,2018-10-17,Oak Bay,House,$51.00 
+16164992,2018-10-17,Oak Bay,Guest suite,$80.00 
+16166263,2018-10-17,Sooke,Guest suite,$156.00 
+16180702,2018-10-17,Victoria,Apartment,$66.00 
+16195672,2018-10-17,Sooke,House,$115.00 
+16207703,2018-10-17,Victoria,Condominium,$86.00 
+16231036,2018-10-17,Victoria,Apartment,$149.00 
+16244371,2018-10-17,Victoria,Condominium,$99.00 
+16270741,2018-10-17,Victoria,Apartment,$130.00 
+16284198,2018-10-17,Southern Gulf Islands,Bed and breakfast,$651.00 
+16289449,2018-10-17,Victoria,Condominium,$178.00 
+16302892,2018-10-17,Saanich,House,$175.00 
+16303785,2018-10-17,Juan de Fuca,House,$275.00 
+16324761,2018-10-17,Saanich,House,$45.00 
+16325620,2018-10-17,Saanich,Apartment,$39.00 
+16332186,2018-10-17,Esquimalt,Cabin,$48.00 
+16334351,2018-10-17,Victoria,House,$145.00 
+16336606,2018-10-17,Victoria,Guest suite,$95.00 
+16365625,2018-10-17,Victoria,Apartment,$60.00 
+16377866,2018-10-17,Langford,Condominium,$110.00 
+16399859,2018-10-17,Victoria,House,$60.00 
+16407331,2018-10-17,Salt Spring Island,Bed and breakfast,$150.00 
+16416222,2018-10-17,Colwood,Apartment,$75.00 
+16426332,2018-10-17,Juan de Fuca,House,$250.00 
+16427710,2018-10-17,Victoria,Condominium,$47.00 
+16439344,2018-10-17,Colwood,Condominium,$159.00 
+16441044,2018-10-17,Salt Spring Island,Bed and breakfast,$130.00 
+16442687,2018-10-17,North Saanich,House,$58.00 
+16452376,2018-10-17,Juan de Fuca,House,$325.00 
+16458308,2018-10-17,Langford,Guest suite,$109.00 
+16462107,2018-10-17,Victoria,Condominium,$99.00 
+16464140,2018-10-17,Victoria,Condominium,$80.00 
+16482112,2018-10-17,Victoria,House,$226.00 
+16483051,2018-10-17,Sidney,Guest suite,$48.00 
+16489485,2018-10-17,Victoria,Loft,$99.00 
+16499619,2018-10-17,Victoria,Apartment,$165.00 
+16530192,2018-10-17,Victoria,House,$250.00 
+16546295,2018-10-17,Victoria,Condominium,$250.00 
+16546776,2018-10-17,Victoria,Serviced apartment,$170.00 
+16553994,2018-10-17,Metchosin,Chalet,$206.00 
+16571066,2018-10-17,Southern Gulf Islands,Guesthouse,$150.00 
+16572163,2018-10-17,Victoria,House,$86.00 
+16579028,2018-10-17,Victoria,House,$210.00 
+16579585,2018-10-17,Victoria,Cabin,$110.00 
+16587995,2018-10-17,Victoria,Apartment,$150.00 
+16588896,2018-10-17,Salt Spring Island,Guest suite,$140.00 
+16598489,2018-10-17,Saanich,House,$171.00 
+16599081,2018-10-17,Juan de Fuca,Cabin,$215.00 
+16600880,2018-10-17,Salt Spring Island,Bed and breakfast,$89.00 
+16621312,2018-10-17,Salt Spring Island,Cabin,$145.00 
+16630248,2018-10-17,Victoria,House,$95.00 
+16632095,2018-10-17,Victoria,Condominium,$75.00 
+16633401,2018-10-17,Victoria,Condominium,$97.00 
+16645899,2018-10-17,Victoria,House,$229.00 
+16661146,2018-10-17,Juan de Fuca,House,$194.00 
+16666031,2018-10-17,Langford,House,$100.00 
+16673476,2018-10-17,Salt Spring Island,Bed and breakfast,$80.00 
+16675438,2018-10-17,Victoria,Apartment,$95.00 
+16675549,2018-10-17,Salt Spring Island,Bed and breakfast,$89.00 
+16703568,2018-10-17,Victoria,Condominium,$75.00 
+16722614,2018-10-17,Salt Spring Island,Cabin,$89.00 
+16724187,2018-10-17,North Saanich,Guest suite,$60.00 
+16725132,2018-10-17,Victoria,Apartment,$100.00 
+16727210,2018-10-17,Victoria,Apartment,$49.00 
+16739704,2018-10-17,Victoria,House,$89.00 
+16783551,2018-10-17,Victoria,Guest suite,$100.00 
+16798251,2018-10-17,Victoria,House,$200.00 
+16813313,2018-10-17,Victoria,Condominium,$105.00 
+16813498,2018-10-17,Victoria,Condominium,$181.00 
+16825468,2018-10-17,Southern Gulf Islands,House,$121.00 
+16827910,2018-10-17,Victoria,Apartment,$175.00 
+16829848,2018-10-17,Salt Spring Island,Guest suite,$150.00 
+16840080,2018-10-17,Salt Spring Island,House,$180.00 
+16841248,2018-10-17,Saanich,Cabin,$250.00 
+16843631,2018-10-17,Sooke,Guest suite,$86.00 
+16844900,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+16845931,2018-10-17,Central Saanich,House,$306.00 
+16847317,2018-10-17,Victoria,Condominium,$115.00 
+16856795,2018-10-17,Victoria,House,$89.00 
+16857207,2018-10-17,Juan de Fuca,Guest suite,$110.00 
+16858840,2018-10-17,Saanich,House,$250.00 
+16860611,2018-10-17,Victoria,Condominium,$99.00 
+16861864,2018-10-17,Saanich,House,$191.00 
+16868803,2018-10-17,Victoria,Apartment,$62.00 
+16871621,2018-10-17,Highlands,House,$250.00 
+16885749,2018-10-17,Sooke,House,$95.00 
+16892875,2018-10-17,Victoria,Apartment,$86.00 
+16918742,2018-10-17,Saanich,Apartment,$66.00 
+16931441,2018-10-17,North Saanich,House,$124.00 
+16940893,2018-10-17,Victoria,Apartment,$89.00 
+16942810,2018-10-17,Saanich,House,$30.00 
+16944128,2018-10-17,Saanich,Guest suite,$150.00 
+16946115,2018-10-17,Metchosin,Guesthouse,$345.00 
+16946502,2018-10-17,Saanich,House,$99.00 
+16961244,2018-10-17,Victoria,Townhouse,$53.00 
+16961355,2018-10-17,Sooke,Tipi,$250.00 
+16972953,2018-10-17,Victoria,Apartment,$26.00 
+16985287,2018-10-17,Victoria,Condominium,$168.00 
+16986135,2018-10-17,Victoria,House,$75.00 
+16986819,2018-10-17,Saanich,House,$79.00 
+16996566,2018-10-17,Victoria,Apartment,$130.00 
+16997904,2018-10-17,Saanich,House,$92.00 
+16999783,2018-10-17,Victoria,Loft,$95.00 
+17000110,2018-10-17,Esquimalt,Apartment,$99.00 
+17028047,2018-10-17,Victoria,Condominium,$76.00 
+17037315,2018-10-17,Victoria,House,$54.00 
+17047239,2018-10-17,Saanich,House,$375.00 
+17074137,2018-10-17,Victoria,Condominium,$365.00 
+17098472,2018-10-17,Langford,Guest suite,$80.00 
+17109065,2018-10-17,Langford,Guest suite,$159.00 
+17123261,2018-10-17,Juan de Fuca,Cabin,$130.00 
+17123490,2018-10-17,Juan de Fuca,Cabin,$130.00 
+17125236,2018-10-17,Victoria,Apartment,$135.00 
+17125635,2018-10-17,Victoria,House,$130.00 
+17134652,2018-10-17,Langford,House,$500.00 
+17142772,2018-10-17,Oak Bay,Apartment,$95.00 
+17154598,2018-10-17,Saanich,Guest suite,$70.00 
+17156474,2018-10-17,Salt Spring Island,Cabin,$226.00 
+17156623,2018-10-17,Oak Bay,House,$73.00 
+17159254,2018-10-17,Southern Gulf Islands,Cottage,$200.00 
+17160221,2018-10-17,Saanich,House,$41.00 
+17160812,2018-10-17,Victoria,Apartment,$105.00 
+17173372,2018-10-17,Oak Bay,House,$264.00 
+17175894,2018-10-17,Victoria,Townhouse,$86.00 
+17177193,2018-10-17,Victoria,Boat,$200.00 
+17178012,2018-10-17,Victoria,House,$165.00 
+17187458,2018-10-17,Victoria,Apartment,$99.00 
+17188507,2018-10-17,Esquimalt,Boutique hotel,$39.00 
+17189542,2018-10-17,Saanich,Guest suite,$89.00 
+17190139,2018-10-17,Esquimalt,Boutique hotel,$41.00 
+17190515,2018-10-17,Victoria,Condominium,$57.00 
+17191992,2018-10-17,Victoria,Guest suite,$65.00 
+17192454,2018-10-17,Salt Spring Island,Guesthouse,$275.00 
+17207952,2018-10-17,Victoria,Condominium,$119.00 
+17209726,2018-10-17,Saanich,House,$48.00 
+17220825,2018-10-17,Victoria,Condominium,$259.00 
+17223165,2018-10-17,Colwood,Guest suite,$118.00 
+17226357,2018-10-17,Victoria,Condominium,$115.00 
+17234815,2018-10-17,Southern Gulf Islands,House,$75.00 
+17238843,2018-10-17,North Saanich,Guesthouse,$65.00 
+17240593,2018-10-17,North Saanich,Guesthouse,$75.00 
+17240718,2018-10-17,North Saanich,Guesthouse,$75.00 
+17257176,2018-10-17,Victoria,House,$200.00 
+17266566,2018-10-17,Colwood,Guest suite,$130.00 
+17268271,2018-10-17,Victoria,Apartment,$159.00 
+17270361,2018-10-17,Victoria,Apartment,$80.00 
+17271979,2018-10-17,Langford,House,$185.00 
+17285957,2018-10-17,Victoria,Guest suite,$124.00 
+17300773,2018-10-17,Victoria,Condominium,$80.00 
+17303302,2018-10-17,Victoria,Apartment,$99.00 
+17311954,2018-10-17,Juan de Fuca,Cabin,$189.00 
+17328751,2018-10-17,Victoria,Condominium,$350.00 
+17331320,2018-10-17,Oak Bay,House,$130.00 
+17331592,2018-10-17,Victoria,Condominium,$65.00 
+17334708,2018-10-17,Salt Spring Island,Guest suite,$117.00 
+17349799,2018-10-17,Saanich,Bungalow,$40.00 
+17362527,2018-10-17,Victoria,Apartment,$62.00 
+17364959,2018-10-17,Saanich,Guest suite,$159.00 
+17367159,2018-10-17,North Saanich,House,$95.00 
+17369528,2018-10-17,Langford,House,$69.00 
+17386202,2018-10-17,Langford,Condominium,$78.00 
+17409425,2018-10-17,Esquimalt,House,$89.00 
+17435765,2018-10-17,Victoria,Condominium,$100.00 
+17436065,2018-10-17,Oak Bay,House,$350.00 
+17436104,2018-10-17,Victoria,House,$65.00 
+17448716,2018-10-17,Saanich,Apartment,$378.00 
+17459225,2018-10-17,Southern Gulf Islands,Bed and breakfast,$135.00 
+17459274,2018-10-17,Saanich,House,$124.00 
+17461087,2018-10-17,Saanich,House,$75.00 
+17465485,2018-10-17,Victoria,Guest suite,$67.00 
+17476846,2018-10-17,Salt Spring Island,Apartment,$124.00 
+17477739,2018-10-17,Victoria,House,$165.00 
+17478927,2018-10-17,North Saanich,Cabin,$86.00 
+17493894,2018-10-17,Southern Gulf Islands,Bed and breakfast,$124.00 
+17495323,2018-10-17,Salt Spring Island,Camper/RV,$83.00 
+17497539,2018-10-17,Southern Gulf Islands,Bed and breakfast,$124.00 
+17497606,2018-10-17,Victoria,Condominium,$149.00 
+17527172,2018-10-17,Colwood,Camper/RV,$95.00 
+17528347,2018-10-17,Sooke,Cottage,$159.00 
+17540901,2018-10-17,Sooke,Cabin,$159.00 
+17544437,2018-10-17,Victoria,House,$60.00 
+17548488,2018-10-17,Victoria,House,$65.00 
+17548541,2018-10-17,Victoria,Apartment,$99.00 
+17559001,2018-10-17,Victoria,House,$70.00 
+17559800,2018-10-17,Saanich,Condominium,$86.00 
+17573005,2018-10-17,Victoria,Condominium,$143.00 
+17587776,2018-10-17,Saanich,House,$51.00 
+17593503,2018-10-17,Victoria,Condominium,$79.00 
+17608833,2018-10-17,Saanich,House,$135.00 
+17608865,2018-10-17,Victoria,House,$100.00 
+17610936,2018-10-17,Victoria,Condominium,$121.00 
+17622815,2018-10-17,Southern Gulf Islands,Cabin,$110.00 
+17624080,2018-10-17,Victoria,House,$121.00 
+17626450,2018-10-17,Saanich,Guest suite,$60.00 
+17626907,2018-10-17,Saanich,House,$32.00 
+17640700,2018-10-17,Saanich,Other,$40.00 
+17642609,2018-10-17,Juan de Fuca,Cabin,$191.00 
+17667098,2018-10-17,North Saanich,House,$153.00 
+17682887,2018-10-17,Oak Bay,House,$263.00 
+17682980,2018-10-17,Victoria,Apartment,$83.00 
+17701712,2018-10-17,Victoria,House,$110.00 
+17701967,2018-10-17,Salt Spring Island,House,$250.00 
+17713473,2018-10-17,Victoria,Guest suite,$80.00 
+17787239,2018-10-17,Esquimalt,House,$56.00 
+17793253,2018-10-17,North Saanich,House,$275.00 
+17794040,2018-10-17,Langford,House,$111.00 
+17796946,2018-10-17,Langford,Guest suite,$64.00 
+17799188,2018-10-17,Saanich,Guest suite,$78.00 
+17806950,2018-10-17,Salt Spring Island,House,$340.00 
+17814482,2018-10-17,Saanich,House,$124.00 
+17826358,2018-10-17,Saanich,Guest suite,$89.00 
+17828582,2018-10-17,Saanich,House,$80.00 
+17843646,2018-10-17,Victoria,Apartment,$299.00 
+17848611,2018-10-17,Victoria,Loft,$80.00 
+17862936,2018-10-17,Esquimalt,House,$700.00 
+17866324,2018-10-17,Salt Spring Island,House,$229.00 
+17882050,2018-10-17,Victoria,Guest suite,$89.00 
+17893740,2018-10-17,Victoria,House,$60.00 
+17894070,2018-10-17,Sooke,Guesthouse,$73.00 
+17895379,2018-10-17,Victoria,Apartment,$70.00 
+17899387,2018-10-17,Saanich,House,$194.00 
+17903353,2018-10-17,Sooke,House,$71.00 
+17907306,2018-10-17,Victoria,House,$135.00 
+17923288,2018-10-17,Juan de Fuca,Cabin,$250.00 
+17925848,2018-10-17,Saanich,Apartment,$99.00 
+17928197,2018-10-17,Victoria,House,$99.00 
+17928746,2018-10-17,Esquimalt,Guest suite,$99.00 
+17929781,2018-10-17,Victoria,Apartment,$121.00 
+17940708,2018-10-17,Saanich,House,$36.00 
+17942921,2018-10-17,Victoria,Apartment,$89.00 
+17944230,2018-10-17,Salt Spring Island,House,$425.00 
+17956646,2018-10-17,Victoria,House,$89.00 
+17957392,2018-10-17,Victoria,Apartment,$51.00 
+17958339,2018-10-17,Saanich,House,$119.00 
+17962448,2018-10-17,Central Saanich,House,$66.00 
+17964261,2018-10-17,North Saanich,Cottage,$299.00 
+17965600,2018-10-17,Victoria,Apartment,$130.00 
+17965739,2018-10-17,Victoria,Apartment,$70.00 
+17971997,2018-10-17,Victoria,Apartment,$130.00 
+17991358,2018-10-17,Langford,Guest suite,$95.00 
+17995137,2018-10-17,Victoria,House,$70.00 
+18006322,2018-10-17,Southern Gulf Islands,Cabin,$170.00 
+18009271,2018-10-17,Victoria,Apartment,$75.00 
+18009629,2018-10-17,Victoria,Apartment,$73.00 
+18018102,2018-10-17,Central Saanich,House,$110.00 
+18022633,2018-10-17,Victoria,Loft,$73.00 
+18023475,2018-10-17,Esquimalt,Guest suite,$135.00 
+18024294,2018-10-17,Victoria,Guest suite,$75.00 
+18024577,2018-10-17,Esquimalt,Guest suite,$74.00 
+18035200,2018-10-17,North Saanich,Guesthouse,$70.00 
+18040760,2018-10-17,Juan de Fuca,House,$121.00 
+18042115,2018-10-17,Saanich,House,$194.00 
+18058814,2018-10-17,Salt Spring Island,Bed and breakfast,$200.00 
+18072335,2018-10-17,Salt Spring Island,Bed and breakfast,$165.00 
+18076136,2018-10-17,Salt Spring Island,Bed and breakfast,$229.00 
+18089050,2018-10-17,Saanich,Guest suite,$289.00 
+18103872,2018-10-17,Colwood,House,$150.00 
+18110341,2018-10-17,North Saanich,House,$110.00 
+18125439,2018-10-17,Sooke,Guest suite,$106.00 
+18125494,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+18125931,2018-10-17,Victoria,Condominium,$121.00 
+18126006,2018-10-17,Victoria,Apartment,$100.00 
+18141691,2018-10-17,Victoria,Guest suite,$75.00 
+18141873,2018-10-17,Salt Spring Island,Guesthouse,$80.00 
+18142683,2018-10-17,Juan de Fuca,Cabin,$99.00 
+18153225,2018-10-17,Victoria,Condominium,$132.00 
+18163171,2018-10-17,Victoria,Apartment,$80.00 
+18178659,2018-10-17,Victoria,Apartment,$100.00 
+18191668,2018-10-17,Saanich,Cottage,$115.00 
+18193213,2018-10-17,Saanich,House,$150.00 
+18200011,2018-10-17,Saanich,House,$380.00 
+18214512,2018-10-17,Southern Gulf Islands,Cottage,$111.00 
+18214554,2018-10-17,Victoria,Condominium,$113.00 
+18220844,2018-10-17,Victoria,Apartment,$200.00 
+18224170,2018-10-17,Saanich,House,$49.00 
+18235736,2018-10-17,Saanich,Guest suite,$80.00 
+18237054,2018-10-17,Southern Gulf Islands,Villa,$150.00 
+18238476,2018-10-17,Victoria,Apartment,$137.00 
+18252138,2018-10-17,Victoria,Apartment,$150.00 
+18257233,2018-10-17,Victoria,House,$325.00 
+18270292,2018-10-17,Sidney,House,$150.00 
+18272434,2018-10-17,Saanich,House,$38.00 
+18273171,2018-10-17,Victoria,House,$149.00 
+18273443,2018-10-17,Saanich,House,$30.00 
+18284310,2018-10-17,Saanich,House,$58.00 
+18288578,2018-10-17,Saanich,Guest suite,$89.00 
+18293610,2018-10-17,Victoria,Apartment,$75.00 
+18296201,2018-10-17,View Royal,House,$97.00 
+18310719,2018-10-17,Sidney,House,$250.00 
+18311237,2018-10-17,Victoria,Condominium,$150.00 
+18317892,2018-10-17,Saanich,Apartment,$86.00 
+18325281,2018-10-17,View Royal,Bungalow,$64.00 
+18330406,2018-10-17,Victoria,Townhouse,$86.00 
+18348033,2018-10-17,Saanich,Guest suite,$130.00 
+18353326,2018-10-17,Victoria,Townhouse,$210.00 
+18359847,2018-10-17,Saanich,Condominium,$45.00 
+18371867,2018-10-17,Victoria,Guest suite,$181.00 
+18375188,2018-10-17,Victoria,Apartment,$86.00 
+18375737,2018-10-17,View Royal,Guest suite,$99.00 
+18376311,2018-10-17,Sooke,Townhouse,$200.00 
+18377151,2018-10-17,Victoria,Condominium,$95.00 
+18389133,2018-10-17,North Saanich,Guesthouse,$226.00 
+18414382,2018-10-17,Victoria,Guest suite,$150.00 
+18416462,2018-10-17,Victoria,Apartment,$79.00 
+18426408,2018-10-17,Victoria,Condominium,$130.00 
+18432712,2018-10-17,Victoria,Apartment,$64.00 
+18433999,2018-10-17,Victoria,Apartment,$261.00 
+18435844,2018-10-17,Victoria,House,$600.00 
+18444818,2018-10-17,Victoria,House,$75.00 
+18447442,2018-10-17,Metchosin,Guest suite,$89.00 
+18449848,2018-10-17,Victoria,Apartment,$135.00 
+18475580,2018-10-17,Saanich,House,$60.00 
+18488682,2018-10-17,Victoria,Condominium,$119.00 
+18503118,2018-10-17,Sidney,Guest suite,$100.00 
+18507117,2018-10-17,Saanich,Guest suite,$69.00 
+18508077,2018-10-17,Saanich,House,$73.00 
+18508624,2018-10-17,Saanich,House,$54.00 
+18510487,2018-10-17,Victoria,Guest suite,$150.00 
+18520442,2018-10-17,Southern Gulf Islands,Guest suite,$86.00 
+18523429,2018-10-17,Saanich,Cottage,$100.00 
+18523886,2018-10-17,Victoria,House,$60.00 
+18528593,2018-10-17,Langford,House,$220.00 
+18545371,2018-10-17,Saanich,Guest suite,$100.00 
+18547703,2018-10-17,Victoria,House,$296.00 
+18550854,2018-10-17,Saanich,Guest suite,$150.00 
+18559295,2018-10-17,Sidney,House,$100.00 
+18561964,2018-10-17,Saanich,Apartment,$60.00 
+18567154,2018-10-17,Saanich,Guest suite,$69.00 
+18567678,2018-10-17,Juan de Fuca,Bungalow,$194.00 
+18569710,2018-10-17,Salt Spring Island,House,$298.00 
+18570634,2018-10-17,Saanich,Apartment,$75.00 
+18584298,2018-10-17,Juan de Fuca,Guest suite,$95.00 
+18587260,2018-10-17,Victoria,Condominium,$99.00 
+18600053,2018-10-17,Colwood,Guest suite,$80.00 
+18600683,2018-10-17,Central Saanich,House,$250.00 
+18601759,2018-10-17,Saanich,House,$89.00 
+18615134,2018-10-17,Victoria,Apartment,$30.00 
+18618201,2018-10-17,Saanich,House,$111.00 
+18630535,2018-10-17,Salt Spring Island,Bed and breakfast,$550.00 
+18630981,2018-10-17,Sidney,Bungalow,$279.00 
+18640440,2018-10-17,Victoria,House,$200.00 
+18642362,2018-10-17,Victoria,House,$200.00 
+18655789,2018-10-17,Victoria,House,$250.00 
+18656768,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+18673143,2018-10-17,Oak Bay,House,$525.00 
+18687582,2018-10-17,Salt Spring Island,Guesthouse,$100.00 
+18689893,2018-10-17,North Saanich,Bed and breakfast,$115.00 
+18692473,2018-10-17,Saanich,House,$45.00 
+18692896,2018-10-17,Central Saanich,Guest suite,$130.00 
+18705753,2018-10-17,Salt Spring Island,House,$200.00 
+18706042,2018-10-17,Oak Bay,Apartment,$51.00 
+18717764,2018-10-17,Victoria,Apartment,$140.00 
+18717988,2018-10-17,Victoria,Condominium,$124.00 
+18732011,2018-10-17,Victoria,Condominium,$48.00 
+18735936,2018-10-17,View Royal,Apartment,$130.00 
+18747958,2018-10-17,Victoria,House,$86.00 
+18748785,2018-10-17,Sooke,Guest suite,$137.00 
+18753612,2018-10-17,Victoria,House,$214.00 
+18754476,2018-10-17,Victoria,Loft,$124.00 
+18767735,2018-10-17,Sidney,Guest suite,$200.00 
+18768574,2018-10-17,Victoria,Guest suite,$115.00 
+18770479,2018-10-17,Victoria,Condominium,$124.00 
+18771276,2018-10-17,Saanich,House,$100.00 
+18771463,2018-10-17,Victoria,Townhouse,$124.00 
+18777535,2018-10-17,Saanich,House,$60.00 
+18778241,2018-10-17,Victoria,House,$425.00 
+18789338,2018-10-17,North Saanich,Bed and breakfast,$130.00 
+18794187,2018-10-17,Victoria,Condominium,$117.00 
+18795212,2018-10-17,Victoria,Guest suite,$132.00 
+18796051,2018-10-17,Victoria,Condominium,$150.00 
+18810069,2018-10-17,Sidney,Guest suite,$99.00 
+18812815,2018-10-17,Saanich,House,$75.00 
+18822125,2018-10-17,Victoria,Condominium,$159.00 
+18823618,2018-10-17,Victoria,Apartment,$95.00 
+18827332,2018-10-17,Salt Spring Island,Cottage,$121.00 
+18827601,2018-10-17,Langford,Guest suite,$95.00 
+18836579,2018-10-17,Sidney,Bungalow,$249.00 
+18842754,2018-10-17,Victoria,Condominium,$124.00 
+18847886,2018-10-17,Saanich,Guest suite,$121.00 
+18855400,2018-10-17,Victoria,House,$165.00 
+18857833,2018-10-17,Oak Bay,Guesthouse,$124.00 
+18858698,2018-10-17,Victoria,House,$296.00 
+18875433,2018-10-17,Victoria,Condominium,$141.00 
+18877085,2018-10-17,Sooke,Guest suite,$79.00 
+18878238,2018-10-17,Langford,Apartment,$57.00 
+18891220,2018-10-17,Salt Spring Island,Guest suite,$108.00 
+18892336,2018-10-17,Victoria,Apartment,$67.00 
+18909148,2018-10-17,Saanich,House,$60.00 
+18909542,2018-10-17,Victoria,Loft,$115.00 
+18912719,2018-10-17,Saanich,Bungalow,$213.00 
+18914929,2018-10-17,Victoria,Apartment,$54.00 
+18915278,2018-10-17,View Royal,House,$229.00 
+18915761,2018-10-17,Victoria,Condominium,$121.00 
+18915906,2018-10-17,Colwood,House,$280.00 
+18929912,2018-10-17,Victoria,Condominium,$111.00 
+18930032,2018-10-17,Victoria,Loft,$99.00 
+18930103,2018-10-17,Victoria,Condominium,$219.00 
+18930548,2018-10-17,Victoria,House,$40.00 
+18933448,2018-10-17,Victoria,Condominium,$121.00 
+18935666,2018-10-17,Victoria,House,$140.00 
+18946496,2018-10-17,Saanich,Guest suite,$180.00 
+18951070,2018-10-17,Victoria,Apartment,$110.00 
+18961777,2018-10-17,Southern Gulf Islands,Cabin,$175.00 
+18961783,2018-10-17,Victoria,Guest suite,$75.00 
+18974957,2018-10-17,Saanich,Villa,$86.00 
+18976930,2018-10-17,Langford,Guest suite,$75.00 
+18992633,2018-10-17,Victoria,Guest suite,$124.00 
+18992893,2018-10-17,Saanich,Condominium,$27.00 
+18995006,2018-10-17,Southern Gulf Islands,Cottage,$140.00 
+18995190,2018-10-17,Victoria,Guest suite,$99.00 
+18995765,2018-10-17,Langford,House,$159.00 
+18998251,2018-10-17,Victoria,Guest suite,$100.00 
+18999997,2018-10-17,Victoria,House,$124.00 
+19000167,2018-10-17,Saanich,Cottage,$70.00 
+19001302,2018-10-17,Victoria,Condominium,$144.00 
+19001835,2018-10-17,Victoria,Condominium,$130.00 
+19014179,2018-10-17,Saanich,Guest suite,$75.00 
+19018489,2018-10-17,Southern Gulf Islands,Cabin,$323.00 
+19019705,2018-10-17,Saanich,House,$220.00 
+19022182,2018-10-17,Victoria,Apartment,$73.00 
+19037844,2018-10-17,Victoria,Guest suite,$165.00 
+19049664,2018-10-17,Victoria,House,$275.00 
+19050973,2018-10-17,Victoria,Guest suite,$76.00 
+19056617,2018-10-17,View Royal,House,$52.00 
+19058476,2018-10-17,Saanich,House,$75.00 
+19071602,2018-10-17,Saanich,Guest suite,$89.00 
+19073693,2018-10-17,Saanich,Cabin,$88.00 
+19073855,2018-10-17,Victoria,Condominium,$159.00 
+19074084,2018-10-17,Victoria,Condominium,$168.00 
+19080680,2018-10-17,Salt Spring Island,Guest suite,$130.00 
+19086380,2018-10-17,Victoria,House,$213.00 
+19086816,2018-10-17,Sooke,Guest suite,$60.00 
+19087221,2018-10-17,Southern Gulf Islands,Camper/RV,$88.00 
+19087461,2018-10-17,View Royal,Other,$61.00 
+19087906,2018-10-17,Saanich,Apartment,$119.00 
+19095573,2018-10-17,Salt Spring Island,Cabin,$67.00 
+19097894,2018-10-17,Sooke,House,$250.00 
+19101534,2018-10-17,Metchosin,Guesthouse,$73.00 
+19105527,2018-10-17,Saanich,Guest suite,$150.00 
+19111726,2018-10-17,Langford,House,$500.00 
+19114568,2018-10-17,Saanich,Guest suite,$97.00 
+19118277,2018-10-17,Victoria,Guest suite,$124.00 
+19118599,2018-10-17,Saanich,Apartment,$150.00 
+19120588,2018-10-17,Salt Spring Island,House,$286.00 
+19137657,2018-10-17,Juan de Fuca,House,"$3,800.00 "
+19142580,2018-10-17,Esquimalt,House,$45.00 
+19154564,2018-10-17,Saanich,Guest suite,$95.00 
+19157366,2018-10-17,Victoria,House,$96.00 
+19158134,2018-10-17,Esquimalt,House,$70.00 
+19162260,2018-10-17,Salt Spring Island,House,$325.00 
+19164075,2018-10-17,Saanich,House,$60.00 
+19179556,2018-10-17,North Saanich,Guesthouse,$137.00 
+19188518,2018-10-17,Saanich,Condominium,$86.00 
+19193227,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+19194747,2018-10-17,Saanich,Guest suite,$97.00 
+19195219,2018-10-17,Southern Gulf Islands,Cabin,$299.00 
+19199742,2018-10-17,Victoria,Condominium,$207.00 
+19201025,2018-10-17,Saanich,House,$83.00 
+19208389,2018-10-17,Victoria,Apartment,$110.00 
+19212461,2018-10-17,Saanich,House,$65.00 
+19214387,2018-10-17,Victoria,Townhouse,$110.00 
+19225040,2018-10-17,Central Saanich,Guest suite,$124.00 
+19226895,2018-10-17,Victoria,House,$54.00 
+19229341,2018-10-17,Victoria,Apartment,$109.00 
+19239040,2018-10-17,Saanich,Guest suite,$99.00 
+19245157,2018-10-17,Victoria,Bungalow,$99.00 
+19248549,2018-10-17,Oak Bay,House,$89.00 
+19250511,2018-10-17,Victoria,Guest suite,$89.00 
+19251480,2018-10-17,View Royal,House,$200.00 
+19251720,2018-10-17,Saanich,House,$71.00 
+19251724,2018-10-17,Victoria,Apartment,$132.00 
+19263230,2018-10-17,Victoria,Condominium,$124.00 
+19269807,2018-10-17,Victoria,Apartment,$100.00 
+19270394,2018-10-17,Victoria,Apartment,$100.00 
+19274918,2018-10-17,Saanich,Guest suite,$100.00 
+19275074,2018-10-17,Saanich,House,$400.00 
+19290079,2018-10-17,Victoria,Guest suite,$132.00 
+19290858,2018-10-17,Victoria,Condominium,$79.00 
+19290903,2018-10-17,Victoria,Loft,$99.00 
+19296381,2018-10-17,Victoria,Condominium,$210.00 
+19314694,2018-10-17,Victoria,Condominium,$80.00 
+19316749,2018-10-17,Colwood,Guesthouse,$78.00 
+19317068,2018-10-17,Juan de Fuca,Apartment,$130.00 
+19334371,2018-10-17,Victoria,Condominium,$159.00 
+19346101,2018-10-17,Salt Spring Island,Guest suite,$200.00 
+19349483,2018-10-17,Saanich,Other,$95.00 
+19361475,2018-10-17,Salt Spring Island,Cabin,$175.00 
+19366805,2018-10-17,Saanich,Apartment,$288.00 
+19367618,2018-10-17,Saanich,Apartment,$99.00 
+19367786,2018-10-17,Esquimalt,Guest suite,$100.00 
+19379013,2018-10-17,Victoria,Apartment,$115.00 
+19379785,2018-10-17,Saanich,House,$54.00 
+19384646,2018-10-17,Central Saanich,House,$180.00 
+19385106,2018-10-17,Victoria,House,$89.00 
+19386637,2018-10-17,Salt Spring Island,Guesthouse,$124.00 
+19407259,2018-10-17,Sidney,House,$64.00 
+19408000,2018-10-17,Victoria,Apartment,$54.00 
+19410349,2018-10-17,Central Saanich,House,$191.00 
+19410757,2018-10-17,Victoria,Guest suite,$51.00 
+19412457,2018-10-17,Victoria,Townhouse,$226.00 
+19413748,2018-10-17,Victoria,House,$97.00 
+19417092,2018-10-17,Southern Gulf Islands,Guest suite,$99.00 
+19428520,2018-10-17,Victoria,Apartment,$89.00 
+19431164,2018-10-17,Juan de Fuca,Guest suite,$148.00 
+19434870,2018-10-17,Victoria,House,$34.00 
+19435687,2018-10-17,Victoria,House,$100.00 
+19440532,2018-10-17,Victoria,House,$118.00 
+19452002,2018-10-17,Victoria,Condominium,$176.00 
+19456306,2018-10-17,Salt Spring Island,Guest suite,$281.00 
+19457499,2018-10-17,Saanich,Guesthouse,$140.00 
+19458255,2018-10-17,Victoria,Apartment,$45.00 
+19459909,2018-10-17,Saanich,Guest suite,$101.00 
+19461660,2018-10-17,Saanich,House,$70.00 
+19472755,2018-10-17,Victoria,House,$75.00 
+19476713,2018-10-17,Saanich,Guest suite,$80.00 
+19476996,2018-10-17,Langford,Guest suite,$60.00 
+19477144,2018-10-17,Victoria,Guest suite,$100.00 
+19477887,2018-10-17,Victoria,Condominium,$88.00 
+19486301,2018-10-17,Victoria,Guest suite,$75.00 
+19487540,2018-10-17,North Saanich,House,$121.00 
+19490547,2018-10-17,Saanich,House,$123.00 
+19500530,2018-10-17,Victoria,Guest suite,$100.00 
+19506172,2018-10-17,Sidney,Condominium,$124.00 
+19507651,2018-10-17,Saanich,Guesthouse,$70.00 
+19522558,2018-10-17,Saanich,Apartment,$64.00 
+19526981,2018-10-17,Esquimalt,House,$89.00 
+19527066,2018-10-17,Central Saanich,Guest suite,$99.00 
+19529308,2018-10-17,Saanich,House,$29.00 
+19531017,2018-10-17,Victoria,Apartment,$226.00 
+19531430,2018-10-17,Saanich,House,$89.00 
+19551699,2018-10-17,Victoria,Condominium,$175.00 
+19553632,2018-10-17,Central Saanich,Guest suite,$140.00 
+19554950,2018-10-17,Victoria,Loft,$73.00 
+19556207,2018-10-17,Saanich,House,$290.00 
+19556381,2018-10-17,Saanich,House,$250.00 
+19567519,2018-10-17,Saanich,Guest suite,$109.00 
+19574040,2018-10-17,Victoria,House,$226.00 
+19574558,2018-10-17,Victoria,Condominium,$119.00 
+19576291,2018-10-17,Saanich,Guest suite,$93.00 
+19576687,2018-10-17,Saanich,House,$150.00 
+19589390,2018-10-17,Saanich,Guest suite,$86.00 
+19589874,2018-10-17,Victoria,House,$51.00 
+19590227,2018-10-17,Saanich,Condominium,$131.00 
+19592735,2018-10-17,Colwood,House,$250.00 
+19593066,2018-10-17,Sidney,Condominium,$150.00 
+19593349,2018-10-17,Victoria,Condominium,$54.00 
+19594983,2018-10-17,Oak Bay,Apartment,$150.00 
+19606074,2018-10-17,Langford,Guest suite,$89.00 
+19610324,2018-10-17,Victoria,Other,$551.00 
+19611551,2018-10-17,Salt Spring Island,Guesthouse,$121.00 
+19611861,2018-10-17,Victoria,House,$99.00 
+19611934,2018-10-17,Victoria,Apartment,$149.00 
+19612334,2018-10-17,Victoria,House,$54.00 
+19621368,2018-10-17,Victoria,Apartment,$51.00 
+19625683,2018-10-17,North Saanich,Bungalow,$299.00 
+19627348,2018-10-17,Victoria,Apartment,$119.00 
+19636665,2018-10-17,Central Saanich,Camper/RV,$121.00 
+19636669,2018-10-17,Langford,Guest suite,$115.00 
+19639693,2018-10-17,Southern Gulf Islands,Boutique hotel,$170.00 
+19640384,2018-10-17,View Royal,Guest suite,$89.00 
+19644350,2018-10-17,Victoria,Bungalow,$86.00 
+19659668,2018-10-17,Victoria,House,$194.00 
+19662760,2018-10-17,Victoria,Condominium,$150.00 
+19675733,2018-10-17,Southern Gulf Islands,House,$226.00 
+19676371,2018-10-17,Salt Spring Island,House,$275.00 
+19680715,2018-10-17,Saanich,Guest suite,$110.00 
+19694193,2018-10-17,Victoria,Guest suite,$96.00 
+19701077,2018-10-17,North Saanich,House,$75.00 
+19702953,2018-10-17,Saanich,House,$279.00 
+19717808,2018-10-17,Victoria,Condominium,$500.00 
+19718422,2018-10-17,Victoria,Apartment,$133.00 
+19721408,2018-10-17,Saanich,Guest suite,$105.00 
+19736546,2018-10-17,Victoria,Condominium,$215.00 
+19738616,2018-10-17,View Royal,House,$100.00 
+19738689,2018-10-17,Victoria,House,$61.00 
+19741129,2018-10-17,Saanich,House,$70.00 
+19747354,2018-10-17,Saanich,Guest suite,$115.00 
+19750704,2018-10-17,Salt Spring Island,Cabin,$250.00 
+19767536,2018-10-17,Saanich,Apartment,$58.00 
+19779420,2018-10-17,Oak Bay,Condominium,$168.00 
+19788743,2018-10-17,Victoria,Guest suite,$99.00 
+19790110,2018-10-17,View Royal,Guest suite,$100.00 
+19790466,2018-10-17,Victoria,Apartment,$45.00 
+19805636,2018-10-17,Esquimalt,Apartment,$194.00 
+19812321,2018-10-17,Saanich,House,$349.00 
+19812411,2018-10-17,Victoria,Apartment,$175.00 
+19827962,2018-10-17,Southern Gulf Islands,Bungalow,$130.00 
+19828641,2018-10-17,Juan de Fuca,Hostel,$51.00 
+19829743,2018-10-17,Saanich,House,$159.00 
+19831330,2018-10-17,Saanich,Other,$130.00 
+19841615,2018-10-17,Saanich,Guest suite,$121.00 
+19843959,2018-10-17,Salt Spring Island,Bed and breakfast,$156.00 
+19845920,2018-10-17,Salt Spring Island,Bed and breakfast,$165.00 
+19846220,2018-10-17,Salt Spring Island,Bed and breakfast,$165.00 
+19858460,2018-10-17,Victoria,Apartment,$95.00 
+19861506,2018-10-17,Victoria,House,$115.00 
+19864474,2018-10-17,Victoria,Apartment,$89.00 
+19884685,2018-10-17,Oak Bay,House,$150.00 
+19888298,2018-10-17,Salt Spring Island,Guesthouse,$140.00 
+19891371,2018-10-17,Saanich,Guest suite,$62.00 
+19893869,2018-10-17,Esquimalt,House,$89.00 
+19908654,2018-10-17,Saanich,House,$48.00 
+19910882,2018-10-17,Colwood,Apartment,$150.00 
+19912199,2018-10-17,Victoria,House,$395.00 
+19913764,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+19926606,2018-10-17,Victoria,Loft,$89.00 
+19928776,2018-10-17,Saanich,House,$58.00 
+19949703,2018-10-17,Salt Spring Island,House,$249.00 
+19949780,2018-10-17,Langford,House,$139.00 
+19949851,2018-10-17,Victoria,Loft,$249.00 
+19950988,2018-10-17,Victoria,Loft,$56.00 
+19951273,2018-10-17,Saanich,House,$64.00 
+19960619,2018-10-17,Saanich,Bungalow,$146.00 
+19964216,2018-10-17,Victoria,Condominium,$99.00 
+19969409,2018-10-17,Saanich,Apartment,$99.00 
+19970090,2018-10-17,North Saanich,Camper/RV,$45.00 
+19971367,2018-10-17,Victoria,Condominium,$121.00 
+19971905,2018-10-17,Salt Spring Island,Guest suite,$299.00 
+19983332,2018-10-17,Victoria,Condominium,$189.00 
+19985221,2018-10-17,Saanich,House,$89.00 
+20001859,2018-10-17,Victoria,House,$80.00 
+20001968,2018-10-17,Victoria,House,$80.00 
+20002017,2018-10-17,Victoria,House,$130.00 
+20012647,2018-10-17,Victoria,Condominium,$318.00 
+20034480,2018-10-17,Saanich,House,$70.00 
+20034690,2018-10-17,Victoria,Apartment,$185.00 
+20040029,2018-10-17,Victoria,Condominium,$185.00 
+20050185,2018-10-17,North Saanich,Guesthouse,$78.00 
+20052506,2018-10-17,Victoria,Apartment,$100.00 
+20052687,2018-10-17,Langford,House,$54.00 
+20055199,2018-10-17,Salt Spring Island,Guest suite,$99.00 
+20056004,2018-10-17,Victoria,Condominium,$250.00 
+20068199,2018-10-17,Salt Spring Island,Apartment,$149.00 
+20071503,2018-10-17,Victoria,House,$100.00 
+20073025,2018-10-17,Juan de Fuca,Cottage,$156.00 
+20074900,2018-10-17,Juan de Fuca,House,$89.00 
+20075252,2018-10-17,Metchosin,Cabin,$109.00 
+20086988,2018-10-17,Langford,House,$121.00 
+20088788,2018-10-17,Saanich,Guest suite,$100.00 
+20090164,2018-10-17,Victoria,Loft,$99.00 
+20093394,2018-10-17,Esquimalt,House,$109.00 
+20119545,2018-10-17,Esquimalt,Tiny house,$70.00 
+20120564,2018-10-17,Langford,Guest suite,$124.00 
+20120870,2018-10-17,Langford,Apartment,$111.00 
+20123830,2018-10-17,Southern Gulf Islands,Cabin,$100.00 
+20124423,2018-10-17,Victoria,Condominium,$178.00 
+20124454,2018-10-17,Langford,House,$30.00 
+20135314,2018-10-17,Salt Spring Island,Apartment,$159.00 
+20135741,2018-10-17,Victoria,Guest suite,$95.00 
+20145374,2018-10-17,Saanich,House,$149.00 
+20149938,2018-10-17,Victoria,House,$89.00 
+20154416,2018-10-17,Colwood,Guest suite,$65.00 
+20156329,2018-10-17,North Saanich,House,$105.00 
+20156770,2018-10-17,Victoria,House,$110.00 
+20157186,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+20157456,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+20169091,2018-10-17,Saanich,Guest suite,$86.00 
+20169934,2018-10-17,Victoria,Apartment,$100.00 
+20171685,2018-10-17,Metchosin,Guest suite,$80.00 
+20176392,2018-10-17,Saanich,Guest suite,$115.00 
+20176735,2018-10-17,Saanich,House,$51.00 
+20192565,2018-10-17,Saanich,Guest suite,$180.00 
+20193128,2018-10-17,Victoria,Apartment,$99.00 
+20194760,2018-10-17,Saanich,House,$65.00 
+20196604,2018-10-17,Colwood,House,$35.00 
+20197645,2018-10-17,Saanich,Guest suite,$150.00 
+20207311,2018-10-17,Juan de Fuca,House,$219.00 
+20210592,2018-10-17,Victoria,House,$51.00 
+20214596,2018-10-17,Saanich,Cabin,$115.00 
+20215594,2018-10-17,Central Saanich,Guest suite,$95.00 
+20217107,2018-10-17,Victoria,Condominium,$140.00 
+20217682,2018-10-17,Langford,Guest suite,$168.00 
+20217944,2018-10-17,Juan de Fuca,House,$388.00 
+20224723,2018-10-17,Southern Gulf Islands,House,$226.00 
+20228553,2018-10-17,Victoria,Apartment,$86.00 
+20232367,2018-10-17,Victoria,Apartment,$188.00 
+20233718,2018-10-17,Salt Spring Island,Guesthouse,$100.00 
+20237288,2018-10-17,Saanich,House,$399.00 
+20244434,2018-10-17,Sooke,Cabin,$124.00 
+20247924,2018-10-17,Victoria,Condominium,$305.00 
+20264750,2018-10-17,Langford,Guest suite,$75.00 
+20265789,2018-10-17,Victoria,House,$70.00 
+20281309,2018-10-17,Highlands,Cabin,$99.00 
+20286292,2018-10-17,Victoria,Guest suite,$124.00 
+20300048,2018-10-17,Saanich,House,$150.00 
+20305125,2018-10-17,Saanich,House,$95.00 
+20319532,2018-10-17,Juan de Fuca,Cabin,$200.00 
+20330573,2018-10-17,Victoria,Condominium,$60.00 
+20332009,2018-10-17,Victoria,House,$150.00 
+20332764,2018-10-17,Southern Gulf Islands,Cabin,$140.00 
+20356427,2018-10-17,Victoria,Condominium,$109.00 
+20360535,2018-10-17,Victoria,House,$89.00 
+20363273,2018-10-17,Victoria,Condominium,$89.00 
+20367008,2018-10-17,Victoria,Apartment,$150.00 
+20384988,2018-10-17,Salt Spring Island,Tent,$175.00 
+20392526,2018-10-17,Victoria,Loft,$200.00 
+20394932,2018-10-17,Victoria,House,$95.00 
+20407301,2018-10-17,Victoria,Apartment,$127.00 
+20410630,2018-10-17,Saanich,Apartment,$128.00 
+20412705,2018-10-17,Esquimalt,Guest suite,$100.00 
+20419056,2018-10-17,Salt Spring Island,House,$150.00 
+20420941,2018-10-17,Sooke,Guest suite,$124.00 
+20435787,2018-10-17,Victoria,Apartment,$95.00 
+20438072,2018-10-17,Victoria,Condominium,$60.00 
+20452851,2018-10-17,Colwood,Guest suite,$124.00 
+20452914,2018-10-17,Salt Spring Island,Apartment,$179.00 
+20458687,2018-10-17,Sooke,House,$350.00 
+20468360,2018-10-17,Victoria,Apartment,$121.00 
+20474337,2018-10-17,Victoria,Loft,$145.00 
+20502076,2018-10-17,View Royal,Guest suite,$150.00 
+20502760,2018-10-17,Victoria,Apartment,$45.00 
+20504816,2018-10-17,Southern Gulf Islands,Cabin,$200.00 
+20511314,2018-10-17,Juan de Fuca,House,$189.00 
+20521329,2018-10-17,Victoria,Apartment,$100.00 
+20522802,2018-10-17,Juan de Fuca,Townhouse,$226.00 
+20538077,2018-10-17,Southern Gulf Islands,Guesthouse,$226.00 
+20540673,2018-10-17,Juan de Fuca,Cottage,$130.00 
+20544338,2018-10-17,Victoria,Condominium,$119.00 
+20553657,2018-10-17,Esquimalt,Townhouse,$51.00 
+20573155,2018-10-17,Saanich,Townhouse,$54.00 
+20573697,2018-10-17,Victoria,Condominium,$150.00 
+20575126,2018-10-17,View Royal,House,$100.00 
+20587659,2018-10-17,Saanich,Guesthouse,$99.00 
+20587703,2018-10-17,Oak Bay,Guest suite,$88.00 
+20588732,2018-10-17,Saanich,Guest suite,$156.00 
+20589969,2018-10-17,Saanich,Guest suite,$79.00 
+20590922,2018-10-17,Victoria,Condominium,$296.00 
+20595122,2018-10-17,Victoria,Guesthouse,$51.00 
+20601416,2018-10-17,Central Saanich,House,$110.00 
+20601702,2018-10-17,Victoria,Condominium,$80.00 
+20604580,2018-10-17,Victoria,Guest suite,$130.00 
+20605542,2018-10-17,Saanich,House,$89.00 
+20609724,2018-10-17,Victoria,Condominium,$51.00 
+20619021,2018-10-17,Victoria,Loft,$149.00 
+20620395,2018-10-17,Langford,House,$48.00 
+20650598,2018-10-17,Southern Gulf Islands,Cabin,$215.00 
+20662439,2018-10-17,Victoria,Guest suite,$70.00 
+20663734,2018-10-17,Sooke,Guest suite,$70.00 
+20664096,2018-10-17,Victoria,Guest suite,$51.00 
+20665325,2018-10-17,Victoria,Guest suite,$175.00 
+20676625,2018-10-17,Salt Spring Island,Guest suite,$88.00 
+20677458,2018-10-17,Langford,Guest suite,$175.00 
+20688630,2018-10-17,Esquimalt,Other,$80.00 
+20690974,2018-10-17,Victoria,Guest suite,$159.00 
+20699207,2018-10-17,Saanich,Apartment,$69.00 
+20699665,2018-10-17,Saanich,Apartment,$66.00 
+20708582,2018-10-17,Saanich,Guest suite,$89.00 
+20711191,2018-10-17,Victoria,Condominium,$185.00 
+20711704,2018-10-17,Saanich,Apartment,$69.00 
+20711900,2018-10-17,Saanich,House,$69.00 
+20712762,2018-10-17,North Saanich,Guest suite,$139.00 
+20724974,2018-10-17,Salt Spring Island,Cabin,$124.00 
+20727114,2018-10-17,View Royal,Townhouse,$299.00 
+20729769,2018-10-17,Juan de Fuca,Townhouse,$150.00 
+20732089,2018-10-17,Sooke,Guesthouse,$74.00 
+20733245,2018-10-17,Langford,House,$65.00 
+20741404,2018-10-17,North Saanich,House,$99.00 
+20749857,2018-10-17,Southern Gulf Islands,Tiny house,$99.00 
+20760679,2018-10-17,Salt Spring Island,Cabin,$189.00 
+20764195,2018-10-17,Oak Bay,House,$47.00 
+20771989,2018-10-17,Southern Gulf Islands,House,$121.00 
+20774124,2018-10-17,Saanich,House,$115.00 
+20784063,2018-10-17,Central Saanich,House,$51.00 
+20786977,2018-10-17,North Saanich,Cottage,$105.00 
+20801055,2018-10-17,Esquimalt,House,$180.00 
+20801961,2018-10-17,Saanich,Guest suite,$79.00 
+20804917,2018-10-17,Victoria,Apartment,$95.00 
+20818918,2018-10-17,Juan de Fuca,Cottage,$86.00 
+20829860,2018-10-17,Victoria,Condominium,$200.00 
+20833855,2018-10-17,Victoria,House,$100.00 
+20833884,2018-10-17,Victoria,Condominium,$429.00 
+20844751,2018-10-17,Saanich,Guest suite,$95.00 
+20845744,2018-10-17,Victoria,Condominium,$124.00 
+20848311,2018-10-17,Salt Spring Island,Apartment,$299.00 
+20849266,2018-10-17,Victoria,Apartment,$84.00 
+20850684,2018-10-17,Salt Spring Island,Other,$210.00 
+20862853,2018-10-17,Sooke,House,$99.00 
+20863637,2018-10-17,Langford,House,$500.00 
+20865491,2018-10-17,Southern Gulf Islands,House,$450.00 
+20876630,2018-10-17,Victoria,Condominium,$150.00 
+20886929,2018-10-17,Victoria,Guest suite,$60.00 
+20899253,2018-10-17,Victoria,House,$200.00 
+20899574,2018-10-17,Salt Spring Island,Apartment,$249.00 
+20900338,2018-10-17,Victoria,Guesthouse,$200.00 
+20902507,2018-10-17,Saanich,Townhouse,$175.00 
+20903176,2018-10-17,Juan de Fuca,Farm stay,$156.00 
+20905095,2018-10-17,Central Saanich,House,$110.00 
+20905129,2018-10-17,Victoria,Guest suite,$79.00 
+20914765,2018-10-17,Victoria,Condominium,$245.00 
+20934452,2018-10-17,Victoria,Apartment,$89.00 
+20944547,2018-10-17,Victoria,Guest suite,$150.00 
+20947863,2018-10-17,Victoria,Bungalow,$89.00 
+20948099,2018-10-17,Saanich,Guest suite,$61.00 
+20950013,2018-10-17,Victoria,Apartment,$99.00 
+20960482,2018-10-17,Victoria,Apartment,$110.00 
+20968726,2018-10-17,Saanich,House,$49.00 
+20980063,2018-10-17,Victoria,Apartment,$165.00 
+20984117,2018-10-17,Southern Gulf Islands,Cabin,$95.00 
+20985249,2018-10-17,Victoria,House,$149.00 
+20993717,2018-10-17,Saanich,Guest suite,$66.00 
+20995841,2018-10-17,Saanich,Guest suite,$109.00 
+20995882,2018-10-17,Langford,Guest suite,$124.00 
+20997381,2018-10-17,Victoria,Bed and breakfast,$86.00 
+21012745,2018-10-17,Victoria,Bed and breakfast,$109.00 
+21014233,2018-10-17,Langford,Guest suite,$76.00 
+21025032,2018-10-17,Southern Gulf Islands,Guest suite,$124.00 
+21027390,2018-10-17,Saanich,Guest suite,$156.00 
+21028477,2018-10-17,Saanich,Guest suite,$95.00 
+21030865,2018-10-17,Southern Gulf Islands,House,$180.00 
+21037294,2018-10-17,Victoria,Condominium,$233.00 
+21038270,2018-10-17,Saanich,House,$110.00 
+21039792,2018-10-17,Oak Bay,Guest suite,$124.00 
+21042665,2018-10-17,Central Saanich,House,$44.00 
+21053751,2018-10-17,Victoria,House,$226.00 
+21059139,2018-10-17,Saanich,House,$139.00 
+21063686,2018-10-17,Metchosin,Guest suite,$124.00 
+21068647,2018-10-17,Sidney,Bungalow,$45.00 
+21125816,2018-10-17,Victoria,Condominium,$126.00 
+21127147,2018-10-17,Victoria,Guest suite,$89.00 
+21151550,2018-10-17,Victoria,Condominium,$109.00 
+21165027,2018-10-17,Victoria,Loft,$39.00 
+21170706,2018-10-17,Sooke,Guesthouse,$200.00 
+21173012,2018-10-17,Saanich,House,$51.00 
+21174404,2018-10-17,Salt Spring Island,Guest suite,$115.00 
+21176421,2018-10-17,Victoria,Apartment,$99.00 
+21190020,2018-10-17,Saanich,Guest suite,$64.00 
+21192021,2018-10-17,Victoria,Guest suite,$200.00 
+21203907,2018-10-17,North Saanich,House,$299.00 
+21204855,2018-10-17,Victoria,House,$25.00 
+21218513,2018-10-17,Juan de Fuca,Cottage,$250.00 
+21218558,2018-10-17,Saanich,House,$40.00 
+21243523,2018-10-17,Victoria,Condominium,$250.00 
+21243770,2018-10-17,Victoria,Apartment,$95.00 
+21251155,2018-10-17,Salt Spring Island,Guest suite,$88.00 
+21256143,2018-10-17,Esquimalt,House,$51.00 
+21265413,2018-10-17,Victoria,House,$60.00 
+21277582,2018-10-17,Victoria,Apartment,$95.00 
+21281671,2018-10-17,North Saanich,House,$86.00 
+21295146,2018-10-17,Colwood,Guest suite,$86.00 
+21310598,2018-10-17,Juan de Fuca,Cottage,$130.00 
+21311109,2018-10-17,Esquimalt,Guesthouse,$250.00 
+21311598,2018-10-17,Victoria,Apartment,$185.00 
+21313776,2018-10-17,Victoria,Guest suite,$80.00 
+21322791,2018-10-17,Victoria,House,$100.00 
+21324398,2018-10-17,Juan de Fuca,Cottage,$130.00 
+21325229,2018-10-17,Saanich,Cabin,$325.00 
+21326283,2018-10-17,Salt Spring Island,Bungalow,$110.00 
+21328302,2018-10-17,Victoria,Loft,$191.00 
+21340035,2018-10-17,Victoria,House,$0.00 
+21345056,2018-10-17,Victoria,House,$86.00 
+21345159,2018-10-17,Victoria,House,$34.00 
+21347146,2018-10-17,North Saanich,Other,$299.00 
+21365821,2018-10-17,Central Saanich,Guest suite,$65.00 
+21366771,2018-10-17,Victoria,House,$135.00 
+21367488,2018-10-17,Saanich,House,$149.00 
+21378484,2018-10-17,Victoria,Serviced apartment,$179.00 
+21382545,2018-10-17,Oak Bay,Bungalow,$40.00 
+21383384,2018-10-17,Southern Gulf Islands,Guest suite,$75.00 
+21385290,2018-10-17,Victoria,Condominium,$100.00 
+21409871,2018-10-17,Sooke,House,$350.00 
+21410725,2018-10-17,Saanich,Guest suite,$80.00 
+21438777,2018-10-17,Central Saanich,House,$41.00 
+21441274,2018-10-17,Salt Spring Island,Cabin,$149.00 
+21445268,2018-10-17,Sidney,Guest suite,$95.00 
+21446241,2018-10-17,Victoria,House,$51.00 
+21446946,2018-10-17,Victoria,House,$49.00 
+21458720,2018-10-17,Juan de Fuca,House,$600.00 
+21460923,2018-10-17,Victoria,Guest suite,$80.00 
+21470848,2018-10-17,Southern Gulf Islands,House,$150.00 
+21488128,2018-10-17,Saanich,House,$124.00 
+21518005,2018-10-17,Saanich,Guest suite,$175.00 
+21520344,2018-10-17,Victoria,Guest suite,$67.00 
+21531213,2018-10-17,Langford,House,$65.00 
+21540633,2018-10-17,Esquimalt,Condominium,$40.00 
+21552190,2018-10-17,Victoria,Apartment,$51.00 
+21552890,2018-10-17,Victoria,Townhouse,$121.00 
+21552903,2018-10-17,Oak Bay,House,$150.00 
+21593887,2018-10-17,Juan de Fuca,Cottage,$175.00 
+21593932,2018-10-17,Victoria,Guest suite,$150.00 
+21610175,2018-10-17,Victoria,Apartment,$150.00 
+21636025,2018-10-17,Victoria,Apartment,$99.00 
+21636821,2018-10-17,Salt Spring Island,House,$350.00 
+21646057,2018-10-17,North Saanich,House,$51.00 
+21657943,2018-10-17,Saanich,Townhouse,$51.00 
+21666219,2018-10-17,View Royal,Guest suite,$41.00 
+21668042,2018-10-17,Victoria,Condominium,$105.00 
+21699714,2018-10-17,Victoria,Apartment,$80.00 
+21703287,2018-10-17,View Royal,Guesthouse,$95.00 
+21715859,2018-10-17,Saanich,Townhouse,$185.00 
+21727123,2018-10-17,Oak Bay,House,$110.00 
+21752234,2018-10-17,Saanich,House,$121.00 
+21754990,2018-10-17,Victoria,Apartment,$75.00 
+21771302,2018-10-17,View Royal,Guest suite,$45.00 
+21784311,2018-10-17,Langford,Guest suite,$130.00 
+21787449,2018-10-17,Victoria,Apartment,$51.00 
+21787992,2018-10-17,Saanich,Apartment,$159.00 
+21796638,2018-10-17,Victoria,Villa,$60.00 
+21797500,2018-10-17,Juan de Fuca,Other,$137.00 
+21825051,2018-10-17,Colwood,House,$41.00 
+21826160,2018-10-17,Southern Gulf Islands,House,$397.00 
+21827131,2018-10-17,Colwood,House,$36.00 
+21830241,2018-10-17,Saanich,Cottage,$175.00 
+21835061,2018-10-17,Victoria,Condominium,$299.00 
+21838371,2018-10-17,Saanich,House,$54.00 
+21840900,2018-10-17,Victoria,Apartment,$25.00 
+21849536,2018-10-17,Saanich,House,$175.00 
+21852590,2018-10-17,Victoria,Apartment,$121.00 
+21860653,2018-10-17,Victoria,Guest suite,$100.00 
+21861722,2018-10-17,Victoria,Boutique hotel,$80.00 
+21865456,2018-10-17,Victoria,Condominium,$159.00 
+21869649,2018-10-17,Metchosin,House,$194.00 
+21879234,2018-10-17,Victoria,Apartment,$71.00 
+21884063,2018-10-17,Saanich,Guest suite,$194.00 
+21886704,2018-10-17,Victoria,Apartment,$100.00 
+21897010,2018-10-17,Victoria,Condominium,$296.00 
+21900630,2018-10-17,Southern Gulf Islands,Guest suite,$95.00 
+21921703,2018-10-17,Victoria,Guest suite,$75.00 
+21926474,2018-10-17,Central Saanich,House,$80.00 
+21926624,2018-10-17,Victoria,Condominium,$299.00 
+21927419,2018-10-17,Langford,Guest suite,$70.00 
+21927792,2018-10-17,Colwood,House,$149.00 
+21934882,2018-10-17,Victoria,Condominium,$305.00 
+21934942,2018-10-17,Victoria,Condominium,$305.00 
+21938200,2018-10-17,Juan de Fuca,Cabin,$130.00 
+21938354,2018-10-17,Saanich,House,$170.00 
+21945559,2018-10-17,North Saanich,Guest suite,$70.00 
+21946565,2018-10-17,Juan de Fuca,Guest suite,$149.00 
+21950025,2018-10-17,Saanich,Townhouse,$51.00 
+21950928,2018-10-17,Sidney,Condominium,$226.00 
+21982382,2018-10-17,Salt Spring Island,House,$69.00 
+21995189,2018-10-17,Salt Spring Island,Apartment,$105.00 
+22014343,2018-10-17,Saanich,Guest suite,$88.00 
+22021506,2018-10-17,Colwood,Guest suite,$60.00 
+22034535,2018-10-17,Victoria,Serviced apartment,$130.00 
+22051114,2018-10-17,Juan de Fuca,Cabin,$99.00 
+22079944,2018-10-17,Victoria,Apartment,$150.00 
+22080200,2018-10-17,Victoria,Condominium,$100.00 
+22098618,2018-10-17,Victoria,Condominium,$305.00 
+22099802,2018-10-17,Victoria,Condominium,$305.00 
+22107903,2018-10-17,Victoria,Condominium,$305.00 
+22108737,2018-10-17,Victoria,Guest suite,$109.00 
+22162598,2018-10-17,Sooke,Guesthouse,$87.00 
+22178010,2018-10-17,Saanich,House,$289.00 
+22192593,2018-10-17,Saanich,House,$54.00 
+22205037,2018-10-17,Central Saanich,House,$53.00 
+22229957,2018-10-17,Langford,Guest suite,$86.00 
+22282463,2018-10-17,Victoria,Condominium,$350.00 
+22283257,2018-10-17,Victoria,House,$70.00 
+22307520,2018-10-17,Juan de Fuca,Cottage,$226.00 
+22309188,2018-10-17,Victoria,Loft,$100.00 
+22320075,2018-10-17,Juan de Fuca,House,$250.00 
+22344664,2018-10-17,Sidney,Boutique hotel,$238.00 
+22346759,2018-10-17,Victoria,House,$41.00 
+22357154,2018-10-17,Victoria,Serviced apartment,$130.00 
+22376377,2018-10-17,Central Saanich,Guest suite,$110.00 
+22441288,2018-10-17,Salt Spring Island,Guest suite,$65.00 
+22451186,2018-10-17,Saanich,Guest suite,$100.00 
+22453079,2018-10-17,Central Saanich,House,$88.00 
+22456154,2018-10-17,Southern Gulf Islands,Cottage,$170.00 
+22463533,2018-10-17,Saanich,Guest suite,$93.00 
+22498413,2018-10-17,Saanich,House,$39.00 
+22498666,2018-10-17,Saanich,House,$39.00 
+22498988,2018-10-17,Saanich,House,$60.00 
+22508245,2018-10-17,Victoria,Condominium,$80.00 
+22512703,2018-10-17,Victoria,Condominium,$150.00 
+22516001,2018-10-17,Saanich,House,$49.00 
+22517529,2018-10-17,Victoria,Townhouse,$200.00 
+22529327,2018-10-17,Langford,Guest suite,$70.00 
+22537180,2018-10-17,Victoria,Loft,$99.00 
+22542623,2018-10-17,Langford,Apartment,$88.00 
+22551234,2018-10-17,Juan de Fuca,Other,$175.00 
+22553818,2018-10-17,Southern Gulf Islands,House,$100.00 
+22555458,2018-10-17,Colwood,House,$75.00 
+22565838,2018-10-17,Salt Spring Island,Guest suite,$80.00 
+22584787,2018-10-17,Sooke,Condominium,$179.00 
+22595738,2018-10-17,Victoria,House,$79.00 
+22599307,2018-10-17,Juan de Fuca,Cabin,$275.00 
+22602821,2018-10-17,Victoria,Loft,$150.00 
+22615190,2018-10-17,Victoria,House,$49.00 
+22617309,2018-10-17,Sidney,House,$124.00 
+22630626,2018-10-17,Southern Gulf Islands,House,$175.00 
+22632136,2018-10-17,Southern Gulf Islands,Guest suite,$150.00 
+22634628,2018-10-17,Salt Spring Island,Yurt,$148.00 
+22649861,2018-10-17,Victoria,Townhouse,$150.00 
+22657776,2018-10-17,Juan de Fuca,Cottage,$290.00 
+22658839,2018-10-17,Victoria,House,$175.00 
+22687736,2018-10-17,Saanich,House,$460.00 
+22691906,2018-10-17,Southern Gulf Islands,Cottage,$124.00 
+22692594,2018-10-17,Sooke,Townhouse,$51.00 
+22700095,2018-10-17,Saanich,House,$45.00 
+22728036,2018-10-17,Saanich,Guest suite,$270.00 
+22733310,2018-10-17,Victoria,House,$175.00 
+22751492,2018-10-17,Saanich,Guest suite,$121.00 
+22768446,2018-10-17,North Saanich,House,$62.00 
+22768983,2018-10-17,Victoria,Condominium,$203.00 
+22770531,2018-10-17,Salt Spring Island,Loft,$249.00 
+22771008,2018-10-17,Langford,Guest suite,$65.00 
+22772319,2018-10-17,Southern Gulf Islands,Cabin,$143.00 
+22789897,2018-10-17,Victoria,House,$80.00 
+22790829,2018-10-17,Southern Gulf Islands,Bed and breakfast,$220.00 
+22796092,2018-10-17,Metchosin,Guest suite,$86.00 
+22798657,2018-10-17,Oak Bay,House,$299.00 
+22810979,2018-10-17,Saanich,House,$99.00 
+22814420,2018-10-17,Victoria,Apartment,$165.00 
+22832329,2018-10-17,Southern Gulf Islands,Guest suite,$75.00 
+22832526,2018-10-17,Saanich,Guest suite,$86.00 
+22845404,2018-10-17,Esquimalt,House,$60.00 
+22847162,2018-10-17,Saanich,House,$100.00 
+22847363,2018-10-17,Langford,Guest suite,$70.00 
+22850107,2018-10-17,Langford,Serviced apartment,$145.00 
+22850319,2018-10-17,Langford,Serviced apartment,$145.00 
+22850836,2018-10-17,Langford,Serviced apartment,$194.00 
+22858819,2018-10-17,Langford,Serviced apartment,$205.00 
+22860549,2018-10-17,Juan de Fuca,Cabin,$140.00 
+22864163,2018-10-17,Langford,Serviced apartment,$320.00 
+22867188,2018-10-17,North Saanich,House,$400.00 
+22883770,2018-10-17,Victoria,Apartment,$100.00 
+22897286,2018-10-17,Victoria,Condominium,$89.00 
+22908708,2018-10-17,Langford,Bed and breakfast,$118.00 
+22909539,2018-10-17,Langford,House,$180.00 
+22924392,2018-10-17,Saanich,Guest suite,$86.00 
+22928562,2018-10-17,Colwood,Guest suite,$121.00 
+22957527,2018-10-17,Saanich,House,$124.00 
+22971879,2018-10-17,View Royal,Camper/RV,$44.00 
+22979388,2018-10-17,Saanich,Guest suite,$150.00 
+22986416,2018-10-17,Victoria,Condominium,$89.00 
+22987058,2018-10-17,Salt Spring Island,Guest suite,$149.00 
+22987898,2018-10-17,Salt Spring Island,Cabin,$80.00 
+22988816,2018-10-17,Central Saanich,Boat,$388.00 
+23000174,2018-10-17,Salt Spring Island,Cottage,$175.00 
+23001267,2018-10-17,Sooke,Townhouse,$200.00 
+23002736,2018-10-17,Central Saanich,House,$95.00 
+23003403,2018-10-17,Saanich,House,$51.00 
+23004406,2018-10-17,Langford,Guest suite,$95.00 
+23007171,2018-10-17,Victoria,Apartment,$100.00 
+23007794,2018-10-17,Sooke,Bungalow,$200.00 
+23018430,2018-10-17,Victoria,Guest suite,$75.00 
+23025043,2018-10-17,Saanich,Guest suite,$350.00 
+23036107,2018-10-17,Victoria,Apartment,$109.00 
+23038231,2018-10-17,Victoria,Condominium,$60.00 
+23042132,2018-10-17,Southern Gulf Islands,Boutique hotel,$156.00 
+23043428,2018-10-17,Victoria,Guest suite,$130.00 
+23043521,2018-10-17,North Saanich,House,$474.00 
+23057419,2018-10-17,Salt Spring Island,Loft,$699.00 
+23061011,2018-10-17,Southern Gulf Islands,Cabin,$198.00 
+23074480,2018-10-17,Victoria,Camper/RV,$80.00 
+23076376,2018-10-17,Esquimalt,House,$250.00 
+23087571,2018-10-17,Victoria,House,$395.00 
+23088973,2018-10-17,Victoria,Loft,$110.00 
+23090191,2018-10-17,Victoria,Guest suite,$57.00 
+23091523,2018-10-17,Juan de Fuca,House,$299.00 
+23102470,2018-10-17,Victoria,Guest suite,$74.00 
+23108714,2018-10-17,Saanich,Apartment,$54.00 
+23109113,2018-10-17,Juan de Fuca,House,$286.00 
+23110280,2018-10-17,Victoria,House,$220.00 
+23110374,2018-10-17,Saanich,Guest suite,$49.00 
+23117135,2018-10-17,Saanich,House,$40.00 
+23124861,2018-10-17,View Royal,House,$325.00 
+23127350,2018-10-17,Victoria,House,$60.00 
+23142382,2018-10-17,View Royal,House,$35.00 
+23147001,2018-10-17,Saanich,Guest suite,$75.00 
+23148787,2018-10-17,Victoria,Guest suite,$64.00 
+23155615,2018-10-17,North Saanich,Guesthouse,$89.00 
+23184977,2018-10-17,Saanich,House,$51.00 
+23187942,2018-10-17,Langford,Guest suite,$75.00 
+23188106,2018-10-17,Langford,Apartment,$60.00 
+23203073,2018-10-17,Southern Gulf Islands,Bed and breakfast,$60.00 
+23207968,2018-10-17,Victoria,Apartment,$80.00 
+23209051,2018-10-17,Victoria,Apartment,$86.00 
+23215790,2018-10-17,Langford,House,$325.00 
+23221123,2018-10-17,Victoria,Condominium,$305.00 
+23223061,2018-10-17,North Saanich,Cottage,$95.00 
+23236209,2018-10-17,Saanich,House,$32.00 
+23236516,2018-10-17,Victoria,Apartment,$80.00 
+23256460,2018-10-17,Saanich,Cabin,$110.00 
+23256719,2018-10-17,Saanich,Villa,$29.00 
+23258079,2018-10-17,Southern Gulf Islands,Tiny house,$95.00 
+23258824,2018-10-17,Juan de Fuca,Cabin,$135.00 
+23270240,2018-10-17,Southern Gulf Islands,Bed and breakfast,$110.00 
+23271258,2018-10-17,Southern Gulf Islands,Bed and breakfast,$80.00 
+23274366,2018-10-17,Esquimalt,Condominium,$51.00 
+23274771,2018-10-17,Salt Spring Island,Cottage,$121.00 
+23276147,2018-10-17,Juan de Fuca,Guesthouse,$54.00 
+23276223,2018-10-17,Saanich,House,$45.00 
+23292003,2018-10-17,Saanich,House,$99.00 
+23294473,2018-10-17,Victoria,Condominium,$161.00 
+23321122,2018-10-17,Sooke,Apartment,$86.00 
+23327996,2018-10-17,Victoria,Guest suite,$54.00 
+23340941,2018-10-17,North Saanich,Guest suite,$58.00 
+23357786,2018-10-17,Esquimalt,Villa,$60.00 
+23358404,2018-10-17,Saanich,Guest suite,$121.00 
+23358407,2018-10-17,Saanich,Guest suite,$150.00 
+23360598,2018-10-17,Victoria,Guest suite,$79.00 
+23371693,2018-10-17,Victoria,House,$39.00 
+23373532,2018-10-17,Salt Spring Island,Guest suite,$149.00 
+23381284,2018-10-17,Esquimalt,House,$89.00 
+23381334,2018-10-17,Victoria,House,$194.00 
+23390861,2018-10-17,Langford,Guest suite,$74.00 
+23416708,2018-10-17,Victoria,Guest suite,$75.00 
+23419418,2018-10-17,Sidney,Guest suite,$97.00 
+23430503,2018-10-17,Southern Gulf Islands,House,$194.00 
+23434250,2018-10-17,Sooke,Cabin,$118.00 
+23438781,2018-10-17,Esquimalt,House,$197.00 
+23454159,2018-10-17,Victoria,Loft,$99.00 
+23454433,2018-10-17,Saanich,Cabin,$299.00 
+23456276,2018-10-17,Victoria,Apartment,$80.00 
+23485434,2018-10-17,Victoria,House,$400.00 
+23494983,2018-10-17,Langford,House,$226.00 
+23497408,2018-10-17,Salt Spring Island,House,$205.00 
+23501099,2018-10-17,Juan de Fuca,Guest suite,$69.00 
+23520764,2018-10-17,Southern Gulf Islands,Cottage,$150.00 
+23529581,2018-10-17,Victoria,Apartment,$105.00 
+23541909,2018-10-17,Sidney,Condominium,$130.00 
+23546998,2018-10-17,Victoria,House,$165.00 
+23550099,2018-10-17,Victoria,Apartment,$49.00 
+23550362,2018-10-17,Victoria,Apartment,$124.00 
+23567464,2018-10-17,Central Saanich,Guest suite,$47.00 
+23578129,2018-10-17,Esquimalt,Guest suite,$70.00 
+23590675,2018-10-17,Saanich,House,$100.00 
+23611702,2018-10-17,Victoria,Loft,$130.00 
+23631243,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+23631646,2018-10-17,Victoria,Loft,$89.00 
+23633328,2018-10-17,Langford,Guest suite,$121.00 
+23648928,2018-10-17,Juan de Fuca,House,$400.00 
+23663645,2018-10-17,Salt Spring Island,Apartment,$229.00 
+23664157,2018-10-17,Victoria,Condominium,$109.00 
+23665508,2018-10-17,Salt Spring Island,Apartment,$249.00 
+23671283,2018-10-17,Esquimalt,Apartment,$25.00 
+23679158,2018-10-17,Victoria,Condominium,$80.00 
+23700383,2018-10-17,Saanich,House,$51.00 
+23700596,2018-10-17,Central Saanich,House,$500.00 
+23726434,2018-10-17,Victoria,Condominium,$70.00 
+23751817,2018-10-17,Victoria,House,$135.00 
+23760122,2018-10-17,Juan de Fuca,Cottage,$250.00 
+23760212,2018-10-17,Victoria,Condominium,$249.00 
+23767176,2018-10-17,Saanich,Guest suite,$145.00 
+23769356,2018-10-17,Saanich,Guesthouse,$76.00 
+23770570,2018-10-17,Victoria,Condominium,$130.00 
+23771441,2018-10-17,Victoria,Bungalow,$219.00 
+23772352,2018-10-17,Victoria,Apartment,$89.00 
+23772679,2018-10-17,Southern Gulf Islands,House,$170.00 
+23787016,2018-10-17,Victoria,Loft,$119.00 
+23790311,2018-10-17,Salt Spring Island,House,$75.00 
+23791019,2018-10-17,Esquimalt,House,$51.00 
+23810055,2018-10-17,Salt Spring Island,Bed and breakfast,$110.00 
+23820689,2018-10-17,Esquimalt,Apartment,$51.00 
+23822093,2018-10-17,Langford,House,$86.00 
+23822542,2018-10-17,Salt Spring Island,Apartment,$249.00 
+23824652,2018-10-17,Sooke,Camper/RV,$67.00 
+23827371,2018-10-17,Juan de Fuca,Guesthouse,$95.00 
+23841564,2018-10-17,Central Saanich,House,$60.00 
+23841602,2018-10-17,Colwood,House,$60.00 
+23843537,2018-10-17,Esquimalt,Guesthouse,$105.00 
+23843636,2018-10-17,Saanich,Guest suite,$67.00 
+23851809,2018-10-17,Victoria,House,$65.00 
+23879746,2018-10-17,Saanich,Guest suite,$75.00 
+23890668,2018-10-17,Victoria,Farm stay,$65.00 
+23896451,2018-10-17,Victoria,Condominium,$149.00 
+23902757,2018-10-17,Victoria,Villa,$60.00 
+23903940,2018-10-17,Salt Spring Island,House,$150.00 
+23904548,2018-10-17,Juan de Fuca,Cabin,$99.00 
+23917452,2018-10-17,Salt Spring Island,House,$275.00 
+23945644,2018-10-17,Colwood,Villa,$180.00 
+23958876,2018-10-17,Sidney,Serviced apartment,$149.00 
+23979969,2018-10-17,Saanich,Guest suite,$80.00 
+23982231,2018-10-17,Salt Spring Island,Bed and breakfast,$80.00 
+23991027,2018-10-17,Sidney,Guest suite,$60.00 
+23992579,2018-10-17,Saanich,Guest suite,$79.00 
+23992898,2018-10-17,Victoria,Condominium,$179.00 
+23993294,2018-10-17,Victoria,Guest suite,$65.00 
+23999980,2018-10-17,Victoria,Guest suite,$60.00 
+24022798,2018-10-17,Southern Gulf Islands,Chalet,$250.00 
+24027415,2018-10-17,Langford,House,$130.00 
+24042758,2018-10-17,Victoria,Condominium,$150.00 
+24045121,2018-10-17,Saanich,Guest suite,$119.00 
+24064579,2018-10-17,Victoria,House,$264.00 
+24086770,2018-10-17,Southern Gulf Islands,House,$70.00 
+24095304,2018-10-17,North Saanich,Guest suite,$200.00 
+24106249,2018-10-17,Saanich,House,$51.00 
+24106440,2018-10-17,Victoria,Condominium,$130.00 
+24115285,2018-10-17,Salt Spring Island,Guest suite,$140.00 
+24116111,2018-10-17,Victoria,Condominium,$130.00 
+24118999,2018-10-17,North Saanich,House,$65.00 
+24135478,2018-10-17,Saanich,Apartment,$95.00 
+24137784,2018-10-17,Salt Spring Island,Cabin,$99.00 
+24140531,2018-10-17,Highlands,Bed and breakfast,$100.00 
+24155160,2018-10-17,Central Saanich,Guest suite,$150.00 
+24164838,2018-10-17,Saanich,House,$30.00 
+24184945,2018-10-17,Sooke,House,$150.00 
+24185807,2018-10-17,Saanich,Bed and breakfast,$45.00 
+24202332,2018-10-17,Salt Spring Island,House,$75.00 
+24203960,2018-10-17,Langford,House,$32.00 
+24204229,2018-10-17,Victoria,Condominium,$119.00 
+24204238,2018-10-17,Saanich,House,$21.00 
+24204257,2018-10-17,Saanich,House,$220.00 
+24207148,2018-10-17,Victoria,Guest suite,$89.00 
+24210708,2018-10-17,Esquimalt,Guest suite,$137.00 
+24211385,2018-10-17,Saanich,House,$145.00 
+24225272,2018-10-17,Victoria,House,$104.00 
+24244012,2018-10-17,North Saanich,Cabin,$100.00 
+24246973,2018-10-17,Victoria,Hostel,$32.00 
+24264086,2018-10-17,Victoria,Condominium,$145.00 
+24264768,2018-10-17,Saanich,Condominium,$30.00 
+24290485,2018-10-17,Salt Spring Island,Guesthouse,$165.00 
+24302419,2018-10-17,Victoria,Condominium,$86.00 
+24334585,2018-10-17,Southern Gulf Islands,House,$180.00 
+24354539,2018-10-17,Victoria,Condominium,$70.00 
+24358711,2018-10-17,Esquimalt,Guest suite,$92.00 
+24374786,2018-10-17,Oak Bay,House,$150.00 
+24374872,2018-10-17,Victoria,Guest suite,$70.00 
+24376553,2018-10-17,Victoria,Condominium,$130.00 
+24378265,2018-10-17,Central Saanich,Guest suite,$54.00 
+24378866,2018-10-17,North Saanich,Guest suite,$65.00 
+24379466,2018-10-17,Saanich,House,$80.00 
+24398560,2018-10-17,Saanich,Guest suite,$150.00 
+24413368,2018-10-17,Saanich,Guest suite,$220.00 
+24423469,2018-10-17,Saanich,House,$350.00 
+24428534,2018-10-17,Colwood,Guest suite,$75.00 
+24428735,2018-10-17,Langford,Cottage,$200.00 
+24444674,2018-10-17,Highlands,Guest suite,$121.00 
+24465322,2018-10-17,Sooke,House,$296.00 
+24479037,2018-10-17,Saanich,House,$200.00 
+24493007,2018-10-17,Victoria,Condominium,$89.00 
+24493055,2018-10-17,Victoria,Condominium,$189.00 
+24497074,2018-10-17,Langford,House,$145.00 
+24497128,2018-10-17,Victoria,Guest suite,$65.00 
+24535460,2018-10-17,Victoria,Condominium,$399.00 
+24539098,2018-10-17,Victoria,Hostel,$25.00 
+24539233,2018-10-17,Victoria,Hostel,$95.00 
+24540470,2018-10-17,Victoria,Hostel,$27.00 
+24540478,2018-10-17,Victoria,Hostel,$70.00 
+24540489,2018-10-17,Victoria,Hostel,$58.00 
+24540494,2018-10-17,Victoria,Hostel,$99.00 
+24541458,2018-10-17,Victoria,House,$143.00 
+24541465,2018-10-17,Victoria,Apartment,$143.00 
+24541477,2018-10-17,Victoria,House,$143.00 
+24541506,2018-10-17,Victoria,Condominium,$89.00 
+24554116,2018-10-17,Victoria,House,$70.00 
+24560032,2018-10-17,Central Saanich,Farm stay,$261.00 
+24562566,2018-10-17,Southern Gulf Islands,Cabin,$124.00 
+24573804,2018-10-17,Juan de Fuca,Cabin,$130.00 
+24574090,2018-10-17,Saanich,Guest suite,$70.00 
+24582010,2018-10-17,Southern Gulf Islands,House,$159.00 
+24600450,2018-10-17,Central Saanich,Farm stay,$229.00 
+24602942,2018-10-17,Langford,Bed and breakfast,$130.00 
+24608849,2018-10-17,North Saanich,Guest suite,$170.00 
+24609324,2018-10-17,Oak Bay,Bungalow,$226.00 
+24625254,2018-10-17,Victoria,Condominium,$124.00 
+24626008,2018-10-17,Esquimalt,Guest suite,$140.00 
+24631272,2018-10-17,Sooke,Guest suite,$111.00 
+24633320,2018-10-17,Saanich,Guest suite,$60.00 
+24641825,2018-10-17,Langford,House,$89.00 
+24650069,2018-10-17,Juan de Fuca,House,$250.00 
+24651906,2018-10-17,Saanich,House,$121.00 
+24654000,2018-10-17,Saanich,Guest suite,$69.00 
+24675008,2018-10-17,Southern Gulf Islands,Island,$340.00 
+24679709,2018-10-17,View Royal,Guest suite,$86.00 
+24680937,2018-10-17,Victoria,Condominium,$110.00 
+24696871,2018-10-17,Victoria,Apartment,$226.00 
+24697862,2018-10-17,Victoria,Condominium,$189.00 
+24699707,2018-10-17,Victoria,Hut,$45.00 
+24710221,2018-10-17,Victoria,Condominium,$75.00 
+24713486,2018-10-17,Saanich,Guest suite,$175.00 
+24714886,2018-10-17,Salt Spring Island,House,$89.00 
+24715080,2018-10-17,Juan de Fuca,House,$290.00 
+24715459,2018-10-17,Esquimalt,House,$170.00 
+24727675,2018-10-17,View Royal,House,$75.00 
+24729492,2018-10-17,Esquimalt,Guesthouse,$100.00 
+24758273,2018-10-17,Oak Bay,House,$45.00 
+24758932,2018-10-17,Oak Bay,House,$110.00 
+24773873,2018-10-17,Salt Spring Island,Cabin,$75.00 
+24775028,2018-10-17,Salt Spring Island,Cottage,$75.00 
+24779007,2018-10-17,Victoria,Condominium,$165.00 
+24796322,2018-10-17,Sidney,Guest suite,$76.00 
+24804089,2018-10-17,Victoria,Loft,$149.00 
+24808927,2018-10-17,Central Saanich,Boat,$60.00 
+24809981,2018-10-17,Saanich,Villa,$99.00 
+24819798,2018-10-17,Victoria,House,$54.00 
+24828497,2018-10-17,Saanich,House,$41.00 
+24847980,2018-10-17,Victoria,Guest suite,$95.00 
+24869992,2018-10-17,Salt Spring Island,Tiny house,$89.00 
+24872442,2018-10-17,Saanich,House,$80.00 
+24874386,2018-10-17,Sidney,Guest suite,$100.00 
+24885990,2018-10-17,Langford,Guest suite,$93.00 
+24889893,2018-10-17,Salt Spring Island,Bed and breakfast,$124.00 
+24908584,2018-10-17,North Saanich,Guest suite,$95.00 
+24938493,2018-10-17,Victoria,Townhouse,$194.00 
+24948036,2018-10-17,Langford,Guest suite,$60.00 
+24948103,2018-10-17,Saanich,Townhouse,$79.00 
+24960528,2018-10-17,Saanich,Condominium,$48.00 
+24967173,2018-10-17,Victoria,Apartment,$175.00 
+24993897,2018-10-17,Saanich,House,$152.00 
+25009137,2018-10-17,Saanich,House,$495.00 
+25011083,2018-10-17,Victoria,Condominium,$89.00 
+25016790,2018-10-17,Saanich,House,$121.00 
+25017768,2018-10-17,Saanich,House,$135.00 
+25027800,2018-10-17,Victoria,Apartment,$150.00 
+25027909,2018-10-17,Sooke,House,$100.00 
+25031481,2018-10-17,Victoria,Apartment,$150.00 
+25049953,2018-10-17,Victoria,Apartment,$121.00 
+25056598,2018-10-17,Salt Spring Island,Guest suite,$95.00 
+25057064,2018-10-17,Langford,Guesthouse,$150.00 
+25058104,2018-10-17,Salt Spring Island,Farm stay,$95.00 
+25076371,2018-10-17,Saanich,House,$60.00 
+25082231,2018-10-17,Central Saanich,House,$180.00 
+25102870,2018-10-17,Langford,House,$149.00 
+25107524,2018-10-17,Victoria,Guest suite,$75.00 
+25111351,2018-10-17,Victoria,House,$100.00 
+25127195,2018-10-17,Metchosin,Cottage,$219.00 
+25129496,2018-10-17,Esquimalt,Guesthouse,$64.00 
+25132774,2018-10-17,Victoria,Condominium,$100.00 
+25140348,2018-10-17,Saanich,Guest suite,$67.00 
+25142024,2018-10-17,Langford,House,$21.00 
+25159399,2018-10-17,Langford,House,$89.00 
+25160473,2018-10-17,Salt Spring Island,Guesthouse,$400.00 
+25163034,2018-10-17,Victoria,Guesthouse,$99.00 
+25164041,2018-10-17,Salt Spring Island,Cabin,$200.00 
+25170491,2018-10-17,Colwood,House,$250.00 
+25183680,2018-10-17,Saanich,Guest suite,$75.00 
+25189792,2018-10-17,Victoria,Condominium,$119.00 
+25194779,2018-10-17,Langford,House,$139.00 
+25198675,2018-10-17,Esquimalt,House,$135.00 
+25207025,2018-10-17,Southern Gulf Islands,Cabin,$175.00 
+25211853,2018-10-17,Saanich,House,$80.00 
+25213565,2018-10-17,Saanich,House,$47.00 
+25214532,2018-10-17,Langford,Guest suite,$89.00 
+25215069,2018-10-17,Esquimalt,House,$250.00 
+25227147,2018-10-17,Juan de Fuca,House,$500.00 
+25228345,2018-10-17,View Royal,Guest suite,$75.00 
+25230774,2018-10-17,Langford,Guest suite,$86.00 
+25239933,2018-10-17,Saanich,Guest suite,$99.00 
+25240245,2018-10-17,Saanich,House,$89.00 
+25253744,2018-10-17,Victoria,Resort,$187.00 
+25254495,2018-10-17,Saanich,House,$89.00 
+25255568,2018-10-17,Oak Bay,House,$395.00 
+25257818,2018-10-17,Sidney,Condominium,$130.00 
+25258524,2018-10-17,Southern Gulf Islands,House,$206.00 
+25258937,2018-10-17,Esquimalt,House,$66.00 
+25261092,2018-10-17,Saanich,Guest suite,$89.00 
+25267843,2018-10-17,Saanich,Villa,$70.00 
+25269720,2018-10-17,Saanich,Villa,$80.00 
+25284353,2018-10-17,Victoria,Guest suite,$75.00 
+25287899,2018-10-17,Saanich,House,$450.00 
+25293839,2018-10-17,Saanich,Condominium,$150.00 
+25296930,2018-10-17,Saanich,House,$417.00 
+25315235,2018-10-17,Sidney,Condominium,$78.00 
+25319620,2018-10-17,Victoria,Condominium,$86.00 
+25323408,2018-10-17,Langford,House,$140.00 
+25327305,2018-10-17,Saanich,Guest suite,$70.00 
+25327952,2018-10-17,Saanich,House,$60.00 
+25355361,2018-10-17,Saanich,House,$60.00 
+25368585,2018-10-17,Victoria,House,$89.00 
+25374809,2018-10-17,Saanich,House,$51.00 
+25375927,2018-10-17,Victoria,Apartment,$200.00 
+25376077,2018-10-17,Victoria,Apartment,$150.00 
+25376204,2018-10-17,Victoria,Apartment,$200.00 
+25376877,2018-10-17,Victoria,Guest suite,$250.00 
+25376881,2018-10-17,Juan de Fuca,House,$250.00 
+25380144,2018-10-17,Oak Bay,Guest suite,$52.00 
+25381049,2018-10-17,Saanich,Guest suite,$150.00 
+25398344,2018-10-17,Victoria,Condominium,$220.00 
+25402064,2018-10-17,Southern Gulf Islands,Cottage,$200.00 
+25403546,2018-10-17,Saanich,Guest suite,$75.00 
+25406764,2018-10-17,Victoria,House,$45.00 
+25420778,2018-10-17,Central Saanich,House,$121.00 
+25421808,2018-10-17,Salt Spring Island,House,$128.00 
+25424511,2018-10-17,Saanich,Guest suite,$62.00 
+25450622,2018-10-17,Southern Gulf Islands,Tiny house,$70.00 
+25450790,2018-10-17,Saanich,Guest suite,$108.00 
+25451767,2018-10-17,Salt Spring Island,Guest suite,$175.00 
+25452087,2018-10-17,Victoria,Condominium,$135.00 
+25453304,2018-10-17,Langford,House,$390.00 
+25453317,2018-10-17,Southern Gulf Islands,Cabin,$109.00 
+25457286,2018-10-17,Victoria,Camper/RV,$75.00 
+25478713,2018-10-17,Saanich,Guesthouse,$78.00 
+25478903,2018-10-17,Salt Spring Island,Cottage,$200.00 
+25483441,2018-10-17,Victoria,Tiny house,$40.00 
+25487743,2018-10-17,Victoria,Loft,$128.00 
+25517469,2018-10-17,North Saanich,Bed and breakfast,$78.00 
+25534768,2018-10-17,Saanich,Guest suite,$200.00 
+25542768,2018-10-17,Victoria,Loft,$75.00 
+25542897,2018-10-17,Southern Gulf Islands,Guesthouse,$89.00 
+25543060,2018-10-17,Saanich,House,$250.00 
+25550610,2018-10-17,Victoria,Apartment,$95.00 
+25553768,2018-10-17,Victoria,Guest suite,$89.00 
+25554244,2018-10-17,Victoria,Guesthouse,$75.00 
+25574270,2018-10-17,Saanich,House,$156.00 
+25592929,2018-10-17,Victoria,Loft,$106.00 
+25614014,2018-10-17,Oak Bay,House,$350.00 
+25616293,2018-10-17,View Royal,Cottage,$150.00 
+25618470,2018-10-17,Saanich,House,$39.00 
+25635925,2018-10-17,Saanich,Camper/RV,$111.00 
+25672574,2018-10-17,Colwood,Guest suite,$100.00 
+25679675,2018-10-17,Saanich,Guest suite,$79.00 
+25687820,2018-10-17,Colwood,Guest suite,$99.00 
+25690132,2018-10-17,Saanich,Cottage,$135.00 
+25690743,2018-10-17,Sidney,Guest suite,$54.00 
+25690752,2018-10-17,Victoria,Guest suite,$65.00 
+25691398,2018-10-17,Juan de Fuca,Cottage,$135.00 
+25692606,2018-10-17,Esquimalt,Cottage,$135.00 
+25722326,2018-10-17,Saanich,Guest suite,$189.00 
+25734717,2018-10-17,Saanich,Guest suite,$67.00 
+25737603,2018-10-17,Juan de Fuca,Cottage,$135.00 
+25738814,2018-10-17,Juan de Fuca,Cottage,$135.00 
+25745243,2018-10-17,Saanich,House,$389.00 
+25747462,2018-10-17,Salt Spring Island,Cabin,$124.00 
+25748938,2018-10-17,Metchosin,Guest suite,$76.00 
+25768537,2018-10-17,Juan de Fuca,House,$51.00 
+25772281,2018-10-17,Esquimalt,Cottage,$135.00 
+25774070,2018-10-17,Juan de Fuca,Townhouse,$45.00 
+25775278,2018-10-17,Esquimalt,Apartment,$51.00 
+25781938,2018-10-17,Saanich,Apartment,$89.00 
+25785879,2018-10-17,Sidney,House,$150.00 
+25810146,2018-10-17,Victoria,Apartment,$130.00 
+25816271,2018-10-17,Saanich,House,$219.00 
+25817048,2018-10-17,Saanich,Guest suite,$89.00 
+25831618,2018-10-17,Victoria,House,$51.00 
+25832656,2018-10-17,Saanich,House,$121.00 
+25832886,2018-10-17,Saanich,House,$100.00 
+25834042,2018-10-17,Victoria,Apartment,$124.00 
+25840327,2018-10-17,Salt Spring Island,House,$80.00 
+25844685,2018-10-17,Victoria,Condominium,$168.00 
+25844836,2018-10-17,Saanich,Bungalow,$135.00 
+25863692,2018-10-17,Oak Bay,Apartment,$83.00 
+25866252,2018-10-17,Salt Spring Island,Bed and breakfast,$95.00 
+25886484,2018-10-17,Victoria,Guest suite,$89.00 
+25886687,2018-10-17,Victoria,House,$75.00 
+25889166,2018-10-17,Victoria,Guest suite,$88.00 
+25889391,2018-10-17,Victoria,House,$45.00 
+25895353,2018-10-17,Saanich,Guest suite,$95.00 
+25896485,2018-10-17,Saanich,House,$250.00 
+25906031,2018-10-17,Victoria,House,$75.00 
+25909470,2018-10-17,Sidney,Guest suite,$100.00 
+25909709,2018-10-17,Victoria,Condominium,$227.00 
+25914580,2018-10-17,Sidney,Apartment,$65.00 
+25919633,2018-10-17,Saanich,House,$100.00 
+25920118,2018-10-17,Victoria,Apartment,$150.00 
+25926089,2018-10-17,Saanich,Villa,$798.00 
+25945042,2018-10-17,Juan de Fuca,Guest suite,$150.00 
+25951817,2018-10-17,Central Saanich,Guest suite,$86.00 
+25974505,2018-10-17,Saanich,Guest suite,$54.00 
+25979498,2018-10-17,Central Saanich,Farm stay,$62.00 
+25982655,2018-10-17,Sooke,Guest suite,$75.00 
+25999381,2018-10-17,Saanich,Guest suite,$73.00 
+26010927,2018-10-17,Victoria,Guest suite,$133.00 
+26012027,2018-10-17,Victoria,House,$47.00 
+26014982,2018-10-17,Saanich,House,$191.00 
+26035206,2018-10-17,Victoria,Condominium,$130.00 
+26036201,2018-10-17,Victoria,Condominium,$140.00 
+26037700,2018-10-17,Victoria,Condominium,$399.00 
+26037794,2018-10-17,Victoria,Condominium,$99.00 
+26038336,2018-10-17,Saanich,Camper/RV,$105.00 
+26039205,2018-10-17,Victoria,Condominium,$121.00 
+26056381,2018-10-17,Metchosin,Barn,$150.00 
+26062710,2018-10-17,View Royal,Townhouse,$48.00 
+26062823,2018-10-17,Victoria,House,$124.00 
+26063668,2018-10-17,Saanich,House,$35.00 
+26064836,2018-10-17,Salt Spring Island,House,$140.00 
+26065459,2018-10-17,Juan de Fuca,Treehouse,$124.00 
+26081765,2018-10-17,Saanich,House,$76.00 
+26082015,2018-10-17,Salt Spring Island,Guest suite,$124.00 
+26082610,2018-10-17,Saanich,House,$250.00 
+26084427,2018-10-17,Saanich,Guest suite,$79.00 
+26089284,2018-10-17,Saanich,Guesthouse,$86.00 
+26110495,2018-10-17,Oak Bay,House,$299.00 
+26110912,2018-10-17,Victoria,Apartment,$89.00 
+26111135,2018-10-17,Southern Gulf Islands,Cabin,$250.00 
+26122942,2018-10-17,Esquimalt,Guest suite,$100.00 
+26128482,2018-10-17,Juan de Fuca,Cottage,$150.00 
+26128713,2018-10-17,Saanich,Apartment,$100.00 
+26133895,2018-10-17,Esquimalt,Guest suite,$89.00 
+26134827,2018-10-17,Saanich,House,$100.00 
+26135202,2018-10-17,Victoria,House,$250.00 
+26135308,2018-10-17,Saanich,House,$229.00 
+26135592,2018-10-17,Saanich,Guest suite,$149.00 
+26136178,2018-10-17,Colwood,Guest suite,$89.00 
+26136396,2018-10-17,Victoria,Loft,$106.00 
+26137575,2018-10-17,Langford,House,$130.00 
+26138174,2018-10-17,Saanich,Guest suite,$110.00 
+26139414,2018-10-17,Victoria,Guesthouse,$86.00 
+26140686,2018-10-17,Victoria,Condominium,$189.00 
+26158069,2018-10-17,Salt Spring Island,Guest suite,$250.00 
+26160410,2018-10-17,Victoria,Condominium,$119.00 
+26163776,2018-10-17,Esquimalt,House,$135.00 
+26166608,2018-10-17,Victoria,Condominium,$249.00 
+26169516,2018-10-17,Saanich,House,$165.00 
+26170729,2018-10-17,Saanich,Guest suite,$176.00 
+26173135,2018-10-17,Langford,House,$30.00 
+26175926,2018-10-17,Victoria,Apartment,$159.00 
+26189322,2018-10-17,Southern Gulf Islands,Townhouse,$480.00 
+26189475,2018-10-17,Saanich,House,$95.00 
+26189584,2018-10-17,Southern Gulf Islands,Villa,$446.00 
+26189634,2018-10-17,Southern Gulf Islands,Townhouse,$661.00 
+26189806,2018-10-17,Southern Gulf Islands,Townhouse,$480.00 
+26190055,2018-10-17,Southern Gulf Islands,Townhouse,$515.00 
+26191348,2018-10-17,Saanich,House,$30.00 
+26194933,2018-10-17,Salt Spring Island,Cabin,$89.00 
+26196898,2018-10-17,Sooke,Farm stay,$70.00 
+26203271,2018-10-17,Oak Bay,Guest suite,$111.00 
+26218311,2018-10-17,Oak Bay,Apartment,$70.00 
+26220534,2018-10-17,Saanich,House,$99.00 
+26252723,2018-10-17,Victoria,Condominium,$165.00 
+26253780,2018-10-17,Saanich,House,$45.00 
+26257361,2018-10-17,Victoria,Apartment,$156.00 
+26258126,2018-10-17,Colwood,Guest suite,$140.00 
+26259292,2018-10-17,Saanich,House,$38.00 
+26273654,2018-10-17,Victoria,Condominium,$100.00 
+26276645,2018-10-17,Saanich,House,$39.00 
+26281109,2018-10-17,Sooke,Farm stay,$49.00 
+26302021,2018-10-17,Saanich,House,$296.00 
+26304183,2018-10-17,North Saanich,Guest suite,$84.00 
+26305555,2018-10-17,Victoria,Condominium,$250.00 
+26306234,2018-10-17,Esquimalt,Townhouse,$150.00 
+26306447,2018-10-17,Saanich,Guesthouse,$159.00 
+26306516,2018-10-17,Saanich,Guest suite,$106.00 
+26322308,2018-10-17,North Saanich,Tiny house,$70.00 
+26322684,2018-10-17,Victoria,House,$289.00 
+26324765,2018-10-17,North Saanich,Guest suite,$70.00 
+26332965,2018-10-17,Oak Bay,House,$485.00 
+26334081,2018-10-17,Southern Gulf Islands,House,$60.00 
+26336028,2018-10-17,Saanich,House,$75.00 
+26344829,2018-10-17,Salt Spring Island,House,$250.00 
+26361411,2018-10-17,Victoria,Condominium,$179.00 
+26366811,2018-10-17,Saanich,Apartment,$19.00 
+26366950,2018-10-17,Victoria,Condominium,$105.00 
+26386644,2018-10-17,Central Saanich,House,$375.00 
+26393414,2018-10-17,Victoria,House,$229.00 
+26395051,2018-10-17,Southern Gulf Islands,Cabin,$156.00 
+26395708,2018-10-17,Central Saanich,Guest suite,$140.00 
+26400609,2018-10-17,Saanich,Guest suite,$100.00 
+26402033,2018-10-17,Central Saanich,Farm stay,$65.00 
+26420201,2018-10-17,Saanich,House,$30.00 
+26423420,2018-10-17,Oak Bay,House,$229.00 
+26427518,2018-10-17,Victoria,Guest suite,$65.00 
+26447134,2018-10-17,Victoria,Condominium,$226.00 
+26470137,2018-10-17,Saanich,House,$34.00 
+26470235,2018-10-17,Central Saanich,Guest suite,$80.00 
+26470313,2018-10-17,Salt Spring Island,House,$250.00 
+26472231,2018-10-17,North Saanich,House,$80.00 
+26476599,2018-10-17,Victoria,Loft,$104.00 
+26492872,2018-10-17,Victoria,House,$250.00 
+26496643,2018-10-17,Highlands,Guest suite,$100.00 
+26497295,2018-10-17,Saanich,Guest suite,$67.00 
+26504097,2018-10-17,Salt Spring Island,Guesthouse,$99.00 
+26511148,2018-10-17,Saanich,House,$30.00 
+26525733,2018-10-17,Victoria,Guest suite,$124.00 
+26527667,2018-10-17,Esquimalt,Guest suite,$145.00 
+26540982,2018-10-17,Langford,House,$429.00 
+26571894,2018-10-17,Victoria,Condominium,$121.00 
+26572863,2018-10-17,Victoria,House,$130.00 
+26574816,2018-10-17,North Saanich,Guesthouse,$140.00 
+26575413,2018-10-17,Esquimalt,House,$200.00 
+26576546,2018-10-17,Victoria,Apartment,$110.00 
+26595450,2018-10-17,Juan de Fuca,Cottage,$165.00 
+26597096,2018-10-17,Victoria,House,$100.00 
+26602126,2018-10-17,Salt Spring Island,Guest suite,$175.00 
+26609276,2018-10-17,Langford,House,$92.00 
+26627289,2018-10-17,Salt Spring Island,Guest suite,$87.00 
+26627301,2018-10-17,Salt Spring Island,House,$80.00 
+26628843,2018-10-17,Saanich,Guest suite,$124.00 
+26632892,2018-10-17,Saanich,House,$150.00 
+26633843,2018-10-17,Victoria,Condominium,$170.00 
+26635082,2018-10-17,Southern Gulf Islands,House,$360.00 
+26639316,2018-10-17,Salt Spring Island,Camper/RV,$86.00 
+26660981,2018-10-17,Sooke,Guest suite,$70.00 
+26665708,2018-10-17,Southern Gulf Islands,House,$150.00 
+26686576,2018-10-17,Salt Spring Island,Farm stay,$170.00 
+26715309,2018-10-17,Salt Spring Island,Guest suite,$194.00 
+26716831,2018-10-17,Sooke,Bed and breakfast,$97.00 
+26720562,2018-10-17,Saanich,Guest suite,$124.00 
+26722125,2018-10-17,Sooke,Treehouse,$209.00 
+26738143,2018-10-17,Saanich,House,$38.00 
+26744464,2018-10-17,Sidney,Guest suite,$60.00 
+26747687,2018-10-17,Victoria,House,$51.00 
+26749459,2018-10-17,Langford,Apartment,$200.00 
+26749966,2018-10-17,Langford,Guest suite,$99.00 
+26754990,2018-10-17,Oak Bay,Guest suite,$100.00 
+26756578,2018-10-17,Metchosin,House,$100.00 
+26757899,2018-10-17,Langford,House,$58.00 
+26767543,2018-10-17,Victoria,Condominium,$99.00 
+26774183,2018-10-17,Salt Spring Island,Bungalow,$64.00 
+26788318,2018-10-17,Central Saanich,Guest suite,$140.00 
+26805467,2018-10-17,Saanich,House,$89.00 
+26815599,2018-10-17,Victoria,Condominium,$130.00 
+26837074,2018-10-17,North Saanich,House,$121.00 
+26838855,2018-10-17,Salt Spring Island,Cabin,$250.00 
+26846123,2018-10-17,Sooke,Guest suite,$115.00 
+26867837,2018-10-17,Salt Spring Island,House,$415.00 
+26871675,2018-10-17,Victoria,Condominium,$180.00 
+26873495,2018-10-17,Victoria,Condominium,$133.00 
+26922877,2018-10-17,Langford,House,$228.00 
+26924538,2018-10-17,Victoria,Guest suite,$124.00 
+26928652,2018-10-17,Saanich,House,$139.00 
+26957156,2018-10-17,Esquimalt,House,$175.00 
+26964303,2018-10-17,Victoria,Guest suite,$150.00 
+26966754,2018-10-17,Victoria,House,$150.00 
+26988232,2018-10-17,Langford,Guest suite,$95.00 
+26988652,2018-10-17,Juan de Fuca,Bungalow,$226.00 
+26993267,2018-10-17,Colwood,Guest suite,$95.00 
+26994363,2018-10-17,Saanich,Guest suite,$145.00 
+27014951,2018-10-17,Salt Spring Island,Cabin,$170.00 
+27031491,2018-10-17,Langford,Condominium,$89.00 
+27032856,2018-10-17,Saanich,Guest suite,$75.00 
+27033822,2018-10-17,Colwood,House,$425.00 
+27078352,2018-10-17,Colwood,Townhouse,$79.00 
+27087455,2018-10-17,Southern Gulf Islands,House,$450.00 
+27088009,2018-10-17,Saanich,House,$32.00 
+27093050,2018-10-17,Saanich,Villa,$51.00 
+27103021,2018-10-17,Southern Gulf Islands,Guest suite,$60.00 
+27105945,2018-10-17,Victoria,Condominium,$80.00 
+27114448,2018-10-17,Oak Bay,House,$200.00 
+27118286,2018-10-17,Saanich,Villa,$89.00 
+27124803,2018-10-17,Sooke,House,$80.00 
+27166960,2018-10-17,Salt Spring Island,Guest suite,$121.00 
+27174298,2018-10-17,Victoria,Tiny house,$45.00 
+27194230,2018-10-17,Saanich,House,$95.00 
+27198509,2018-10-17,Victoria,House,$124.00 
+27200736,2018-10-17,Victoria,House,$49.00 
+27202665,2018-10-17,Victoria,House,$159.00 
+27208274,2018-10-17,Saanich,House,$150.00 
+27209766,2018-10-17,Victoria,Condominium,$76.00 
+27225553,2018-10-17,Victoria,Condominium,$91.00 
+27235145,2018-10-17,Victoria,House,$211.00 
+27261184,2018-10-17,Esquimalt,Guest suite,$95.00 
+27261720,2018-10-17,Victoria,House,$99.00 
+27273441,2018-10-17,Victoria,Condominium,$238.00 
+27287534,2018-10-17,Saanich,House,$75.00 
+27291825,2018-10-17,Oak Bay,House,$250.00 
+27314172,2018-10-17,Central Saanich,Farm stay,$175.00 
+27315594,2018-10-17,Saanich,Guest suite,$110.00 
+27330285,2018-10-17,Sidney,Apartment,$175.00 
+27333073,2018-10-17,Victoria,Apartment,$86.00 
+27335144,2018-10-17,Victoria,House,$220.00 
+27335980,2018-10-17,Oak Bay,Guest suite,$100.00 
+27337210,2018-10-17,Saanich,House,$86.00 
+27339720,2018-10-17,Victoria,House,$250.00 
+27343116,2018-10-17,Victoria,Condominium,$70.00 
+27362009,2018-10-17,Saanich,Condominium,$121.00 
+27371587,2018-10-17,Langford,Loft,$175.00 
+27389442,2018-10-17,Sidney,Guest suite,$100.00 
+27395665,2018-10-17,Salt Spring Island,Cottage,$229.00 
+27397606,2018-10-17,Salt Spring Island,Guesthouse,$140.00 
+27400037,2018-10-17,Saanich,House,$79.00 
+27401353,2018-10-17,View Royal,Guest suite,$100.00 
+27405094,2018-10-17,Victoria,Condominium,$150.00 
+27405783,2018-10-17,View Royal,Guest suite,$75.00 
+27406732,2018-10-17,Victoria,Townhouse,$250.00 
+27407907,2018-10-17,Juan de Fuca,Cabin,$124.00 
+27407949,2018-10-17,Langford,Townhouse,$51.00 
+27408621,2018-10-17,Southern Gulf Islands,House,$180.00 
+27437610,2018-10-17,Victoria,Condominium,$150.00 
+27466919,2018-10-17,Victoria,House,$86.00 
+27468980,2018-10-17,Sidney,Guest suite,$99.00 
+27470121,2018-10-17,Victoria,Apartment,$400.00 
+27470281,2018-10-17,Victoria,Guest suite,$100.00 
+27473770,2018-10-17,Langford,House,$268.00 
+27487315,2018-10-17,Langford,House,$390.00 
+27492373,2018-10-17,Juan de Fuca,Bungalow,$299.00 
+27493051,2018-10-17,Southern Gulf Islands,Guesthouse,$70.00 
+27494350,2018-10-17,Victoria,Condominium,$143.00 
+27502477,2018-10-17,Saanich,House,$100.00 
+27504957,2018-10-17,Sidney,Guest suite,$95.00 
+27505485,2018-10-17,Saanich,House,$620.00 
+27506379,2018-10-17,Central Saanich,House,$250.00 
+27507261,2018-10-17,Saanich,Guesthouse,$108.00 
+27507641,2018-10-17,Saanich,House,$250.00 
+27508307,2018-10-17,Victoria,Townhouse,$150.00 
+27508560,2018-10-17,Saanich,Guesthouse,$118.00 
+27520600,2018-10-17,Esquimalt,Apartment,$60.00 
+27521024,2018-10-17,Saanich,Guest suite,$238.00 
+27524861,2018-10-17,Victoria,Apartment,"$1,500.00 "
+27526578,2018-10-17,Saanich,Villa,$80.00 
+27529593,2018-10-17,Victoria,House,$51.00 
+27551640,2018-10-17,Saanich,Guest suite,$99.00 
+27552477,2018-10-17,Victoria,Apartment,$65.00 
+27553251,2018-10-17,Esquimalt,House,$130.00 
+27553886,2018-10-17,Victoria,Condominium,$143.00 
+27554818,2018-10-17,Victoria,House,$89.00 
+27572375,2018-10-17,Saanich,Apartment,$194.00 
+27574273,2018-10-17,Victoria,Loft,$79.00 
+27576581,2018-10-17,Saanich,Guest suite,$226.00 
+27595233,2018-10-17,Saanich,House,$70.00 
+27604646,2018-10-17,Victoria,House,$99.00 
+27605213,2018-10-17,Saanich,Cottage,$89.00 
+27610765,2018-10-17,Esquimalt,Condominium,$121.00 
+27611733,2018-10-17,Victoria,Apartment,$86.00 
+27613664,2018-10-17,Central Saanich,House,$350.00 
+27627409,2018-10-17,Southern Gulf Islands,Bed and breakfast,$135.00 
+27628396,2018-10-17,Saanich,House,$299.00 
+27630294,2018-10-17,Victoria,Camper/RV,$100.00 
+27632131,2018-10-17,Saanich,Cottage,$82.00 
+27636388,2018-10-17,Victoria,Condominium,$143.00 
+27637116,2018-10-17,Saanich,Guest suite,$95.00 
+27637341,2018-10-17,Sooke,Townhouse,$249.00 
+27637344,2018-10-17,Victoria,Bungalow,$43.00 
+27671863,2018-10-17,Victoria,House,$350.00 
+27674282,2018-10-17,Sooke,Bed and breakfast,$170.00 
+27679122,2018-10-17,Victoria,Loft,$249.00 
+27679902,2018-10-17,Langford,Guesthouse,$250.00 
+27684481,2018-10-17,Victoria,Condominium,$119.00 
+27695421,2018-10-17,Victoria,Apartment,$500.00 
+27696187,2018-10-17,North Saanich,Guest suite,$79.00 
+27701876,2018-10-17,Victoria,Condominium,$95.00 
+27704697,2018-10-17,Central Saanich,Guest suite,$140.00 
+27706080,2018-10-17,Saanich,House,$48.00 
+27724781,2018-10-17,Victoria,House,$32.00 
+27728420,2018-10-17,Esquimalt,House,$139.00 
+27729646,2018-10-17,Victoria,Condominium,$168.00 
+27732708,2018-10-17,Victoria,Loft,$86.00 
+27749559,2018-10-17,Victoria,House,$150.00 
+27756322,2018-10-17,Saanich,Condominium,$60.00 
+27758287,2018-10-17,Saanich,Guesthouse,$148.00 
+27758536,2018-10-17,Langford,Guest suite,$51.00 
+27785056,2018-10-17,Saanich,Guest suite,$83.00 
+27787121,2018-10-17,Juan de Fuca,Cabin,$249.00 
+27788039,2018-10-17,Victoria,Apartment,$124.00 
+27799129,2018-10-17,Victoria,Condominium,$189.00 
+27806235,2018-10-17,Metchosin,House,$159.00 
+27810625,2018-10-17,Saanich,Guest suite,$140.00 
+27822156,2018-10-17,Saanich,House,"$1,500.00 "
+27831653,2018-10-17,North Saanich,House,$450.00 
+27834991,2018-10-17,Saanich,House,$60.00 
+27837961,2018-10-17,Victoria,Condominium,$156.00 
+27839311,2018-10-17,Oak Bay,House,$54.00 
+27846335,2018-10-17,Saanich,Bungalow,$200.00 
+27853315,2018-10-17,Victoria,Guest suite,$34.00 
+27853616,2018-10-17,Saanich,Guest suite,$69.00 
+27853770,2018-10-17,Langford,Condominium,$200.00 
+27875355,2018-10-17,Victoria,House,$115.00 
+27875866,2018-10-17,Saanich,Apartment,$109.00 
+27877053,2018-10-17,Victoria,Apartment,$35.00 
+27905417,2018-10-17,Victoria,House,$200.00 
+27907989,2018-10-17,Victoria,Condominium,$124.00 
+27910410,2018-10-17,Victoria,Condominium,$121.00 
+27926449,2018-10-17,Central Saanich,Guest suite,$95.00 
+27926743,2018-10-17,Victoria,Condominium,$115.00 
+27928072,2018-10-17,Victoria,House,$62.00 
+27928945,2018-10-17,Esquimalt,Townhouse,$54.00 
+27929875,2018-10-17,Oak Bay,Guest suite,$70.00 
+27930758,2018-10-17,Saanich,Guest suite,$191.00 
+27933699,2018-10-17,Juan de Fuca,House,$249.00 
+27936933,2018-10-17,Langford,Guest suite,$57.00 
+27954264,2018-10-17,Victoria,Apartment,$143.00 
+27958104,2018-10-17,Central Saanich,Guest suite,$75.00 
+27959285,2018-10-17,Southern Gulf Islands,Cottage,$80.00 
+27961887,2018-10-17,North Saanich,House,$86.00 
+27966967,2018-10-17,Colwood,Townhouse,$180.00 
+27988810,2018-10-17,Sooke,House,$126.00 
+27991186,2018-10-17,Victoria,Apartment,$110.00 
+27993808,2018-10-17,Saanich,Guest suite,$100.00 
+27996514,2018-10-17,Saanich,Guest suite,$67.00 
+28008371,2018-10-17,Victoria,Condominium,$150.00 
+28008837,2018-10-17,Saanich,Barn,$99.00 
+28015262,2018-10-17,Sidney,Boat,$250.00 
+28030757,2018-10-17,Saanich,Townhouse,$110.00 
+28036995,2018-10-17,Saanich,Guest suite,$51.00 
+28048051,2018-10-17,Victoria,Condominium,$148.00 
+28048709,2018-10-17,Victoria,Guest suite,$119.00 
+28050056,2018-10-17,View Royal,House,$89.00 
+28079980,2018-10-17,Saanich,Guest suite,$109.00 
+28101024,2018-10-17,Oak Bay,House,$250.00 
+28101863,2018-10-17,Saanich,House,$350.00 
+28102086,2018-10-17,Sidney,House,$150.00 
+28102126,2018-10-17,Sidney,Guest suite,$175.00 
+28103346,2018-10-17,Saanich,House,$65.00 
+28103682,2018-10-17,Victoria,Condominium,$299.00 
+28109276,2018-10-17,Victoria,Condominium,$121.00 
+28109577,2018-10-17,Saanich,House,$49.00 
+28126493,2018-10-17,Victoria,Condominium,$135.00 
+28129105,2018-10-17,Metchosin,Guest suite,$65.00 
+28133615,2018-10-17,Victoria,Condominium,$93.00 
+28139331,2018-10-17,Victoria,Condominium,$119.00 
+28139699,2018-10-17,Colwood,House,$105.00 
+28151630,2018-10-17,Saanich,House,$74.00 
+28153820,2018-10-17,Victoria,Serviced apartment,$356.00 
+28159400,2018-10-17,Sidney,Apartment,$110.00 
+28191342,2018-10-17,Victoria,Apartment,$100.00 
+28206774,2018-10-17,Southern Gulf Islands,Cabin,$150.00 
+28208672,2018-10-17,Victoria,Guest suite,$70.00 
+28230344,2018-10-17,Langford,Townhouse,$200.00 
+28230602,2018-10-17,Victoria,Apartment,$110.00 
+28254162,2018-10-17,Victoria,Condominium,$200.00 
+28263989,2018-10-17,Victoria,House,$75.00 
+28280598,2018-10-17,Saanich,Guest suite,$99.00 
+28286346,2018-10-17,Victoria,Camper/RV,$65.00 
+28287903,2018-10-17,Saanich,House,$79.00 
+28312998,2018-10-17,Southern Gulf Islands,Guesthouse,$75.00 
+28329154,2018-10-17,Victoria,Condominium,$350.00 
+28336146,2018-10-17,Saanich,House,$375.00 
+28336994,2018-10-17,Saanich,House,$40.00 
+28348372,2018-10-17,View Royal,House,$51.00 
+28362805,2018-10-17,Colwood,Guest suite,$135.00 
+28363762,2018-10-17,Saanich,Guest suite,$49.00 
+28365567,2018-10-17,Victoria,Condominium,$60.00 
+28383342,2018-10-17,Langford,Nature lodge,$65.00 
+28386563,2018-10-17,Victoria,Condominium,$65.00 
+28387484,2018-10-17,Victoria,House,$54.00 
+28392918,2018-10-17,Saanich,Bungalow,"$4,500.00 "
+28406454,2018-10-17,View Royal,Camper/RV,$109.00 
+28407889,2018-10-17,Salt Spring Island,House,$500.00 
+28410948,2018-10-17,Saanich,House,$35.00 
+28416647,2018-10-17,View Royal,House,$51.00 
+28432548,2018-10-17,Colwood,Chalet,$299.00 
+28441058,2018-10-17,Salt Spring Island,Apartment,$135.00 
+28445202,2018-10-17,Sooke,House,$280.00 
+28456350,2018-10-17,Sooke,House,$149.00 
+28462063,2018-10-17,Victoria,Apartment,$86.00 
+28462847,2018-10-17,Victoria,Condominium,$150.00 
+28463338,2018-10-17,Victoria,Guest suite,$95.00 
+28470229,2018-10-17,Colwood,House,$226.00 
+28488565,2018-10-17,Metchosin,House,$280.00 
+28489787,2018-10-17,Central Saanich,House,$100.00 
+28493311,2018-10-17,Victoria,House,$194.00 
+28499018,2018-10-17,Victoria,Condominium,$200.00 
+28513926,2018-10-17,Central Saanich,Cottage,$80.00 
+28515703,2018-10-17,Victoria,Condominium,$299.00 
+28517341,2018-10-17,North Saanich,Guest suite,$149.00 
+28518187,2018-10-17,Colwood,Guest suite,$100.00 
+28523761,2018-10-17,Esquimalt,Guest suite,$100.00 
+28524911,2018-10-17,Saanich,House,$43.00 
+28525586,2018-10-17,Saanich,House,$99.00 
+28538213,2018-10-17,Victoria,Condominium,$130.00 
+28538435,2018-10-17,Oak Bay,House,$100.00 
+28539046,2018-10-17,Victoria,Condominium,$99.00 
+28560359,2018-10-17,North Saanich,House,$283.00 
+28560965,2018-10-17,Saanich,Camper/RV,$70.00 
+28563518,2018-10-17,Saanich,House,$40.00 
+28567935,2018-10-17,Victoria,House,$100.00 
+28583724,2018-10-17,Oak Bay,House,$350.00 
+28615607,2018-10-17,Saanich,Guest suite,$84.00 
+28616566,2018-10-17,Victoria,Condominium,$109.00 
+28643788,2018-10-17,Langford,Camper/RV,$30.00 
+28646551,2018-10-17,Saanich,Guest suite,$100.00 
+28686491,2018-10-17,Saanich,House,$328.00 
+28693766,2018-10-17,Victoria,Apartment,$48.00 
+28695462,2018-10-17,Saanich,House,$798.00 
+28721325,2018-10-17,Sooke,Guest suite,$86.00 
+28733551,2018-10-17,Victoria,Townhouse,$89.00 
+28735199,2018-10-17,Victoria,Apartment,$89.00 
+28735544,2018-10-17,Victoria,Condominium,$200.00 
+28735574,2018-10-17,Victoria,Condominium,$191.00 
+28743025,2018-10-17,Victoria,Apartment,$124.00 
+28753976,2018-10-17,Esquimalt,House,$250.00 
+28755834,2018-10-17,Saanich,House,$99.00 
+28779969,2018-10-17,Victoria,Townhouse,$250.00 
+28780325,2018-10-17,Saanich,Guest suite,$70.00 
+28783870,2018-10-17,Victoria,Condominium,$140.00 
+28786663,2018-10-17,Langford,Guest suite,$75.00 
+28804393,2018-10-17,Salt Spring Island,House,$149.00 
+28812212,2018-10-17,Saanich,House,$40.00 
+28839706,2018-10-17,Victoria,Condominium,$200.00 
+28841612,2018-10-17,Victoria,Condominium,$285.00 
+28864115,2018-10-17,Sidney,Bed and breakfast,$188.00 
+28867498,2018-10-17,Saanich,Apartment,$53.00 
+28867632,2018-10-17,Sidney,Bed and breakfast,$188.00 
+28867937,2018-10-17,Sidney,Bed and breakfast,$158.00 
+28868020,2018-10-17,Sidney,Bed and breakfast,$158.00 
+28869993,2018-10-17,Victoria,Condominium,$109.00 
+28870164,2018-10-17,Victoria,Condominium,$115.00 
+28870180,2018-10-17,Victoria,Condominium,$109.00 
+28870187,2018-10-17,Victoria,Condominium,$109.00 
+28870197,2018-10-17,Victoria,Condominium,$115.00 
+28870205,2018-10-17,Victoria,Condominium,$109.00 
+28890682,2018-10-17,Victoria,Apartment,$40.00 
+28911126,2018-10-17,Southern Gulf Islands,Cottage,$60.00 
+28912467,2018-10-17,Victoria,Condominium,$80.00 
+28912947,2018-10-17,Salt Spring Island,House,$185.00 
+28936019,2018-10-17,Southern Gulf Islands,Guesthouse,$124.00 
+28940523,2018-10-17,Southern Gulf Islands,Cottage,$175.00 
+28943565,2018-10-17,Victoria,Apartment,$150.00 
+28949385,2018-10-17,Victoria,House,$89.00 
+28956180,2018-10-17,Langford,House,$229.00 
+28958239,2018-10-17,Saanich,House,$45.00 
+28964429,2018-10-17,Sooke,House,$54.00 
+28967371,2018-10-17,View Royal,Guest suite,$110.00 
+28970537,2018-10-17,Victoria,Townhouse,$86.00 
+28977075,2018-10-17,Saanich,House,$53.00 
+28982197,2018-10-17,Langford,Townhouse,$249.00 
+28982937,2018-10-17,Victoria,Condominium,$89.00 
+28983422,2018-10-17,Victoria,Condominium,$88.00 
+28985392,2018-10-17,North Saanich,Guest suite,$100.00 
+28985986,2018-10-17,Victoria,Apartment,$58.00 
+28986388,2018-10-17,Southern Gulf Islands,Guest suite,$124.00 
+28989774,2018-10-17,Saanich,House,$39.00 
+28989949,2018-10-17,North Saanich,House,$60.00 
+29004214,2018-10-17,Victoria,Condominium,$109.00 
+29009165,2018-10-17,Oak Bay,House,$150.00 
+29012161,2018-10-17,Langford,House,$51.00 
+29026647,2018-10-17,Victoria,Condominium,$119.00 
+29035542,2018-10-17,Victoria,Condominium,$109.00 
+29036373,2018-10-17,Victoria,Condominium,$226.00 
+29036576,2018-10-17,Victoria,House,$325.00 
+29039884,2018-10-17,Victoria,Condominium,$130.00 
+29041505,2018-10-17,Oak Bay,House,$51.00 
+29098461,2018-10-17,Victoria,House,$67.00 
+29127674,2018-10-17,Saanich,Guest suite,$86.00 
+29136210,2018-10-17,Langford,House,$200.00 
+29136295,2018-10-17,Southern Gulf Islands,Villa,$128.00 
+29154362,2018-10-17,Victoria,House,$34.00 
+29156034,2018-10-17,Victoria,Condominium,$100.00 
+29158455,2018-10-17,Southern Gulf Islands,Cottage,$156.00 
+29158629,2018-10-17,Esquimalt,House,$140.00 
+29161299,2018-10-17,Saanich,House,$275.00 
+29162511,2018-10-17,Saanich,Guesthouse,$89.00 
+29179480,2018-10-17,Saanich,Guest suite,$57.00 
+29179785,2018-10-17,Victoria,Bungalow,$67.00 
+29180120,2018-10-17,Saanich,Farm stay,$45.00 
+29189543,2018-10-17,Juan de Fuca,Guest suite,$185.00 
+29190561,2018-10-17,Saanich,Bed and breakfast,$168.00 
+29240138,2018-10-17,Saanich,House,$425.00 
+29256394,2018-10-17,Victoria,Apartment,$100.00 
+29276138,2018-10-17,Victoria,Guest suite,$100.00 
+29281664,2018-10-17,Esquimalt,House,$200.00 
+29284225,2018-10-17,Saanich,Bed and breakfast,$168.00 
+29306903,2018-10-17,Southern Gulf Islands,House,$54.00 
+29312308,2018-10-17,Saanich,House,$299.00 
+29313070,2018-10-17,Langford,Guest suite,$89.00 
