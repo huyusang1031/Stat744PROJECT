@@ -1,0 +1,470 @@
+---
+title: "Exploratory Analysis on Airbnb's Data in Victoria, BC"
+output: html_document
+author: "Chenxi Yu, Frank Cai, Yusang Hu"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+The market of Airbnb expanded rapidly in recent years.  The platform of Airbnb offers so many advantages to host, such as free listing, safe payment method, free registration, host protection insurance, etc. More and more people have been attracted to get involved in this new business. Victoria as one of the most popular cities for business and tourisms. It is a good idea to make an investment in properties in Victoria and then rent it out through Airbnb. We have found some datasets for the listing on Airbnb in Victoria on the website: Inside Airbnb. In our project, we are going to do some analysis based on this dataset. The main purpose of our project is to provide some information to investors who are thinking about to rent out their properties as a host on Airbnb.
+
+We have made 3 plots to answer the following questions:
+1.What is the rental price for each neighbourhood region in Victoria?
+2.Which region is more popular?
+3.What is the rental price for different room types in each region?
+4.How the rental price changed though the whole year (2018.09-2019.09)?
+5.Is the price change different for different room type or neighbourhood?
+
+## Data set
+
+Data Description
+Our data set is from the website: http://insideairbnb.com/get-the-data.html.
+This data set contains 80 attributes. And listing information from 2018.09 to 2019.09. Here, we focuses the following attributes:
+1.Neighbourhood_group_cleansed: which is a categorical variable, it indicates which neighbourhood region the listing belongs to.
+2.Room_type: which is a categorical variable, it indicates which weather the room for rent is a private room, entire home, hotel room or shared room.
+3.Property_type: this variable shows the type of property for rent. In our plot, we focus on the top 5 popular types: townhouse, house, apartment, loft and condominium.
+4.Price: the rental price.
+5.Longitude & latitude: which indicate the exact location of the property.
+6.Date
+
+## First Plot
+The first plot is an animate graph which shows the average price for 5 different property types in each neignbourhood from 2018-09 to 2019-09. Here, we combined 13 datasets into one and then calculated the average price for each property type for each neighborhood group.We selected data from the most popular 5 property types. The package "gganimate" is used to create the animate graph, "transite_reveal" function is used to make the graph change according to variable "date". we made a facet plot to display the neighbourhood groups individually.Different colors is used to represent different property types. 
+Here, the package "gifski" is a render to make a output in GIF format.
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(plotly)
+library(gganimate)
+library(gifski)
+library(png)
+
+dd1809 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2018-09.csv")
+dd1810 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2018-10.csv")
+dd1811 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2018-11.csv")
+dd1812 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2018-12.csv")
+dd1901 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-01.csv")
+dd1902 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-02.csv")
+dd1903 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-03.csv")
+dd1904 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-04.csv")
+dd1905 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-05.csv")
+dd1906 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-06.csv")
+dd1907 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-07.csv")
+dd1908 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-08.csv")
+dd1909 <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot1data/listings_2019-09.csv")
+
+dd1 <- rbind(dd1809,dd1810,dd1811,dd1812,dd1901,dd1902,dd1903,dd1904,dd1905,dd1906,dd1907,dd1908,dd1909)
+dd3 <- dd1%>%
+  mutate(price=as.numeric(price))%>%
+  mutate(neighbourhood=neighbourhood_group_cleansed)%>%
+  mutate(date=as.Date(last_scraped))%>%
+  group_by(property_type,last_scraped)%>%
+  mutate(avg_price = mean(price, na.rm=TRUE))%>%
+  filter(property_type %in% c("Apartment","House","Condominium","Townhouse", "Loft"))
+
+
+gg1 <- (ggplot(dd3, aes(x=property_type,y=avg_price, fill = reorder(property_type,-avg_price)))+
+         geom_col(position="dodge")+
+          scale_fill_discrete(name="Property Type")+
+          scale_y_continuous()+
+          transition_reveal(date)+
+          facet_wrap(~dd3$neighbourhood)+
+          theme(axis.title.x=element_blank(),
+                axis.text.x=element_blank(),
+                axis.ticks.x=element_blank())+
+          labs(title="Date:{frame_along}",y="Average Price")
+)
+gg1
+```
+
+
+
+
+
+## Second plot
+
+In the second plot, our main goal is showing the monthly average price fluctuation for each room type for each neighbourhood. We will use shiny and plotly in the first plot. First, we will do a data set clean up. We will delete all extremely high price because such kind of prices are looks abnormal; we will delete all listings that belong to 'hotel room', because it's a new room type that first appears on August, 2019, so it's too short to compare. Two input values are 'neighbrouhood group' and 'room type', uses can select any of 16 neighbourhood and 3 room type to see the average price fluctuation for each room type for each neighbourhood. In the main panel, we will draw an interactive graph which includes several lines, where month is the x-axis and average price is the y-axis. 16 neighbourhood will be distinguished by different colors, and 3 room types will be distinguished by different line type. For example, now we want to know the information of private room (assume dash line presents private room) in the first neighbourhood (assume red presents the first neighbourhood) in January, then a tooltip will be shown and display some useful information when we hover over the point which is above the label 'January' and on the red dash line. This interactive line plot can show some basic information for each room type for each neighbourhood, and it is easy to observe the trend of price fluctuation from Sep, 2018 to Sep, 2019. In the side panel, we will draw a bar plot where x-axis represents neighbourhood group, y-axis represents log-price difference in precentage between Sep, 2018 and Sep, 2019, and room types are distinguished by different colors. This bar plot can give some information that interactive line plot cannot give. For example, the only information that the interactive line plot can provide are a point's basic information (i.e. time, neighbourhood) and the trend of price fluctuation for each room type for each neighbourhood, it's very hard for interactive line plot to compare the price fluctuation if the trend of two or more lines are looks very similar, instead, bar plot will represent comparisons clearly. These two plots help potential renters to understand which room type or neighbourhood is worth to invest in.  Also, they help potential tenants to understand the Airbnb rental landscape in Victoria and therefore they are able to draw up a plan ahead of schedule. For example, if a single potential tenant plans to travel to Victoria, but hasn't decided the time yet, after looking at this plot, he can compare the average price for private room in each neighbourhood in each month, and then decides when to go and where to live.
+
+```{r}
+library(plotly)
+library(ggplot2)
+library(shiny)
+## 2018-09
+eight_sep=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings18-91.csv")
+avgprc1809=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1809[(i-1)*3+k]=mean(eight_sep$price[eight_sep$neighbourhood_group_cleansed==levels(eight_sep$neighbourhood_group_cleansed)[i]&eight_sep$room_type==levels(eight_sep$room_type)[k]])
+  }
+}
+neigh1809=c()
+for (i in 1:16){
+  for (k in 1:3){
+    neigh1809[(i-1)*3+k]=levels(eight_sep$neighbourhood_group_cleansed)[i]
+  }
+}
+roomtype1809=c()
+for (i in 1:16){
+  for (k in 1:3){
+    roomtype1809[(i-1)*3+k]=levels(eight_sep$room_type)[k]
+  }
+}
+
+
+## 2018-10
+eight_oct=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings18-101.csv")
+avgprc1810=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1810[(i-1)*3+k]=mean(eight_oct$price[eight_oct$neighbourhood_group_cleansed==levels(eight_oct$neighbourhood_group_cleansed)[i]&eight_oct$room_type==levels(eight_oct$room_type)[k]])
+  }
+}
+
+## 2018-11
+eight_nov=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings18-111.csv")
+avgprc1811=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1811[(i-1)*3+k]=mean(eight_nov$price[eight_nov$neighbourhood_group_cleansed==levels(eight_nov$neighbourhood_group_cleansed)[i]&eight_nov$room_type==levels(eight_nov$room_type)[k]])
+  }
+}
+
+## 2018-12
+eight_dec=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings18-121.csv")
+avgprc1812=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1812[(i-1)*3+k]=mean(eight_dec$price[eight_dec$neighbourhood_group_cleansed==levels(eight_dec$neighbourhood_group_cleansed)[i]&eight_dec$room_type==levels(eight_dec$room_type)[k]])
+  }
+}
+
+## 2019-01
+nine_jan=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-011.csv")
+avgprc1901=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1901[(i-1)*3+k]=mean(nine_jan$price[nine_jan$neighbourhood_group_cleansed==levels(nine_jan$neighbourhood_group_cleansed)[i]&nine_jan$room_type==levels(nine_jan$room_type)[k]])
+  }
+}
+
+## 2019-02
+nine_feb=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-021.csv")
+avgprc1902=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1902[(i-1)*3+k]=mean(nine_feb$price[nine_feb$neighbourhood_group_cleansed==levels(nine_feb$neighbourhood_group_cleansed)[i]&nine_feb$room_type==levels(nine_feb$room_type)[k]])
+  }
+}
+
+## 2019-03
+nine_mar=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-031.csv")
+avgprc1903=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1903[(i-1)*3+k]=mean(nine_mar$price[nine_mar$neighbourhood_group_cleansed==levels(nine_mar$neighbourhood_group_cleansed)[i]&nine_mar$room_type==levels(nine_mar$room_type)[k]])
+  }
+}
+
+## 2019-04
+nine_apr=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-041.csv")
+avgprc1904=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1904[(i-1)*3+k]=mean(nine_apr$price[nine_apr$neighbourhood_group_cleansed==levels(nine_apr$neighbourhood_group_cleansed)[i]&nine_apr$room_type==levels(nine_apr$room_type)[k]])
+  }
+}
+
+## 2019-05
+nine_may=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-051.csv")
+avgprc1905=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1905[(i-1)*3+k]=mean(nine_may$price[nine_may$neighbourhood_group_cleansed==levels(nine_may$neighbourhood_group_cleansed)[i]&nine_may$room_type==levels(nine_may$room_type)[k]])
+  }
+}
+
+## 2019-06
+nine_june=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-061.csv")
+avgprc1906=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1906[(i-1)*3+k]=mean(nine_june$price[nine_june$neighbourhood_group_cleansed==levels(nine_june$neighbourhood_group_cleansed)[i]&nine_june$room_type==levels(nine_june$room_type)[k]])
+  }
+}
+
+## 2019-07
+nine_jul=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-071.csv")
+avgprc1907=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1907[(i-1)*3+k]=mean(nine_jul$price[nine_jul$neighbourhood_group_cleansed==levels(nine_jul$neighbourhood_group_cleansed)[i]&nine_jul$room_type==levels(nine_jul$room_type)[k]])
+  }
+}
+
+## 2019-08
+nine_aug=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-081.csv")
+avgprc1908=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1908[(i-1)*3+k]=mean(nine_aug$price[nine_aug$neighbourhood_group_cleansed==levels(nine_aug$neighbourhood_group_cleansed)[i]&nine_aug$room_type==levels(nine_aug$room_type)[k]])
+  }
+}
+
+
+## 2019-09
+nine_sep=read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot2data/listings19-091.csv")
+avgprc1909=c()
+for (i in 1:16){
+  for (k in 1:3){
+    avgprc1909[(i-1)*3+k]=mean(nine_sep$price[nine_sep$neighbourhood_group_cleansed==levels(nine_sep$neighbourhood_group_cleansed)[i]&nine_sep$room_type==levels(nine_sep$room_type)[k]])
+  }
+}
+
+time=c(format(as.Date(eight_sep$last_scraped),"%Y-%m")[1:48],format(as.Date(eight_oct$last_scraped),"%Y-%m")[1:48],format(as.Date(eight_nov$last_scraped),"%Y-%m")[1:48],
+       format(as.Date(eight_dec$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_jan$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_feb$last_scraped),"%Y-%m")[1:48],
+       format(as.Date(nine_mar$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_apr$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_may$last_scraped),"%Y-%m")[1:48],
+       format(as.Date(nine_june$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_jul$last_scraped),"%Y-%m")[1:48],format(as.Date(nine_aug$last_scraped),"%Y-%m")[1:48],
+       format(as.Date(nine_sep$last_scraped),"%Y-%m")[1:48])
+neigh=c(neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809,neigh1809)
+roomtype=c(roomtype1809,roomtype1809,roomtype1809,roomtype1809,roomtype1809,roomtype1809,roomtype1809,roomtype1809,roomtype1809,
+           roomtype1809,roomtype1809,roomtype1809,roomtype1809)
+avgprc=c(avgprc1809,avgprc1810,avgprc1811,avgprc1812,avgprc1901,avgprc1902,avgprc1903,avgprc1904,avgprc1905,avgprc1906,avgprc1907,avgprc1908,avgprc1909)
+new=data.frame(time,neigh,roomtype,avgprc)
+
+logprc=c()
+for (i in 1:16){
+  for (k in 1:3){
+    logprc[(i-1)*3+k]=log(new$avgprc[new$neigh==levels(new$neigh)[i]&new$roomtype==levels(new$roomtype)[k]&new$time=="2019-09"])-
+      log(new$avgprc[new$neigh==levels(new$neigh)[i]&new$roomtype==levels(new$roomtype)[k]&new$time=="2018-09"])
+  }
+}
+logprc100=100*logprc
+new2=data.frame(neigh1809,roomtype1809,logprc100)
+
+
+ui<-fluidPage(
+  sidebarPanel(
+    h3("Please select a neighbourhood and a roomtype"),
+    selectizeInput(
+      inputId = "neighbour",
+      label=NULL,
+      choices=unique(new$neigh),
+      multiple=TRUE,
+      options=list(maxItems=16,placeholder='Select a neighbourhood')),
+    selectizeInput(
+      inputId = "type",
+      label=NULL,
+      choices = unique(new$roomtype),
+      multiple = TRUE,
+      options=list(maxItems=3,placeholder='select a roomtype')),
+    plotlyOutput("termplot",height="600px")
+  ),
+  mainPanel(
+    plotlyOutput("p",height="800px")
+  )
+)
+server<-function(input,output){
+  output$p<-renderPlotly({
+    nms=filter(new,neigh%in%input$neighbour,roomtype%in%input$type)
+    if (nrow(nms)==0) return(NULL)
+    finalplot<-ggplot(nms,aes(x=time,y=avgprc,color=neigh,linetype=roomtype,group=interaction(neigh,roomtype),
+                              text=paste('Time:',time,
+                                         '<br>Average price:',avgprc,
+                                         '<br>Neighbourhood group:',neigh,
+                                         '<br>Room type:',roomtype)))+
+      geom_line()+
+      geom_point()+
+      labs(x="Time",y="Average price")+
+      ggtitle("Trend of Monthly Average Price")+
+      theme(plot.title = element_text(face="bold",hjust=0.5),legend.title = element_blank(),
+            axis.text.x = element_text(angle=30,hjust=1))
+    finalplotly<-ggplotly(finalplot,tooltip=c('text'))
+#    layout(finalplotly,hovermode = 'x')
+  })
+  output$termplot<-renderPlotly({
+    nms2=filter(new2,neigh1809%in%input$neighbour,roomtype1809%in%input$type)
+    if (nrow(nms2)==0) return(NULL)
+    g2<-ggplot(nms2,aes(x=neigh1809,y=logprc100,fill=roomtype1809,
+                    text=paste('Neighbourhood group:',neigh1809,
+                               '<br>Room Type:',roomtype1809,
+                               '<br>Price Fluctuation(%):',logprc100)))+
+      geom_bar(stat="identity",position = "dodge")+
+      labs(x="Neighbourhood Group",y="Log-price difference(%)")+
+      ggtitle("Price Fluctuation")+
+      theme(plot.title=element_text(face="bold",hjust=0.5),legend.title = element_blank(),
+            axis.text.x = element_text(angle=30,hjust=1))
+    ggplotly(g2,tooltip=c('text'))
+  })
+}
+shinyApp(ui,server)
+```
+
+## Third plot
+
+Our interactive plot displays all the listings on a map. shiny and leaflet is used. Users can provide input through the choose neighborhood option. Here are the sixteen neighbourhoods, including Burnside, Central Stanch and Victoria West. For each chosen neighborhood or several neighbourhoods, we will show the average price for different room types. we use geom_bar to plot the mean price point for different room_type for a given selection of neighborhoods. Given chosen neighborhood, total listings for different room_types are also displayed. When users click on the listings points on the map, corresponding information will also show. For example, number of bedrooms and bathrooms. Note that  listing markers are clustered with a polygon. This is achieved through
+clusterOptions within addMarkers function from leaflet. There is also a heat map show the distribution of properties. It may be interesting to people find out the listing. To calculate the average price for different room_type, we first filter the data by room_type and then summarize with average price. To plot the heat map, we used heat map function from the leaflet.extras package. It might seem like the heat.colors is an appropriate color scheme. For the zoom parameter inside the setView option, maybe we can choose zoom=12.
+
+```{r}
+library(shiny)
+library(htmltools)
+library(leaflet)
+library(leaflet.extras)
+library(ggplot2)
+library(dplyr)
+library(RColorBrewer)
+
+df <- read.csv("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot3data/listing1909.csv")
+#df <- select(df,neighbourhood_group_cleansed, latitude, longitude, room_type, bathrooms, bedrooms, price)
+#is.na(df)
+df$lat <- df$latitude
+df$lon <- df$longitude
+df$price <- as.numeric(df$price)
+height <- max(df$latitude) - min(df$latitude)
+width <- max(df$longitude) - min(df$longitude)
+listings_borders <- c(bottom  = min(df$latitude)  - 0.02 * height, 
+                      top     = max(df$latitude)  + 0.02 * height,
+                      left    = min(df$longitude) - 0.02 * width,
+                      right   = max(df$longitude) + 0.02 * width)
+
+#map <- get_stamenmap(listings_borders, zoom = 10, maptype = "toner-lite")
+#ggmap(map)
+
+shinyApp(
+  ui <-  fluidPage(
+    headerPanel("Airbnb Victoria"),
+    sidebarPanel(
+      selectizeInput(inputId =  "Neighbourhood_group:",
+                     label="Neighbourhood",
+                     choices=  c("Langford"="Langford",
+                                 "Central Saanich" = "Central Saanich",
+                                 "Colwood" = "Colwood",
+                                 "Esquimalt"="Esquimalt",
+                                 "Highlands"="",
+                                 "Juan de Fuca"="Juan de Fuca",
+                                 "Metchosin"="Metchosin",
+                                 "North Saanich"="North Saanich",
+                                 "Oak Bay"="Oak Bay",
+                                 "Saanich"="Saanich",
+                                 "Salt Spring Island"="Salt Spring Island",
+                                 "Sidney" = "Sidney",
+                                 "Sooke"="Sooke",
+                                 "Southern Gulf Islands"="Southern Gulf Islands",
+                                 "Victoria" = "Victoria",
+                                 "View Royal"="View Royal"),
+                     multiple=TRUE,
+                     options=list(maxItems=16, placeholder='Select a neighbourhood')
+      ),
+      selectInput(inputId =  "yearmonth:",
+                  label="Year-Month",
+                  choices=  c("201909" = "1909",
+                              "201908" = "1908",
+                              "201907" = "1907",
+                              "201906" = "1906",
+                              "201905" = "1905",
+                              "201904" = "1904",
+                              "201903" = "1903",
+                              "201902" = "1902",
+                              "201901" = "1901",
+                              "201809" = "1809",
+                              "201810" = "1810",
+                              "201811" = "1811",
+                              "201812" = "1812"
+                  )
+      ),
+      br(),
+      verbatimTextOutput("summary1"),
+      br(),
+      #      verbatimTextOutput("summary2"),
+      br(),
+      plotOutput("listplot1")
+    ),
+    mainPanel(leafletOutput("map"),
+              br(),
+              br(),
+              plotOutput("priceplot1")
+    )
+  ),
+
+  server <-  function(input, output) {
+    # return the requested dataset
+    dat <- reactive({
+      #test <- subset(df, neighbourhood_group_cleansed==input$Neighbourhood_group)
+      #print(test)
+      df <- read.csv(paste0("https://raw.githubusercontent.com/huyusang1031/Stat744PROJECT/master/plot3data/listing",input$yearmonth,".csv"))
+      df$price <- as.numeric(df$price)
+      test <- filter(df, neighbourhood_group_cleansed %in% input$Neighbourhood_group)
+    })
+    #output$plot <- renderPlotly({
+    # ggplotly(ggplot(dat(),aes(x=longitude, y=latitude, 
+    #                           text=paste("reviews: ",number_of_reviews, 
+    #                                                      "<br>price: ",price))) + geom_point(),
+    #          tooltip="text")
+    #})
+    output$map <- renderLeaflet({
+      cen_lat <- (max(dat()$latitude) + min(dat()$latitude))/2
+      cen_lon <- (max(dat()$longitude) + min(dat()$longitude))/2
+      pal=colorNumeric("OrRd", domain=dat()$price)
+      # XT <- cbind(dat()$longitude, dat()$latitude)
+      # kde2d <- bkde2D(XT, bandwidth = c(bw.ucv(XT[,1]),bw.ucv(XT[,2])))
+      # x=kde2d$x1
+      # y=kde2d$x2
+      # z=kde2d$fhat
+      # CL=contourLines(x,y,z)
+      map1=leaflet(dat()) %>%
+        setView(lng=cen_lon, lat=cen_lat, zoom=14) %>%
+        addTiles() %>%
+        addMarkers(~longitude, ~latitude,
+                   #labelOptions = labelOptions(noHide = F),
+                   clusterOptions = markerClusterOptions(),
+                   popup = ~paste("room type:", room_type,"<br>",
+                                  "price:", price,"<br>",
+                                  "number of bedrooms:", bedrooms, "<br>",
+                                  "number of bathrooms:", bathrooms)
+        ) %>%
+        addProviderTiles(providers$Stamen.TonerLines, options=providerTileOptions(opacity = 0.2)) %>%
+        addProviderTiles("CartoDB.Positron.Position") 
+      map1 %>% addHeatmap(lng=~longitude, lat=~latitude, intensity=~price, gradient = 
+                            #                            heat.colors(20), 
+                            "OrRd",
+                          blur=20, max=100, radius=8) %>%
+        addLegend(pal=pal, values=~price, position="bottomright")
+
+    })
+    output$summary1 <- renderPrint({
+      dataset <- dat()
+      cat("Total listings:\n", nrow(dataset))
+    })
+    output$summary3 <- renderPrint({
+      dataset <- dat()
+      cat("Listings by room type:\n")
+      summary(dataset$room_type)
+    })
+    output$listplot1 <- renderPlot({
+      dataset <- dat()
+      ggplot(dataset,aes(x=room_type))+geom_bar() + 
+        xlab("room type") + 
+        ylab("number of listing")+theme_bw()
+    })
+    # output$priceplot1 <- renderPlot({
+    #   dataset <- dat() %>%
+    #     group_by(room_type) %>%
+    #     summarise(avg_price=mean(price))
+    #   ggplot(dataset,aes(x=room_type, y=avg_price))+geom_point() + xlab("room type") + 
+    #     ylab("average price")+theme_bw()
+    # })
+    output$priceplot1 <- renderPlot({
+      ggplot(dat(),aes(x=price)) +
+        geom_histogram(binwidth = 10,colour="black",fill="white")+ xlab("Price") +
+        scale_x_continuous(breaks=seq(0,300,20))+
+        ylab("Number")+theme_bw()+ggtitle("The distribution of price")+
+        geom_vline(aes(xintercept=mean(price,na.rm=T)), color="red", linetype="dashed",
+                   size=1)
+    })
+  }
+)
+```
+
