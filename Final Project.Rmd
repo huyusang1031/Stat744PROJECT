@@ -32,8 +32,9 @@ This data set contains 80 attributes. And listing information from 2018.09 to 20
 6.Date
 
 ## First Plot
-The first plot is an animate graph which shows the average price for 5 different property types in each neignbourhood from 2018-09 to 2019-09. Here, we combined 13 datasets into one and then calculated the average price for each property type for each neighborhood group.We selected data from the most popular 5 property types. The package "gganimate" is used to create the animate graph, "transite_reveal" function is used to make the graph change according to variable "date". we made a facet plot to display the neighbourhood groups individually.Different colors is used to represent different property types. 
+The first plot is an animate graph which shows the average price for 5 different property types in each neignbourhood from 2018-09 to 2019-09. Here, we combined 13 datasets into one and then calculated the average price for each property type for each neighborhood group.We selected data from the most popular 5 property types. The package "gganimate" is used to create the animate graph, "transition_reveal" function is used to make the graph change according to variable "date". we made a facet plot to display the neighbourhood groups individually.Different colors is used to represent different property types. 
 Here, the package "gifski" is a render to make a output in GIF format.
+
 ```{r}
 library(dplyr)
 library(ggplot2)
