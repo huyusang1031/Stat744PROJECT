@@ -11,3 +11,7 @@ Very little discussion of ordering of categories/facets, colour palettes chosen 
 There are still funny things about the plots that were mentioned in feedback but not corrected:
 
 * e.g. order of legend is different from order of bars in fig 1 (bars are still alphabetical)
+
+## JD
+
+I don't see the dataviz story, and I don't see effective responses to earlier comments.
